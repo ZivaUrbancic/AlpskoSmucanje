@@ -10,7 +10,7 @@ Osnovne podatke o tekmovalcih sem pobrala s strani [World Cup Athletes](http://w
   * narodnost
   * id na strani FIS
   
-__2. Rezultati__
+__2. Rezultati__  
 Podatke o rezultatih sem pobrala s strani z biografijo tekmovalca (npr. [Nadia Fanchini](http://data.fis-ski.com/dynamic/athlete-biography.html?sector=AL&listid=&competitorid=71263&type=result&rec_start=0&limit=100)).  Povezavo sem sestavila z id-jem tekmovalca. Zajeti podatki:
   * tekme, na katerih je športnik sodeloval
   * uvrstitve
