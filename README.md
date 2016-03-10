@@ -7,7 +7,6 @@ V tem repozitoriju je zajeta analiza podatkov o trenutno aktivnih alpskih smuča
 __1. Smučarji__  
 Osnovne podatke o tekmovalcih sem pobrala s strani [World Cup Athletes](http://www.fis-ski.com/alpine-skiing/athletes/). Zajeti podatki:
   * ime in priimek
-  * narodnost
   * id na strani FIS
   
 __2. Rezultati__  
@@ -26,3 +25,6 @@ Večinoma bom analizirala podatke za posamezne tekmovalce:
   * priljubljena prizorišča
 
 Ogledala si bom tudi vodilne v seštevkih posameznih disciplin, tekmovanja v kombinaciji, pretekle sezone in potek kariere.
+
+## Možne razširitve:
+Analiza opreme, drugih pokalov (analiziram le podatke za tekme svetovnega pokala), ekip (narodnosti) in smučarjev, ki so že zaključili profesionalno kariero.
