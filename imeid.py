@@ -2,6 +2,7 @@ import re
 import orodja
 tekme=[]
 tekmovalci=[]
+vse=[]
 
 def grange(st, ime):
     rec=0
@@ -31,13 +32,14 @@ def grange(st, ime):
             mesto='{}'.format(vnos.group('uvrstitev'))
             zaostanek='{}'.format(vnos.group('zaostanek'))
             tekme.append({'datum': datum, 'kraj': kraj, 'mesto': mesto, 'zaostanek': zaostanek, 'disciplina': disciplina})
+            vse.append({'datum': datum, 'kraj': kraj, 'mesto': mesto, 'zaostanek': zaostanek, 'disciplina': disciplina, 'id': st})
 
-        print (rec)
+        #print (rec)
         rec+=100
         ImamZadetke=(len (tekme) == rec)
-        print (ImamZadetke, len (tekme))
+        #print (ImamZadetke, len (tekme))
     orodja.zapisi_tabelo(tekme,['datum', 'kraj', 'disciplina', 'mesto', 'zaostanek'], 'csv-datoteke/{}.csv'.format(ime))
-    print ("Zajel sem stran in naredil csv za {}".format(ime))
+    #print ("Zajel sem stran in naredil csv za {}".format(ime))
 
 
 
@@ -46,7 +48,7 @@ def grange(st, ime):
 def zajemi_url():
     global tekme
     orodja.shrani('http://www.fis-ski.com/alpine-skiing/athletes/', 'zajete-strani/sportniki.html')
-    print("Zajemam ulr ... ")
+    #print("Zajemam ulr ... ")
     url = re.compile(
         r'<a href=..alpine-skiing.athletes\D+(?P<id>\d+).. alt=.(?P<ime>[\w| |-]+)'
     )
@@ -66,6 +68,7 @@ def zajemi_url():
     orodja.zapisi_tabelo(tekmovalci, ['id', 'ime', 'drzava', 'rojstvo', 'smuci'], 'csv-datoteke/smucarji.csv')
 
 zajemi_url()
+orodja.zapisi_tabelo(vse, ['id','datum', 'kraj', 'disciplina', 'mesto', 'zaostanek'], 'csv-datoteke/vse.csv')
 
 
 
