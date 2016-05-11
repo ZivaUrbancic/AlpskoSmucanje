@@ -1,113 +1,113 @@
-datum,kraj,disciplina,mesto,zaostanek
-19-03-2016,St. Moritz,Slalom,20,38.09
-06-03-2016,Jasna,Slalom,11,27.40
-15-02-2016,Crans Montana,Slalom,DNQ1,
-15-01-2016,Flachau,Slalom,16,18.33
-12-01-2016,Flachau,Slalom,13,21.48
-05-01-2016,Santa Caterina Valfurva,Slalom,DNF1,
-29-12-2015,Lienz,Slalom,DNF2,
-13-12-2015,Are,Slalom,23,26.45
-29-11-2015,"Aspen, CO",Slalom,DNF2,
-28-11-2015,"Aspen, CO",Slalom,16,42.13
-21-03-2015,Meribel,Slalom,12,11.79
-14-03-2015,Are,Slalom,19,25.62
-22-02-2015,Maribor,Slalom,16,15.69
-13-01-2015,Flachau,Slalom,DNF2,
-04-01-2015,Zagreb,Slalom,8,28.51
-29-12-2014,Kuehtai in Tirol,Slalom,DNF2,
-13-12-2014,Are,Slalom,6,5.28
-30-11-2014,Aspen,Slalom,13,16.61
-15-11-2014,Levi,Slalom,20,17.70
-15-03-2014,Lenzerheide,Slalom,9,15.33
-08-03-2014,Are,Slalom,16,27.90
-02-02-2014,Kranjska Gora,Slalom,8,4.28
-14-01-2014,Flachau,Slalom,17,16.17
-05-01-2014,Bormio,Slalom,DNF2,
-29-12-2013,Lienz,Slalom,7,7.94
-17-12-2013,Courchevel,Slalom,DNQ1,
-16-11-2013,Levi,Slalom,27,20.64
-10-03-2013,Ofterschwang,Slalom,17,16.70
-27-01-2013,Maribor,Slalom,18,17.80
-15-01-2013,Flachau,Slalom,DNQ1,
-04-01-2013,Zagreb,Slalom,DNF1,
-29-12-2012,Semmering,Slalom,13,16.70
-20-12-2012,Are,Slalom,19,20.48
-19-12-2012,Are,Giant Slalom,DNF1,
-25-11-2012,"Aspen, CO",Slalom,DNF1,
-10-11-2012,Levi,Slalom,16,13.89
-10-03-2012,Are,Slalom,DNF1,
-04-03-2012,Ofterschwang,Slalom,DNQ1,
-11-02-2012,Soldeu-Grandvalira,Slalom,DNQ1,
-22-01-2012,Kranjska Gora,Slalom,19,29.46
-03-01-2012,Zagreb,Slalom,DNQ1,
-29-12-2011,Lienz,Slalom,DNF1,
-20-12-2011,Flachau,Slalom,DNF1,
-18-12-2011,Courchevel,Slalom,DNQ1,
-27-11-2011,Aspen,Slalom,21,27.88
-12-03-2011,Spindleruv Mlyn,Slalom,27,22.61
-04-02-2011,Arber-Zwiesel,Slalom,DNQ1,
-11-01-2011,Flachau,Slalom,DNF1,
-04-01-2011,Zagreb,Slalom,DNF1,
-29-12-2010,Semmering,Slalom,25,23.91
-21-12-2010,Courchevel,Slalom,DNF1,
-28-11-2010,Aspen,Slalom,DNF1,
-13-03-2010,Garmisch Partenkirchen,Slalom,12,16.26
-17-01-2010,Maribor,Slalom,18,18.06
-12-01-2010,Flachau,Slalom,DNF1,
-03-01-2010,Zagreb,Slalom,DNF2,
-29-12-2009,Lienz,Slalom,DNF1,
-13-12-2009,Are,Slalom,10,16.85
-29-11-2009,Aspen,Slalom,DNF1,
-28-11-2009,Aspen,Giant Slalom,DNS1,
-14-11-2009,Levi,Slalom,13,17.16
-29-11-2008,Aspen,Giant Slalom,DNF1,
-15-11-2008,Levi,Slalom,17,15.95
-25-10-2008,Soelden,Giant Slalom,DNQ1,
-14-03-2008,Bormio,Slalom,5,1.84
-09-03-2008,Crans-Montana,Super Combined,DSQ2,
-15-02-2008,Zagreb-Sljeme,Slalom,DNF2,
-27-01-2008,Ofterschwang,Slalom,6,3.93
-13-01-2008,Maribor,Slalom,9,10.74
-12-01-2008,Maribor,Giant Slalom,DNQ2,
-06-01-2008,Spindleruv Mlyn,Slalom,27,77.49
-05-01-2008,Spindleruv Mlyn,Giant Slalom,DNQ1,
-29-12-2007,Lienz,Slalom,1,0.00
-22-12-2007,St. Anton/Arlberg,Super Combined,DNF2,
-09-12-2007,"Aspen, CO",Slalom,DNF1,
-25-11-2007,"Panorama, BC",Slalom,7,9.95
-10-11-2007,Reiteralm,Slalom,3,1.58
-17-03-2007,Lenzerheide,Slalom,DNF1,
-11-03-2007,Zwiesel,Slalom,DNF1,
-02-03-2007,Tarvisio,Super Combined,DNF,
-25-02-2007,Sierra Nevada,Slalom,9,9.66
-24-02-2007,Sierra Nevada,Giant Slalom,DNQ1,
-07-01-2007,Kranjska Gora,Slalom,DNQ2,
-06-01-2007,Kranjska Gora,Giant Slalom,DNF1,
-04-01-2007,Zagreb-Sljeme,Slalom,4,10.32
-29-12-2006,Semmering,Slalom,5,8.37
-28-12-2006,Semmering,Giant Slalom,DNF1,
-21-12-2006,Val d'Isere,Slalom,DNF2,
-26-11-2006,"Aspen, CO",Slalom,11,15.19
-25-11-2006,"Aspen, CO",Giant Slalom,DNF2,
-11-11-2006,Levi,Slalom,DNF1,
-17-03-2006,Are,Slalom,DNF1,
-11-03-2006,Levi,Slalom,5,11.83
-10-03-2006,Levi,Slalom,8,24.30
-05-02-2006,Ofterschwang,Slalom,9,13.91
-03-02-2006,Ofterschwang,Giant Slalom,DNF1,
-08-01-2006,Maribor,Slalom,DNF2,
-05-01-2006,Zagreb-Sljeme,Slalom,15,21.12
-29-12-2005,Lienz,Slalom,10,20.20
-22-12-2005,Spindleruv Mlyn,Slalom,20,21.69
-21-12-2005,Spindleruv Mlyn,Giant Slalom,DNQ1,
-11-12-2005,"Aspen, CO",Slalom,8,11.19
-10-12-2005,"Aspen, CO",Giant Slalom,DNQ2,
-23-01-2005,Maribor,Slalom,DNF1,
-20-01-2005,Zagreb-Sljeme,Slalom,DNF1,
-09-01-2005,Santa Caterina,Slalom,DNQ1,
-29-12-2004,Semmering,Slalom,15,28.59
-12-12-2004,Altenmarkt-Zauchensee,Slalom,DNQ2,
-28-11-2004,"Aspen, CO",Slalom,DNF2,
-27-11-2004,"Aspen, CO",Slalom,DNF1,
-29-12-2002,Semmering,Slalom,DNQ1,
-22-12-2002,Lenzerheide,Slalom,DNQ1,
+datum,kraj,disciplina,mesto
+19-03-2016,St. Moritz,Slalom,20
+06-03-2016,Jasna,Slalom,11
+15-02-2016,Crans Montana,Slalom,DNQ1
+15-01-2016,Flachau,Slalom,16
+12-01-2016,Flachau,Slalom,13
+05-01-2016,Santa Caterina Valfurva,Slalom,DNF1
+29-12-2015,Lienz,Slalom,DNF2
+13-12-2015,Are,Slalom,23
+29-11-2015,"Aspen, CO",Slalom,DNF2
+28-11-2015,"Aspen, CO",Slalom,16
+21-03-2015,Meribel,Slalom,12
+14-03-2015,Are,Slalom,19
+22-02-2015,Maribor,Slalom,16
+13-01-2015,Flachau,Slalom,DNF2
+04-01-2015,Zagreb,Slalom,8
+29-12-2014,Kuehtai in Tirol,Slalom,DNF2
+13-12-2014,Are,Slalom,6
+30-11-2014,Aspen,Slalom,13
+15-11-2014,Levi,Slalom,20
+15-03-2014,Lenzerheide,Slalom,9
+08-03-2014,Are,Slalom,16
+02-02-2014,Kranjska Gora,Slalom,8
+14-01-2014,Flachau,Slalom,17
+05-01-2014,Bormio,Slalom,DNF2
+29-12-2013,Lienz,Slalom,7
+17-12-2013,Courchevel,Slalom,DNQ1
+16-11-2013,Levi,Slalom,27
+10-03-2013,Ofterschwang,Slalom,17
+27-01-2013,Maribor,Slalom,18
+15-01-2013,Flachau,Slalom,DNQ1
+04-01-2013,Zagreb,Slalom,DNF1
+29-12-2012,Semmering,Slalom,13
+20-12-2012,Are,Slalom,19
+19-12-2012,Are,Giant Slalom,DNF1
+25-11-2012,"Aspen, CO",Slalom,DNF1
+10-11-2012,Levi,Slalom,16
+10-03-2012,Are,Slalom,DNF1
+04-03-2012,Ofterschwang,Slalom,DNQ1
+11-02-2012,Soldeu-Grandvalira,Slalom,DNQ1
+22-01-2012,Kranjska Gora,Slalom,19
+03-01-2012,Zagreb,Slalom,DNQ1
+29-12-2011,Lienz,Slalom,DNF1
+20-12-2011,Flachau,Slalom,DNF1
+18-12-2011,Courchevel,Slalom,DNQ1
+27-11-2011,Aspen,Slalom,21
+12-03-2011,Spindleruv Mlyn,Slalom,27
+04-02-2011,Arber-Zwiesel,Slalom,DNQ1
+11-01-2011,Flachau,Slalom,DNF1
+04-01-2011,Zagreb,Slalom,DNF1
+29-12-2010,Semmering,Slalom,25
+21-12-2010,Courchevel,Slalom,DNF1
+28-11-2010,Aspen,Slalom,DNF1
+13-03-2010,Garmisch Partenkirchen,Slalom,12
+17-01-2010,Maribor,Slalom,18
+12-01-2010,Flachau,Slalom,DNF1
+03-01-2010,Zagreb,Slalom,DNF2
+29-12-2009,Lienz,Slalom,DNF1
+13-12-2009,Are,Slalom,10
+29-11-2009,Aspen,Slalom,DNF1
+28-11-2009,Aspen,Giant Slalom,DNS1
+14-11-2009,Levi,Slalom,13
+29-11-2008,Aspen,Giant Slalom,DNF1
+15-11-2008,Levi,Slalom,17
+25-10-2008,Soelden,Giant Slalom,DNQ1
+14-03-2008,Bormio,Slalom,5
+09-03-2008,Crans-Montana,Super Combined,DSQ2
+15-02-2008,Zagreb-Sljeme,Slalom,DNF2
+27-01-2008,Ofterschwang,Slalom,6
+13-01-2008,Maribor,Slalom,9
+12-01-2008,Maribor,Giant Slalom,DNQ2
+06-01-2008,Spindleruv Mlyn,Slalom,27
+05-01-2008,Spindleruv Mlyn,Giant Slalom,DNQ1
+29-12-2007,Lienz,Slalom,1
+22-12-2007,St. Anton/Arlberg,Super Combined,DNF2
+09-12-2007,"Aspen, CO",Slalom,DNF1
+25-11-2007,"Panorama, BC",Slalom,7
+10-11-2007,Reiteralm,Slalom,3
+17-03-2007,Lenzerheide,Slalom,DNF1
+11-03-2007,Zwiesel,Slalom,DNF1
+02-03-2007,Tarvisio,Super Combined,DNF
+25-02-2007,Sierra Nevada,Slalom,9
+24-02-2007,Sierra Nevada,Giant Slalom,DNQ1
+07-01-2007,Kranjska Gora,Slalom,DNQ2
+06-01-2007,Kranjska Gora,Giant Slalom,DNF1
+04-01-2007,Zagreb-Sljeme,Slalom,4
+29-12-2006,Semmering,Slalom,5
+28-12-2006,Semmering,Giant Slalom,DNF1
+21-12-2006,Val d'Isere,Slalom,DNF2
+26-11-2006,"Aspen, CO",Slalom,11
+25-11-2006,"Aspen, CO",Giant Slalom,DNF2
+11-11-2006,Levi,Slalom,DNF1
+17-03-2006,Are,Slalom,DNF1
+11-03-2006,Levi,Slalom,5
+10-03-2006,Levi,Slalom,8
+05-02-2006,Ofterschwang,Slalom,9
+03-02-2006,Ofterschwang,Giant Slalom,DNF1
+08-01-2006,Maribor,Slalom,DNF2
+05-01-2006,Zagreb-Sljeme,Slalom,15
+29-12-2005,Lienz,Slalom,10
+22-12-2005,Spindleruv Mlyn,Slalom,20
+21-12-2005,Spindleruv Mlyn,Giant Slalom,DNQ1
+11-12-2005,"Aspen, CO",Slalom,8
+10-12-2005,"Aspen, CO",Giant Slalom,DNQ2
+23-01-2005,Maribor,Slalom,DNF1
+20-01-2005,Zagreb-Sljeme,Slalom,DNF1
+09-01-2005,Santa Caterina,Slalom,DNQ1
+29-12-2004,Semmering,Slalom,15
+12-12-2004,Altenmarkt-Zauchensee,Slalom,DNQ2
+28-11-2004,"Aspen, CO",Slalom,DNF2
+27-11-2004,"Aspen, CO",Slalom,DNF1
+29-12-2002,Semmering,Slalom,DNQ1
+22-12-2002,Lenzerheide,Slalom,DNQ1

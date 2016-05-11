@@ -1,23 +1,23 @@
-datum,kraj,disciplina,mesto,zaostanek
-26-01-2016,Schladming,Slalom,DNF1,
-24-01-2016,Kitzbuehel,Slalom,DNS1,
-17-01-2016,Wengen,Slalom,DNQ1,
-10-01-2016,Adelboden,Slalom,DNQ1,
-06-01-2016,Santa Caterina Valfurva,Slalom,DNQ1,
-22-12-2015,Madonna di Campiglio,Slalom,DNQ1,
-13-12-2015,Val d'IsÃ¨re,Slalom,DNQ1,
-15-03-2015,Kranjska Gora,Slalom,DNQ1,
-27-01-2015,Schladming,Slalom,DNQ1,
-25-01-2015,Kitzbuehel,Slalom,DNF1,
-17-01-2015,Wengen,Slalom,DNF1,
-11-01-2015,Adelboden,Slalom,DNF1,
-06-01-2015,Zagreb,Slalom,21,32.16
-22-12-2014,Madonna di Campiglio,Slalom,DNQ1,
-14-12-2014,Are,Slalom,DNS1,
-12-12-2014,Are,Giant Slalom,DNF1,
-16-11-2014,Levi,Slalom,DNQ1,
-09-03-2014,Kranjska Gora,Slalom,DNQ1,
-28-01-2014,Schladming,Slalom,DNQ1,
-24-01-2014,Kitzbuehel,Slalom,DNF1,
-19-01-2014,Wengen,Slalom,DNQ1,
-13-01-2013,Adelboden,Slalom,DNF1,
+datum,kraj,disciplina,mesto
+26-01-2016,Schladming,Slalom,DNF1
+24-01-2016,Kitzbuehel,Slalom,DNS1
+17-01-2016,Wengen,Slalom,DNQ1
+10-01-2016,Adelboden,Slalom,DNQ1
+06-01-2016,Santa Caterina Valfurva,Slalom,DNQ1
+22-12-2015,Madonna di Campiglio,Slalom,DNQ1
+13-12-2015,Val d'IsÃ¨re,Slalom,DNQ1
+15-03-2015,Kranjska Gora,Slalom,DNQ1
+27-01-2015,Schladming,Slalom,DNQ1
+25-01-2015,Kitzbuehel,Slalom,DNF1
+17-01-2015,Wengen,Slalom,DNF1
+11-01-2015,Adelboden,Slalom,DNF1
+06-01-2015,Zagreb,Slalom,21
+22-12-2014,Madonna di Campiglio,Slalom,DNQ1
+14-12-2014,Are,Slalom,DNS1
+12-12-2014,Are,Giant Slalom,DNF1
+16-11-2014,Levi,Slalom,DNQ1
+09-03-2014,Kranjska Gora,Slalom,DNQ1
+28-01-2014,Schladming,Slalom,DNQ1
+24-01-2014,Kitzbuehel,Slalom,DNF1
+19-01-2014,Wengen,Slalom,DNQ1
+13-01-2013,Adelboden,Slalom,DNF1

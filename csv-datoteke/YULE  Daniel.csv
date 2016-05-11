@@ -1,33 +1,33 @@
-datum,kraj,disciplina,mesto,zaostanek
-20-03-2016,St. Moritz,Slalom,11,8.47
-06-03-2016,Kranjska Gora,Slalom,16,14.10
-14-02-2016,Yuzawa Naeba,Slalom,9,6.36
-26-01-2016,Schladming,Slalom,13,12.05
-24-01-2016,Kitzbuehel,Slalom,DNF2,
-17-01-2016,Wengen,Slalom,DNF2,
-10-01-2016,Adelboden,Slalom,13,12.16
-06-01-2016,Santa Caterina Valfurva,Slalom,6,7.86
-22-12-2015,Madonna di Campiglio,Slalom,11,18.48
-13-12-2015,Val d'IsÃ¨re,Slalom,9,20.32
-22-03-2015,Meribel,Slalom,DNF1,
-15-03-2015,Kranjska Gora,Slalom,11,12.30
-27-01-2015,Schladming,Slalom,10,17.32
-25-01-2015,Kitzbuehel,Slalom,17,14.60
-17-01-2015,Wengen,Slalom,20,19.19
-11-01-2015,Adelboden,Slalom,DNF1,
-06-01-2015,Zagreb,Slalom,10,13.91
-22-12-2014,Madonna di Campiglio,Slalom,23,21.69
-14-12-2014,Are,Slalom,14,12.63
-16-11-2014,Levi,Slalom,10,14.28
-09-03-2014,Kranjska Gora,Slalom,DNF1,
-28-01-2014,Schladming,Slalom,DNQ1,
-24-01-2014,Kitzbuehel,Slalom,7,7.56
-19-01-2014,Wengen,Slalom,DNF2,
-12-01-2014,Adelboden,Slalom,DNQ1,
-06-01-2014,Bormio,Slalom,17,10.82
-15-12-2013,Val d'Isere,Slalom,DNF1,
-17-11-2013,Levi,Slalom,DNQ1,
-10-03-2013,Kranjska Gora,Slalom,DNQ1,
-13-01-2013,Adelboden,Slalom,DNF1,
-11-11-2012,Levi,Slalom,DNQ1,
-22-01-2012,Kitzbuehel,Slalom,DNF1,
+datum,kraj,disciplina,mesto
+20-03-2016,St. Moritz,Slalom,11
+06-03-2016,Kranjska Gora,Slalom,16
+14-02-2016,Yuzawa Naeba,Slalom,9
+26-01-2016,Schladming,Slalom,13
+24-01-2016,Kitzbuehel,Slalom,DNF2
+17-01-2016,Wengen,Slalom,DNF2
+10-01-2016,Adelboden,Slalom,13
+06-01-2016,Santa Caterina Valfurva,Slalom,6
+22-12-2015,Madonna di Campiglio,Slalom,11
+13-12-2015,Val d'IsÃ¨re,Slalom,9
+22-03-2015,Meribel,Slalom,DNF1
+15-03-2015,Kranjska Gora,Slalom,11
+27-01-2015,Schladming,Slalom,10
+25-01-2015,Kitzbuehel,Slalom,17
+17-01-2015,Wengen,Slalom,20
+11-01-2015,Adelboden,Slalom,DNF1
+06-01-2015,Zagreb,Slalom,10
+22-12-2014,Madonna di Campiglio,Slalom,23
+14-12-2014,Are,Slalom,14
+16-11-2014,Levi,Slalom,10
+09-03-2014,Kranjska Gora,Slalom,DNF1
+28-01-2014,Schladming,Slalom,DNQ1
+24-01-2014,Kitzbuehel,Slalom,7
+19-01-2014,Wengen,Slalom,DNF2
+12-01-2014,Adelboden,Slalom,DNQ1
+06-01-2014,Bormio,Slalom,17
+15-12-2013,Val d'Isere,Slalom,DNF1
+17-11-2013,Levi,Slalom,DNQ1
+10-03-2013,Kranjska Gora,Slalom,DNQ1
+13-01-2013,Adelboden,Slalom,DNF1
+11-11-2012,Levi,Slalom,DNQ1
+22-01-2012,Kitzbuehel,Slalom,DNF1

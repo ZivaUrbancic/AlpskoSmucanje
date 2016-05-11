@@ -1,272 +1,273 @@
-datum,kraj,disciplina,mesto,zaostanek
-18-03-2015,Meribel,Downhill,6,10.15
-08-03-2015,Garmisch Partenkirchen,Super G,26,37.34
-07-03-2015,Garmisch Partenkirchen,Downhill,16,25.14
-02-03-2015,Bansko,Super G,19,33.45
-01-03-2015,Bansko,Alpine combined,DNF1,
-25-01-2015,St.Moritz,Super G,DSQ1,
-24-01-2015,St.Moritz,Downhill,7,13.73
-19-01-2015,Cortina d'Ampezzo,Super G,18,32.39
-18-01-2015,Cortina d'Ampezzo,Downhill,21,25.47
-16-01-2015,Cortina d'Ampezzo,Downhill,14,17.62
-21-12-2014,Val d Isere,Super G,24,34.64
-20-12-2014,Val d Isere,Downhill,23,21.06
-07-12-2014,Lake Louise,Super G,18,24.64
-06-12-2014,Lake Louise,Downhill,30,28.29
-05-12-2014,Lake Louise,Downhill,16,16.11
-25-10-2014,Soelden,Giant Slalom,DNF1,
-12-03-2014,Lenzerheide,Downhill,21,56.69
-02-03-2014,Crans Montana,Downhill,24,41.39
-26-01-2014,Cortina d Ampezzo,Super G,DNF1,
-25-01-2014,Cortina d Ampezzo,Downhill,21,18.35
-24-01-2014,Cortina d Ampezzo,Downhill,22,29.57
-23-01-2014,Cortina d Ampezzo,Super G,30,29.29
-12-01-2014,Altenmarkt / Zauchensee,Super Combined,DNF1,
-11-01-2014,Altenmarkt / Zauchensee,Downhill,7,14.54
-22-12-2013,Val d'Isere,Giant Slalom,DNQ1,
-21-12-2013,Val d'Isere,Downhill,19,22.48
-15-12-2013,St. Moritz,Giant Slalom,DNQ1,
-14-12-2013,St. Moritz,Super G,13,21.44
-08-12-2013,Lake Louise,Super G,36,33.83
-07-12-2013,Lake Louise,Downhill,27,24.40
-06-12-2013,Lake Louise,Downhill,9,20.43
-01-12-2013,Beaver Creek,Giant Slalom,DNS1,
-30-11-2013,Beaver Creek,Super G,25,37.89
-29-11-2013,Beaver Creek,Downhill,33,45.87
-26-10-2013,Soelden,Giant Slalom,DNQ1,
-09-03-2013,Ofterschwang,Giant Slalom,DNQ1,
-03-03-2013,Garmisch-Partenkirchen,Super G,21,22.58
-02-03-2013,Garmisch-Partenkirchen,Downhill,22,29.32
-01-03-2013,Garmisch-Partenkirchen,Super G,6,4.34
-23-02-2013,Meribel,Downhill,1,0.00
-26-01-2013,Maribor,Giant Slalom,DNQ1,
-20-01-2013,Cortina d'Ampezzo,Super G,4,7.28
-19-01-2013,Cortina d'Ampezzo,Downhill,10,24.40
-13-01-2013,St. Anton,Super G,37,50.61
-12-01-2013,St. Anton,Downhill,24,21.66
-28-12-2012,Semmering,Giant Slalom,DNQ1,
-19-12-2012,Are,Giant Slalom,DNQ1,
-16-12-2012,Courchevel,Giant Slalom,DNQ1,
-14-12-2012,Val d'Isere,Downhill,21,27.66
-09-12-2012,St. Moritz,Giant Slalom,DNQ1,
-08-12-2012,St. Moritz,Super G,19,36.17
-07-12-2012,St. Moritz,Super Combined,DNF1,
-02-12-2012,Lake Louise,Super G,15,24.85
-01-12-2012,Lake Louise,Downhill,30,37.13
-30-11-2012,Lake Louise,Downhill,15,31.87
-24-11-2012,"Aspen, CO",Giant Slalom,20,25.64
-27-10-2012,Soelden,Giant Slalom,16,31.45
-15-03-2012,Schladming,Super G,22,27.71
-26-02-2012,Bansko,Super G,25,35.73
-18-02-2012,Sochi,Downhill,36,48.85
-12-02-2012,Soldeu-Grandvalira,Giant Slalom,DNQ1,
-05-02-2012,Garmisch-Partenkirchen,Super G,15,17.91
-04-02-2012,Garmisch-Partenkirchen,Downhill,27,39.45
-29-01-2012,St. Moritz,Super Combined,DNF1,
-28-01-2012,St. Moritz,Downhill,15,33.62
-27-01-2012,St. Moritz,Super Combined,DNS2,
-15-01-2012,Cortina d'Ampezzo,Super G,29,41.58
-14-01-2012,Cortina d'Ampezzo,Downhill,25,30.12
-08-01-2012,Bad Kleinkirchheim,Super G,22,25.45
-07-01-2012,Bad Kleinkirchheim,Downhill,13,18.89
-28-12-2011,Lienz,Giant Slalom,DNQ1,
-07-12-2011,Beaver Creek,Super G,35,55.19
-04-12-2011,Lake Louise,Super G,14,23.13
-03-12-2011,Lake Louise,Downhill,DNF1,
-02-12-2011,Lake Louise,Downhill,36,44.65
-22-10-2011,Soelden,Giant Slalom,DNQ1,
-06-03-2011,Tarvisio,Super G,9,12.32
-05-03-2011,Tarvisio,Downhill,16,33.21
-04-03-2011,Tarvisio,Super Combined,DNS2,
-27-02-2011,Are,Super G,27,30.54
-26-02-2011,Are,Downhill,19,29.39
-25-02-2011,Are,Super Combined,DNS2,
-23-01-2011,Cortina d Ampezzo,Super G,17,29.50
-22-01-2011,Cortina d Ampezzo,Downhill,30,50.90
-21-01-2011,Cortina d Ampezzo,Super G,28,27.81
-09-01-2011,Zauchensee,Super G,DNF1,
-08-01-2011,Zauchensee,Downhill,22,30.25
-18-12-2010,Val d'Isere,Downhill,DNF1,
-05-12-2010,Lake Louise,Super G,11,31.39
-04-12-2010,Lake Louise,Downhill,31,36.52
-03-12-2010,Lake Louise,Downhill,36,42.16
-07-03-2010,Crans Montana,Super G,DSQ1,
-06-03-2010,Crans Montana,Downhill,30,29.93
-31-01-2010,St. Moritz,Super G,DNF1,
-30-01-2010,St. Moritz,Downhill,14,25.67
-29-01-2010,St. Moritz,Super Combined,DNS2,
-24-01-2010,Cortina d'Ampezzo,Giant Slalom,DNF1,
-23-01-2010,Cortina d'Ampezzo,Downhill,18,25.81
-22-01-2010,Cortina d'Ampezzo,Super G,26,29.18
-10-01-2010,Haus im Ennstal,Super G,20,28.98
-09-01-2010,Haus im Ennstal,Downhill,31,25.59
-08-01-2010,Haus im Ennstal,Downhill,36,34.19
-20-12-2009,Val d'Isere,Super G,33,31.52
-18-12-2009,Val d'Isere,Super Combined,DNS2,
-06-12-2009,Lake Louise,Super G,34,33.00
-05-12-2009,Lake Louise,Downhill,49,47.61
-04-12-2009,Lake Louise,Downhill,38,44.60
-24-10-2009,Soelden,Giant Slalom,DNQ1,
-01-03-2009,Bansko,Super G,DNF1,
-28-02-2009,Bansko,Downhill,24,52.27
-27-02-2009,Bansko,Downhill,20,46.59
-22-02-2009,Tarvisio,Super G,30,20.88
-21-02-2009,Tarvisio,Downhill,42,36.43
-20-02-2009,Tarvisio,Super Combined,DNS2,
-01-02-2009,Garmisch Partenkirchen,Super G,11,16.51
-26-01-2009,Cortina d'Ampezzo,Super G,17,19.30
-25-01-2009,Cortina d'Ampezzo,Giant Slalom,DNQ1,
-24-01-2009,Cortina d'Ampezzo,Downhill,7,7.37
-18-01-2009,Altenmarkt-Zauchensee,Downhill,31,24.31
-17-01-2009,Altenmarkt-Zauchensee,Super Combined,29,47.43
-28-12-2008,Semmering,Giant Slalom,DNQ1,
-20-12-2008,St. Moritz,Super G,DNF1,
-19-12-2008,St. Moritz,Super Combined,DNF1,
-13-12-2008,La Molina,Giant Slalom,DNF1,
-07-12-2008,Lake Louise,Super G,28,22.26
-05-12-2008,Lake Louise,Downhill,27,31.12
-25-10-2008,Soelden,Giant Slalom,DNQ1,
-13-03-2008,Bormio,Super G,26,25.66
-08-03-2008,Crans-Montana,Downhill,34,37.48
-24-02-2008,"Whistler, BC",Super Combined,DNF1,
-22-02-2008,"Whistler, BC",Downhill,10,8.59
-10-02-2008,Sestriere,Super G,17,18.42
-09-02-2008,Sestriere,Downhill,33,33.18
-03-02-2008,St. Moritz,Super G,35,24.09
-02-02-2008,St. Moritz,Downhill,26,29.62
-21-01-2008,Cortina d'Ampezzo,Super G,20,16.34
-20-01-2008,Cortina d'Ampezzo,Super G,8,5.84
-19-01-2008,Cortina d'Ampezzo,Downhill,15,30.16
-12-01-2008,Maribor,Giant Slalom,DSQ1,
-22-12-2007,St. Anton/Arlberg,Super Combined,DNS1,
-21-12-2007,St. Anton/Arlberg,Downhill,21,33.75
-16-12-2007,St. Moritz,Super G,25,21.13
-15-12-2007,St. Moritz,Downhill,19,27.46
-08-12-2007,"Aspen, CO",Downhill,7,12.74
-02-12-2007,"Lake Louise, AB",Super G,23,22.03
-01-12-2007,"Lake Louise, AB",Downhill,14,28.32
-24-11-2007,"Panorama, BC",Giant Slalom,DNQ2,
-27-10-2007,Soelden,Giant Slalom,23,14.32
-04-03-2007,Tarvisio,Super G,16,24.22
-03-03-2007,Tarvisio,Downhill,13,14.14
-02-03-2007,Tarvisio,Super Combined,DNS,
-24-02-2007,Sierra Nevada,Giant Slalom,DNQ1,
-28-01-2007,San Sicario,Super G,34,32.37
-27-01-2007,San Sicario,Downhill,25,42.20
-26-01-2007,San Sicario,Super G,14,23.78
-21-01-2007,Cortina d'Ampezzo,Giant Slalom,DNF1,
-20-01-2007,Cortina d'Ampezzo,Downhill,DNF1,
-19-01-2007,Cortina d'Ampezzo,Super G,35,36.61
-13-01-2007,Altenmarkt-Zauchensee,Downhill,21,31.66
-06-01-2007,Kranjska Gora,Giant Slalom,DNQ2,
-28-12-2006,Semmering,Giant Slalom,28,27.18
-20-12-2006,Val d'Isere,Downhill,20,41.30
-19-12-2006,Val d'Isere,Downhill,34,39.98
-16-12-2006,Reiteralm,Super G,20,27.10
-15-12-2006,Reiteralm,Super Combined,DNF1,
-03-12-2006,"Lake Louise, AB",Super G,22,29.55
-02-12-2006,"Lake Louise, AB",Downhill,20,37.46
-01-12-2006,"Lake Louise, AB",Downhill,44,44.87
-25-11-2006,"Aspen, CO",Giant Slalom,DNQ1,
-29-01-2006,Cortina d'Ampezzo,Giant Slalom,DNQ1,
-28-01-2006,Cortina d'Ampezzo,Downhill,33,43.22
-27-01-2006,Cortina d'Ampezzo,Super G,39,45.56
-22-01-2006,St. Moritz,Super Combined,DNS,
-21-01-2006,St. Moritz,Downhill,62,53.43
-20-01-2006,St. Moritz,Super G,22,26.39
-15-01-2006,Bad Kleinkirchheim,Super G,26,24.66
-14-01-2006,Bad Kleinkirchheim,Downhill,46,76.27
-13-01-2006,Bad Kleinkirchheim,Downhill,50,59.04
-28-12-2005,Lienz,Giant Slalom,DNQ1,
-21-12-2005,Spindleruv Mlyn,Giant Slalom,DNF1,
-18-12-2005,Val d'Isere,Super G,43,33.02
-17-12-2005,Val d'Isere,Downhill,DNS1,
-11-12-2005,"Aspen, CO",Slalom,DNF1,
-10-12-2005,"Aspen, CO",Giant Slalom,DNQ2,
-09-12-2005,"Aspen, CO",Super G,36,34.59
-04-12-2005,"Lake Louise, AB",Super G,32,30.06
-03-12-2005,"Lake Louise, AB",Downhill,57,52.67
-02-12-2005,"Lake Louise, AB",Downhill,32,28.49
-22-10-2005,Soelden,Giant Slalom,DNQ1,
-25-02-2005,San Sicario,Super G,21,16.80
-20-02-2005,Are,Giant Slalom,DNQ2,
-19-02-2005,Are,Super G,34,38.87
-14-01-2005,Cortina d'Ampezzo,Super G,42,46.55
-12-01-2005,Cortina d'Ampezzo,Super G,DNF1,
-08-01-2005,Santa Caterina,Giant Slalom,DNF1,
-28-12-2004,Semmering,Giant Slalom,DNQ1,
-22-12-2004,St. Moritz,Giant Slalom,DNQ2,
-21-12-2004,St. Moritz,Super G,17,17.37
-11-12-2004,Altenmarkt-Zauchensee,Super G,DNF1,
-23-10-2004,Soelden,Giant Slalom,DNQ2,
-22-02-2004,Are,Giant Slalom,DNQ1,
-21-02-2004,Are,Super G,40,45.30
-17-01-2004,Cortina d'Ampezzo,Downhill,46,41.42
-16-01-2004,Cortina d'Ampezzo,Super G,37,32.63
-14-01-2004,Cortina d'Ampezzo,Super G,47,39.71
-11-01-2004,Veysonnaz,Super G,42,41.57
-04-01-2004,Megeve,Super G,DNF1,
-08-03-2003,Are,Slalom,DNQ1,
-06-03-2003,Are,Giant Slalom,DNQ1,
-02-03-2003,Innsbruck,Super G,34,31.27
-01-03-2003,Innsbruck,Downhill,44,58.57
-28-02-2003,Innsbruck,Super G,DSQ1,
-19-01-2003,Cortina d'Ampezzo,Giant Slalom,DNQ1,
-18-01-2003,Cortina d'Ampezzo,Downhill,36,37.19
-17-01-2003,Cortina d'Ampezzo,Super G,28,28.65
-15-01-2003,Cortina d'Ampezzo,Super G,28,29.57
-28-12-2002,Semmering,Giant Slalom,DNQ1,
-22-12-2002,Lenzerheide,Combined,DNF,
-22-12-2002,Lenzerheide,Slalom,DNF1,
-21-12-2002,Lenzerheide,Downhill,57,83.32
-13-12-2002,Val d'Isere,Super G,DNF1,
-12-12-2002,Val d'Isere,Giant Slalom,DNQ1,
-08-12-2002,"Lake Louise, AB",Super G,33,29.95
-07-12-2002,"Lake Louise, AB",Downhill,DNS1,
-06-12-2002,"Lake Louise, AB",Downhill,DNS1,
-30-11-2002,"Aspen, CO",Slalom,DNQ1,
-29-11-2002,"Aspen, CO",Super G,DSQ1,
-23-11-2002,"Park City, UT",Slalom,DNQ1,
-21-11-2002,"Park City, UT",Giant Slalom,DNQ1,
-26-10-2002,Soelden,Giant Slalom,27,20.58
-03-02-2002,Are,Slalom,DNF1,
-31-01-2002,Are,Giant Slalom,DNQ1,
-27-01-2002,Cortina d'Ampezzo,Giant Slalom,DNF1,
-25-01-2002,Cortina d'Ampezzo,Super G,34,36.69
-19-01-2002,Berchtesgaden,Giant Slalom,DNF1,
-06-01-2002,Maribor,Slalom,DNF1,
-05-01-2002,Maribor,Slalom,DNQ1,
-04-01-2002,Maribor,Giant Slalom,DNQ1,
-29-12-2001,Lienz,Slalom,DNQ1,
-28-12-2001,Lienz,Giant Slalom,DNQ1,
-22-12-2001,St. Moritz,Super G,21,33.46
-16-12-2001,Val d'Isere,Giant Slalom,DNQ1,
-09-12-2001,Sestriere,Slalom,DNQ1,
-22-11-2001,"Copper Mountain, CO",Slalom,DNQ1,
-21-11-2001,"Copper Mountain, CO",Giant Slalom,DNQ1,
-27-10-2001,Soelden,Giant Slalom,DNF1,
-25-02-2001,Lenzerheide,Super G,DNF1,
-16-02-2001,Garmisch-Partenkirchen,Super G,24,27.25
-21-01-2001,Cortina d'Ampezzo,Giant Slalom,DNF1,
-20-01-2001,Cortina d'Ampezzo,Super G,DNF1,
-06-01-2001,Maribor,Giant Slalom,DNQ2,
-30-12-2000,Semmering,Giant Slalom,26,43.37
-19-12-2000,Sestriere,Giant Slalom,DNQ2,
-09-12-2000,Sestriere,Giant Slalom,26,21.69
-06-12-2000,Val d'Isere,Super G,49,39.70
-24-11-2000,"Aspen, CO",Super G,13,14.14
-16-11-2000,"Park City, UT",Giant Slalom,16,7.71
-28-10-2000,Soelden,Giant Slalom,DNF1,
-09-12-1999,Val d'Isere,Giant Slalom,DNF1,
-04-12-1999,Serre Chevalier,Giant Slalom,DNF1,
-19-11-1999,"Copper Mountain, CO",Giant Slalom,18,6.90
-31-10-1999,Tignes,Giant Slalom,DNF1,
-24-01-1999,Cortina d'Ampezzo,Giant Slalom,DNQ2,
-03-01-1999,Maribor,Slalom,DNF1,
-02-01-1999,Maribor,Giant Slalom,DNQ2,
-28-12-1998,Semmering,Slalom,DNF1,
-27-12-1998,Semmering,Giant Slalom,DNQ2,
-20-12-1998,Veysonnaz,Slalom,DNF1,
-21-11-1998,"Park City, UT",Slalom,DNQ2,
-19-11-1998,"Park City, UT",Giant Slalom,DNQ2,
-24-10-1998,Soelden,Giant Slalom,DNQ2,
+datum,kraj,disciplina,mesto
+18-03-2015,Meribel,Downhill,6
+08-03-2015,Garmisch Partenkirchen,Super G,26
+07-03-2015,Garmisch Partenkirchen,Downhill,16
+02-03-2015,Bansko,Super G,19
+01-03-2015,Bansko,Alpine combined,DNF1
+25-01-2015,St.Moritz,Super G,DSQ1
+24-01-2015,St.Moritz,Downhill,7
+19-01-2015,Cortina d'Ampezzo,Super G,18
+18-01-2015,Cortina d'Ampezzo,Downhill,21
+16-01-2015,Cortina d'Ampezzo,Downhill,14
+21-12-2014,Val d Isere,Super G,24
+20-12-2014,Val d Isere,Downhill,23
+07-12-2014,Lake Louise,Super G,18
+06-12-2014,Lake Louise,Downhill,30
+05-12-2014,Lake Louise,Downhill,16
+25-10-2014,Soelden,Giant Slalom,DNF1
+12-03-2014,Lenzerheide,Downhill,21
+02-03-2014,Crans Montana,Downhill,24
+26-01-2014,Cortina d Ampezzo,Super G,DNF1
+25-01-2014,Cortina d Ampezzo,Downhill,21
+24-01-2014,Cortina d Ampezzo,Downhill,22
+23-01-2014,Cortina d Ampezzo,Super G,30
+12-01-2014,Altenmarkt / Zauchensee,Super Combined,DNF1
+11-01-2014,Altenmarkt / Zauchensee,Downhill,7
+22-12-2013,Val d'Isere,Giant Slalom,DNQ1
+21-12-2013,Val d'Isere,Downhill,19
+15-12-2013,St. Moritz,Giant Slalom,DNQ1
+14-12-2013,St. Moritz,Super G,13
+08-12-2013,Lake Louise,Super G,36
+07-12-2013,Lake Louise,Downhill,27
+06-12-2013,Lake Louise,Downhill,9
+01-12-2013,Beaver Creek,Giant Slalom,DNS1
+30-11-2013,Beaver Creek,Super G,25
+29-11-2013,Beaver Creek,Downhill,33
+26-10-2013,Soelden,Giant Slalom,DNQ1
+09-03-2013,Ofterschwang,Giant Slalom,DNQ1
+03-03-2013,Garmisch-Partenkirchen,Super G,21
+02-03-2013,Garmisch-Partenkirchen,Downhill,22
+01-03-2013,Garmisch-Partenkirchen,Super G,6
+23-02-2013,Meribel,Downhill,1
+26-01-2013,Maribor,Giant Slalom,DNQ1
+20-01-2013,Cortina d'Ampezzo,Super G,4
+19-01-2013,Cortina d'Ampezzo,Downhill,10
+13-01-2013,St. Anton,Super G,37
+12-01-2013,St. Anton,Downhill,24
+28-12-2012,Semmering,Giant Slalom,DNQ1
+19-12-2012,Are,Giant Slalom,DNQ1
+16-12-2012,Courchevel,Giant Slalom,DNQ1
+14-12-2012,Val d'Isere,Downhill,21
+09-12-2012,St. Moritz,Giant Slalom,DNQ1
+08-12-2012,St. Moritz,Super G,19
+07-12-2012,St. Moritz,Super Combined,DNF1
+02-12-2012,Lake Louise,Super G,15
+01-12-2012,Lake Louise,Downhill,30
+30-11-2012,Lake Louise,Downhill,15
+24-11-2012,"Aspen, CO",Giant Slalom,20
+27-10-2012,Soelden,Giant Slalom,16
+15-03-2012,Schladming,Super G,22
+26-02-2012,Bansko,Super G,25
+18-02-2012,Sochi,Downhill,36
+12-02-2012,Soldeu-Grandvalira,Giant Slalom,DNQ1
+05-02-2012,Garmisch-Partenkirchen,Super G,15
+04-02-2012,Garmisch-Partenkirchen,Downhill,27
+29-01-2012,St. Moritz,Super Combined,DNF1
+28-01-2012,St. Moritz,Downhill,15
+27-01-2012,St. Moritz,Super Combined,DNS2
+15-01-2012,Cortina d'Ampezzo,Super G,29
+14-01-2012,Cortina d'Ampezzo,Downhill,25
+08-01-2012,Bad Kleinkirchheim,Super G,22
+07-01-2012,Bad Kleinkirchheim,Downhill,13
+28-12-2011,Lienz,Giant Slalom,DNQ1
+07-12-2011,Beaver Creek,Super G,35
+04-12-2011,Lake Louise,Super G,14
+03-12-2011,Lake Louise,Downhill,DNF1
+02-12-2011,Lake Louise,Downhill,36
+22-10-2011,Soelden,Giant Slalom,DNQ1
+06-03-2011,Tarvisio,Super G,9
+05-03-2011,Tarvisio,Downhill,16
+04-03-2011,Tarvisio,Super Combined,DNS2
+27-02-2011,Are,Super G,27
+26-02-2011,Are,Downhill,19
+25-02-2011,Are,Super Combined,DNS2
+23-01-2011,Cortina d Ampezzo,Super G,17
+22-01-2011,Cortina d Ampezzo,Downhill,30
+21-01-2011,Cortina d Ampezzo,Super G,28
+09-01-2011,Zauchensee,Super G,DNF1
+08-01-2011,Zauchensee,Downhill,22
+18-12-2010,Val d'Isere,Downhill,DNF1
+05-12-2010,Lake Louise,Super G,11
+04-12-2010,Lake Louise,Downhill,31
+03-12-2010,Lake Louise,Downhill,36
+07-03-2010,Crans Montana,Super G,DSQ1
+06-03-2010,Crans Montana,Downhill,30
+31-01-2010,St. Moritz,Super G,DNF1
+30-01-2010,St. Moritz,Downhill,14
+29-01-2010,St. Moritz,Super Combined,DNS2
+24-01-2010,Cortina d'Ampezzo,Giant Slalom,DNF1
+23-01-2010,Cortina d'Ampezzo,Downhill,18
+22-01-2010,Cortina d'Ampezzo,Super G,26
+10-01-2010,Haus im Ennstal,Super G,20
+09-01-2010,Haus im Ennstal,Downhill,31
+08-01-2010,Haus im Ennstal,Downhill,36
+20-12-2009,Val d'Isere,Super G,33
+18-12-2009,Val d'Isere,Super Combined,DNS2
+06-12-2009,Lake Louise,Super G,34
+05-12-2009,Lake Louise,Downhill,49
+04-12-2009,Lake Louise,Downhill,38
+24-10-2009,Soelden,Giant Slalom,DNQ1
+01-03-2009,Bansko,Super G,DNF1
+28-02-2009,Bansko,Downhill,24
+27-02-2009,Bansko,Downhill,20
+22-02-2009,Tarvisio,Super G,30
+21-02-2009,Tarvisio,Downhill,42
+20-02-2009,Tarvisio,Super Combined,DNS2
+01-02-2009,Garmisch Partenkirchen,Super G,11
+26-01-2009,Cortina d'Ampezzo,Super G,17
+25-01-2009,Cortina d'Ampezzo,Giant Slalom,DNQ1
+24-01-2009,Cortina d'Ampezzo,Downhill,7
+18-01-2009,Altenmarkt-Zauchensee,Downhill,31
+17-01-2009,Altenmarkt-Zauchensee,Super Combined,29
+28-12-2008,Semmering,Giant Slalom,DNQ1
+20-12-2008,St. Moritz,Super G,DNF1
+19-12-2008,St. Moritz,Super Combined,DNF1
+13-12-2008,La Molina,Giant Slalom,DNF1
+07-12-2008,Lake Louise,Super G,28
+05-12-2008,Lake Louise,Downhill,27
+25-10-2008,Soelden,Giant Slalom,DNQ1
+13-03-2008,Bormio,Super G,26
+08-03-2008,Crans-Montana,Downhill,34
+24-02-2008,"Whistler, BC",Super Combined,DNF1
+22-02-2008,"Whistler, BC",Downhill,10
+10-02-2008,Sestriere,Super G,17
+09-02-2008,Sestriere,Downhill,33
+03-02-2008,St. Moritz,Super G,35
+02-02-2008,St. Moritz,Downhill,26
+21-01-2008,Cortina d'Ampezzo,Super G,20
+20-01-2008,Cortina d'Ampezzo,Super G,8
+19-01-2008,Cortina d'Ampezzo,Downhill,15
+12-01-2008,Maribor,Giant Slalom,DSQ1
+22-12-2007,St. Anton/Arlberg,Super Combined,DNS1
+21-12-2007,St. Anton/Arlberg,Downhill,21
+16-12-2007,St. Moritz,Super G,25
+15-12-2007,St. Moritz,Downhill,19
+08-12-2007,"Aspen, CO",Downhill,7
+02-12-2007,"Lake Louise, AB",Super G,23
+01-12-2007,"Lake Louise, AB",Downhill,14
+24-11-2007,"Panorama, BC",Giant Slalom,DNQ2
+27-10-2007,Soelden,Giant Slalom,23
+04-03-2007,Tarvisio,Super G,16
+03-03-2007,Tarvisio,Downhill,13
+02-03-2007,Tarvisio,Super Combined,DNS
+24-02-2007,Sierra Nevada,Giant Slalom,DNQ1
+28-01-2007,San Sicario,Super G,34
+27-01-2007,San Sicario,Downhill,25
+26-01-2007,San Sicario,Super G,14
+21-01-2007,Cortina d'Ampezzo,Giant Slalom,DNF1
+20-01-2007,Cortina d'Ampezzo,Downhill,DNF1
+19-01-2007,Cortina d'Ampezzo,Super G,35
+13-01-2007,Altenmarkt-Zauchensee,Downhill,21
+06-01-2007,Kranjska Gora,Giant Slalom,DNQ2
+28-12-2006,Semmering,Giant Slalom,28
+20-12-2006,Val d'Isere,Downhill,20
+19-12-2006,Val d'Isere,Downhill,34
+16-12-2006,Reiteralm,Super G,20
+15-12-2006,Reiteralm,Super Combined,DNF1
+03-12-2006,"Lake Louise, AB",Super G,22
+02-12-2006,"Lake Louise, AB",Downhill,20
+01-12-2006,"Lake Louise, AB",Downhill,44
+25-11-2006,"Aspen, CO",Giant Slalom,DNQ1
+29-01-2006,Cortina d'Ampezzo,Giant Slalom,DNQ1
+28-01-2006,Cortina d'Ampezzo,Downhill,33
+27-01-2006,Cortina d'Ampezzo,Super G,39
+22-01-2006,St. Moritz,Super Combined,DNS
+21-01-2006,St. Moritz,Downhill,62
+20-01-2006,St. Moritz,Super G,22
+15-01-2006,Bad Kleinkirchheim,Super G,26
+14-01-2006,Bad Kleinkirchheim,Downhill,46
+13-01-2006,Bad Kleinkirchheim,Downhill,50
+28-12-2005,Lienz,Giant Slalom,DNQ1
+21-12-2005,Spindleruv Mlyn,Giant Slalom,DNF1
+18-12-2005,Val d'Isere,Super G,43
+17-12-2005,Val d'Isere,Downhill,DNS1
+11-12-2005,"Aspen, CO",Slalom,DNF1
+10-12-2005,"Aspen, CO",Giant Slalom,DNQ2
+09-12-2005,"Aspen, CO",Super G,36
+04-12-2005,"Lake Louise, AB",Super G,32
+03-12-2005,"Lake Louise, AB",Downhill,57
+02-12-2005,"Lake Louise, AB",Downhill,32
+22-10-2005,Soelden,Giant Slalom,DNQ1
+25-02-2005,San Sicario,Super G,21
+20-02-2005,Are,Giant Slalom,DNQ2
+19-02-2005,Are,Super G,34
+14-01-2005,Cortina d'Ampezzo,Super G,42
+12-01-2005,Cortina d'Ampezzo,Super G,DNF1
+08-01-2005,Santa Caterina,Giant Slalom,DNF1
+28-12-2004,Semmering,Giant Slalom,DNQ1
+22-12-2004,St. Moritz,Giant Slalom,DNQ2
+21-12-2004,St. Moritz,Super G,17
+11-12-2004,Altenmarkt-Zauchensee,Super G,DNF1
+23-10-2004,Soelden,Giant Slalom,DNQ2
+22-02-2004,Are,Giant Slalom,DNQ1
+21-02-2004,Are,Super G,40
+17-01-2004,Cortina d'Ampezzo,Downhill,46
+16-01-2004,Cortina d'Ampezzo,Super G,37
+14-01-2004,Cortina d'Ampezzo,Super G,47
+11-01-2004,Veysonnaz,Super G,42
+04-01-2004,Megeve,Super G,DNF1
+08-03-2003,Are,Slalom,DNQ1
+06-03-2003,Are,Giant Slalom,DNQ1
+02-03-2003,Innsbruck,Super G,34
+01-03-2003,Innsbruck,Downhill,44
+28-02-2003,Innsbruck,Super G,DSQ1
+19-01-2003,Cortina d'Ampezzo,Giant Slalom,DNQ1
+18-01-2003,Cortina d'Ampezzo,Downhill,36
+17-01-2003,Cortina d'Ampezzo,Super G,28
+15-01-2003,Cortina d'Ampezzo,Super G,28
+28-12-2002,Semmering,Giant Slalom,DNQ1
+22-12-2002,Lenzerheide,Combined,DNF
+22-12-2002,Lenzerheide,Slalom,DNF1
+21-12-2002,Lenzerheide,Downhill,57
+13-12-2002,Val d'Isere,Super G,DNF1
+12-12-2002,Val d'Isere,Giant Slalom,DNQ1
+08-12-2002,"Lake Louise, AB",Super G,33
+07-12-2002,"Lake Louise, AB",Downhill,DNS1
+06-12-2002,"Lake Louise, AB",Downhill,DNS1
+30-11-2002,"Aspen, CO",Slalom,DNQ1
+29-11-2002,"Aspen, CO",Super G,DSQ1
+23-11-2002,"Park City, UT",Slalom,DNQ1
+21-11-2002,"Park City, UT",Giant Slalom,DNQ1
+26-10-2002,Soelden,Giant Slalom,27
+03-02-2002,Are,Slalom,DNF1
+31-01-2002,Are,Giant Slalom,DNQ1
+27-01-2002,Cortina d'Ampezzo,Giant Slalom,DNF1
+25-01-2002,Cortina d'Ampezzo,Super G,34
+19-01-2002,Berchtesgaden,Giant Slalom,DNF1
+06-01-2002,Maribor,Slalom,DNF1
+05-01-2002,Maribor,Slalom,DNQ1
+04-01-2002,Maribor,Giant Slalom,DNQ1
+29-12-2001,Lienz,Slalom,DNQ1
+28-12-2001,Lienz,Giant Slalom,DNQ1
+22-12-2001,St. Moritz,Super G,21
+16-12-2001,Val d'Isere,Giant Slalom,DNQ1
+09-12-2001,Sestriere,Slalom,DNQ1
+22-11-2001,"Copper Mountain, CO",Slalom,DNQ1
+21-11-2001,"Copper Mountain, CO",Giant Slalom,DNQ1
+27-10-2001,Soelden,Giant Slalom,DNF1
+25-02-2001,Lenzerheide,Super G,DNF1
+16-02-2001,Garmisch-Partenkirchen,Super G,24
+21-01-2001,Cortina d'Ampezzo,Giant Slalom,DNF1
+20-01-2001,Cortina d'Ampezzo,Super G,DNF1
+06-01-2001,Maribor,Giant Slalom,DNQ2
+30-12-2000,Semmering,Giant Slalom,26
+19-12-2000,Sestriere,Giant Slalom,DNQ2
+09-12-2000,Sestriere,Giant Slalom,26
+06-12-2000,Val d'Isere,Super G,49
+24-11-2000,"Aspen, CO",Super G,13
+16-11-2000,"Park City, UT",Giant Slalom,16
+28-10-2000,Soelden,Giant Slalom,DNF1
+11-03-2000,Sestriere,Giant Slalom,2
+09-12-1999,Val d'Isere,Giant Slalom,DNF1
+04-12-1999,Serre Chevalier,Giant Slalom,DNF1
+19-11-1999,"Copper Mountain, CO",Giant Slalom,18
+31-10-1999,Tignes,Giant Slalom,DNF1
+24-01-1999,Cortina d'Ampezzo,Giant Slalom,DNQ2
+03-01-1999,Maribor,Slalom,DNF1
+02-01-1999,Maribor,Giant Slalom,DNQ2
+28-12-1998,Semmering,Slalom,DNF1
+27-12-1998,Semmering,Giant Slalom,DNQ2
+20-12-1998,Veysonnaz,Slalom,DNF1
+21-11-1998,"Park City, UT",Slalom,DNQ2
+19-11-1998,"Park City, UT",Giant Slalom,DNQ2
+24-10-1998,Soelden,Giant Slalom,DNQ2

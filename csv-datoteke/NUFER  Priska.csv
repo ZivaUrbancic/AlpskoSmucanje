@@ -1,44 +1,44 @@
-datum,kraj,disciplina,mesto,zaostanek
-13-03-2016,Lenzerheide,Alpine combined,22,49.64
-28-02-2016,Soldeu- El Tarter,Alpine combined,30,49.92
-27-02-2016,Soldeu- El Tarter,Super G,46,59.72
-21-02-2016,La Thuile,Super G,40,77.53
-20-02-2016,La Thuile,Downhill,DNF1,
-19-02-2016,La Thuile,Downhill,41,92.60
-07-02-2016,Garmisch Partenkirchen,Super G,43,57.68
-06-02-2016,Garmisch Partenkirchen,Downhill,20,46.63
-24-01-2016,Cortina d'Ampezzo,Super G,36,54.78
-23-01-2016,Cortina d'Ampezzo,Downhill,46,59.92
-10-01-2016,Altenmarkt-Zauchensee,Super G,26,42.75
-09-01-2016,Altenmarkt-Zauchensee,Downhill,DNQ1,
-06-12-2015,Lake Louise,Super G,33,47.92
-05-12-2015,Lake Louise,Downhill,36,56.60
-04-12-2015,Lake Louise,Downhill,38,46.27
-08-03-2015,Garmisch Partenkirchen,Super G,31,40.02
-07-03-2015,Garmisch Partenkirchen,Downhill,29,39.13
-02-03-2015,Bansko,Super G,38,53.57
-01-03-2015,Bansko,Alpine combined,22,46.16
-25-01-2015,St.Moritz,Super G,21,37.36
-24-01-2015,St.Moritz,Downhill,35,34.07
-19-01-2015,Cortina d'Ampezzo,Super G,26,44.30
-21-12-2014,Val d Isere,Super G,20,31.99
-20-12-2014,Val d Isere,Downhill,38,35.78
-07-12-2014,Lake Louise,Super G,44,45.56
-06-12-2014,Lake Louise,Downhill,49,62.68
-05-12-2014,Lake Louise,Downhill,45,37.84
-02-03-2014,Crans Montana,Downhill,DNF1,
-26-01-2014,Cortina d Ampezzo,Super G,31,41.25
-25-01-2014,Cortina d Ampezzo,Downhill,36,34.04
-24-01-2014,Cortina d Ampezzo,Downhill,37,49.10
-23-01-2014,Cortina d Ampezzo,Super G,44,45.50
-12-01-2014,Altenmarkt / Zauchensee,Super Combined,21,27.44
-11-01-2014,Altenmarkt / Zauchensee,Downhill,46,51.13
-21-12-2013,Val d'Isere,Downhill,28,27.71
-14-12-2013,St. Moritz,Super G,21,27.00
-07-12-2013,Lake Louise,Downhill,45,37.38
-06-12-2013,Lake Louise,Downhill,35,35.19
-30-11-2013,Beaver Creek,Super G,DNF1,
-29-11-2013,Beaver Creek,Downhill,25,36.53
-29-01-2012,St. Moritz,Super Combined,30,40.13
-03-01-2012,Zagreb,Slalom,DNF1,
-29-12-2011,Lienz,Slalom,DNQ1,
+datum,kraj,disciplina,mesto
+13-03-2016,Lenzerheide,Alpine combined,22
+28-02-2016,Soldeu- El Tarter,Alpine combined,30
+27-02-2016,Soldeu- El Tarter,Super G,46
+21-02-2016,La Thuile,Super G,40
+20-02-2016,La Thuile,Downhill,DNF1
+19-02-2016,La Thuile,Downhill,41
+07-02-2016,Garmisch Partenkirchen,Super G,43
+06-02-2016,Garmisch Partenkirchen,Downhill,20
+24-01-2016,Cortina d'Ampezzo,Super G,36
+23-01-2016,Cortina d'Ampezzo,Downhill,46
+10-01-2016,Altenmarkt-Zauchensee,Super G,26
+09-01-2016,Altenmarkt-Zauchensee,Downhill,DNQ1
+06-12-2015,Lake Louise,Super G,33
+05-12-2015,Lake Louise,Downhill,36
+04-12-2015,Lake Louise,Downhill,38
+08-03-2015,Garmisch Partenkirchen,Super G,31
+07-03-2015,Garmisch Partenkirchen,Downhill,29
+02-03-2015,Bansko,Super G,38
+01-03-2015,Bansko,Alpine combined,22
+25-01-2015,St.Moritz,Super G,21
+24-01-2015,St.Moritz,Downhill,35
+19-01-2015,Cortina d'Ampezzo,Super G,26
+21-12-2014,Val d Isere,Super G,20
+20-12-2014,Val d Isere,Downhill,38
+07-12-2014,Lake Louise,Super G,44
+06-12-2014,Lake Louise,Downhill,49
+05-12-2014,Lake Louise,Downhill,45
+02-03-2014,Crans Montana,Downhill,DNF1
+26-01-2014,Cortina d Ampezzo,Super G,31
+25-01-2014,Cortina d Ampezzo,Downhill,36
+24-01-2014,Cortina d Ampezzo,Downhill,37
+23-01-2014,Cortina d Ampezzo,Super G,44
+12-01-2014,Altenmarkt / Zauchensee,Super Combined,21
+11-01-2014,Altenmarkt / Zauchensee,Downhill,46
+21-12-2013,Val d'Isere,Downhill,28
+14-12-2013,St. Moritz,Super G,21
+07-12-2013,Lake Louise,Downhill,45
+06-12-2013,Lake Louise,Downhill,35
+30-11-2013,Beaver Creek,Super G,DNF1
+29-11-2013,Beaver Creek,Downhill,25
+29-01-2012,St. Moritz,Super Combined,30
+03-01-2012,Zagreb,Slalom,DNF1
+29-12-2011,Lienz,Slalom,DNQ1

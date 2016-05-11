@@ -1,72 +1,72 @@
-datum,kraj,disciplina,mesto,zaostanek
-08-03-2015,Kvitfjell,Super G,37,38.13
-07-03-2015,Kvitfjell,Downhill,54,38.62
-28-02-2015,Garmisch Partenkirchen,Downhill,34,18.60
-22-02-2015,Saalbach,Super G,45,43.19
-21-02-2015,Saalbach,Downhill,DNF1,
-24-01-2015,Kitzbuehel,Downhill,42,32.45
-23-01-2015,Kitzbuehel,Super G,DNF1,
-18-01-2015,Wengen,Downhill,34,26.10
-28-12-2014,Santa Caterina,Downhill,34,25.56
-20-12-2014,Val Gardena / Groeden,Super G,39,25.66
-19-12-2014,Val Gardena / Groeden,Downhill,39,44.22
-06-12-2014,Beaver Creek,Super G,26,25.82
-05-12-2014,Beaver Creek,Downhill,45,34.94
-30-11-2014,Lake Louise,Super G,36,25.35
-29-11-2014,Lake Louise,Downhill,37,24.05
-02-03-2014,Kvitfjell,Super G,30,21.94
-01-03-2014,Kvitfjell,Downhill,55,41.52
-28-02-2014,Kvitfjell,Downhill,38,26.89
-26-01-2014,Kitzbuehel,Super G,58,24.02
-18-01-2014,Wengen,Downhill,52,32.97
-29-12-2013,Bormio,Downhill,DNF1,
-21-12-2013,Val Gardena / Groeden,Downhill,51,49.68
-20-12-2013,Val Gardena / Groeden,Super G,DNF1,
-07-12-2013,Beaver Creek,Super G,34,28.26
-06-12-2013,Beaver Creek,Downhill,35,34.09
-01-12-2013,Lake Louise,Super G,34,24.55
-30-11-2013,Lake Louise,Downhill,39,35.65
-25-01-2013,Kitzbuehel,Super G,DNF1,
-19-01-2013,Wengen,Downhill,45,63.28
-15-12-2012,Val Gardena-Groeden,Downhill,55,42.42
-14-12-2012,Val Gardena-Groeden,Super G,47,38.56
-01-12-2012,Beaver Creek,Super G,35,33.88
-30-11-2012,Beaver Creek,Downhill,53,45.27
-25-11-2012,Lake Louise,Super G,51,39.47
-24-11-2012,Lake Louise,Downhill,62,65.14
-25-02-2012,Crans Montana,Super G,41,46.28
-24-02-2012,Crans Montana,Super G,DNF1,
-12-02-2012,Sochi,Super Combined,DNF1,
-11-02-2012,Sochi,Downhill,44,62.88
-07-03-2009,Kvitfjell,Downhill,53,53.73
-06-03-2009,Kvitfjell,Downhill,DSQ1,
-24-01-2009,Kitzbuehel,Downhill,44,48.55
-23-01-2009,Kitzbuehel,Super G,39,32.62
-17-01-2009,Wengen,Downhill,DSQ1,
-20-12-2008,Val Gardena - Groeden,Downhill,46,53.01
-19-12-2008,Val Gardena - Groeden,Super G,DNF1,
-06-12-2008,Beaver Creek,Super G,DNF1,
-05-12-2008,Beaver Creek,Downhill,DNF1,
-29-11-2008,Lake Louise,Downhill,DNF1,
-02-03-2008,Kvitfjell,Super G,DNF1,
-19-01-2008,Kitzbuehel,Downhill,52,70.28
-18-01-2008,Kitzbuehel,Super G,42,27.03
-29-12-2007,Bormio,Downhill,39,47.03
-15-12-2007,Val Gardena-Groeden,Downhill,48,39.79
-14-12-2007,Val Gardena-Groeden,Super G,25,19.30
-03-02-2006,Chamonix,Super Combined,DNF,
-29-01-2006,Garmisch-Partenkirchen,Super G,44,50.36
-13-01-2006,Wengen,Super Combined,33,
-16-12-2005,Gardena/Groeden,Super G,55,42.28
-11-12-2005,Val d'Isere,Super Combined,DNF,
-27-11-2005,"Lake Louise, AB",Super G,DNF1,
-06-03-2005,Kvitfjell,Super G,DNF1,
-05-03-2005,Kvitfjell,Downhill,47,43.30
-29-12-2004,Bormio,Downhill,47,52.33
-18-12-2004,Gardena/Groeden,Downhill,60,59.80
-17-12-2004,Gardena/Groeden,Super G,40,34.67
-11-12-2004,Val d'Isere,Downhill,57,67.62
-03-12-2004,"Beaver Creek, CO",Downhill,55,66.82
-02-12-2004,"Beaver Creek, CO",Super G,DNF1,
-28-11-2004,"Lake Louise, AB",Super G,60,48.34
-27-11-2004,"Lake Louise, AB",Downhill,57,58.71
+datum,kraj,disciplina,mesto
+08-03-2015,Kvitfjell,Super G,37
+07-03-2015,Kvitfjell,Downhill,54
+28-02-2015,Garmisch Partenkirchen,Downhill,34
+22-02-2015,Saalbach,Super G,45
+21-02-2015,Saalbach,Downhill,DNF1
+24-01-2015,Kitzbuehel,Downhill,42
+23-01-2015,Kitzbuehel,Super G,DNF1
+18-01-2015,Wengen,Downhill,34
+28-12-2014,Santa Caterina,Downhill,34
+20-12-2014,Val Gardena / Groeden,Super G,39
+19-12-2014,Val Gardena / Groeden,Downhill,39
+06-12-2014,Beaver Creek,Super G,26
+05-12-2014,Beaver Creek,Downhill,45
+30-11-2014,Lake Louise,Super G,36
+29-11-2014,Lake Louise,Downhill,37
+02-03-2014,Kvitfjell,Super G,30
+01-03-2014,Kvitfjell,Downhill,55
+28-02-2014,Kvitfjell,Downhill,38
+26-01-2014,Kitzbuehel,Super G,58
+18-01-2014,Wengen,Downhill,52
+29-12-2013,Bormio,Downhill,DNF1
+21-12-2013,Val Gardena / Groeden,Downhill,51
+20-12-2013,Val Gardena / Groeden,Super G,DNF1
+07-12-2013,Beaver Creek,Super G,34
+06-12-2013,Beaver Creek,Downhill,35
+01-12-2013,Lake Louise,Super G,34
+30-11-2013,Lake Louise,Downhill,39
+25-01-2013,Kitzbuehel,Super G,DNF1
+19-01-2013,Wengen,Downhill,45
+15-12-2012,Val Gardena-Groeden,Downhill,55
+14-12-2012,Val Gardena-Groeden,Super G,47
+01-12-2012,Beaver Creek,Super G,35
+30-11-2012,Beaver Creek,Downhill,53
+25-11-2012,Lake Louise,Super G,51
+24-11-2012,Lake Louise,Downhill,62
+25-02-2012,Crans Montana,Super G,41
+24-02-2012,Crans Montana,Super G,DNF1
+12-02-2012,Sochi,Super Combined,DNF1
+11-02-2012,Sochi,Downhill,44
+07-03-2009,Kvitfjell,Downhill,53
+06-03-2009,Kvitfjell,Downhill,DSQ1
+24-01-2009,Kitzbuehel,Downhill,44
+23-01-2009,Kitzbuehel,Super G,39
+17-01-2009,Wengen,Downhill,DSQ1
+20-12-2008,Val Gardena - Groeden,Downhill,46
+19-12-2008,Val Gardena - Groeden,Super G,DNF1
+06-12-2008,Beaver Creek,Super G,DNF1
+05-12-2008,Beaver Creek,Downhill,DNF1
+29-11-2008,Lake Louise,Downhill,DNF1
+02-03-2008,Kvitfjell,Super G,DNF1
+19-01-2008,Kitzbuehel,Downhill,52
+18-01-2008,Kitzbuehel,Super G,42
+29-12-2007,Bormio,Downhill,39
+15-12-2007,Val Gardena-Groeden,Downhill,48
+14-12-2007,Val Gardena-Groeden,Super G,25
+03-02-2006,Chamonix,Super Combined,DNF
+29-01-2006,Garmisch-Partenkirchen,Super G,44
+13-01-2006,Wengen,Super Combined,33
+16-12-2005,Gardena/Groeden,Super G,55
+11-12-2005,Val d'Isere,Super Combined,DNF
+27-11-2005,"Lake Louise, AB",Super G,DNF1
+06-03-2005,Kvitfjell,Super G,DNF1
+05-03-2005,Kvitfjell,Downhill,47
+29-12-2004,Bormio,Downhill,47
+18-12-2004,Gardena/Groeden,Downhill,60
+17-12-2004,Gardena/Groeden,Super G,40
+11-12-2004,Val d'Isere,Downhill,57
+03-12-2004,"Beaver Creek, CO",Downhill,55
+02-12-2004,"Beaver Creek, CO",Super G,DNF1
+28-11-2004,"Lake Louise, AB",Super G,60
+27-11-2004,"Lake Louise, AB",Downhill,57

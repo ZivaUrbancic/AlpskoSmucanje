@@ -1,73 +1,73 @@
-datum,kraj,disciplina,mesto,zaostanek
-17-03-2016,St. Moritz,Super G,9,14.18
-16-03-2016,St. Moritz,Downhill,11,17.67
-13-03-2016,Kvitfjell,Super G,26,20.50
-12-03-2016,Kvitfjell,Downhill,23,20.40
-27-02-2016,Hinterstoder,Super G,2,2.88
-20-02-2016,Chamonix,Downhill,17,17.11
-19-02-2016,Chamonix,Alpine combined,DNS2,
-07-02-2016,Jeongseon,Super G,11,18.93
-06-02-2016,Jeongseon,Downhill,11,10.48
-30-01-2016,Garmisch Partenkirchen,Downhill,2,2.39
-23-01-2016,Kitzbuehel,Downhill,23,39.71
-22-01-2016,Kitzbuehel,Alpine combined,16,30.03
-22-01-2016,Kitzbuehel,Super G,15,21.81
-16-01-2016,Wengen,Downhill,24,35.73
-15-01-2016,Wengen,Alpine combined,DNF2,
-29-12-2015,Santa Caterina,Downhill,22,30.18
-19-12-2015,Val Gardena / Groeden,Downhill,37,28.42
-18-12-2015,Val Gardena / Groeden,Super G,DNF1,
-05-12-2015,Beaver Creek,Super G,38,29.54
-04-12-2015,Beaver Creek,Downhill,27,27.97
-29-11-2015,Lake Louise,Super G,14,17.17
-28-11-2015,Lake Louise,Downhill,24,23.88
-08-03-2015,Kvitfjell,Super G,20,20.84
-07-03-2015,Kvitfjell,Downhill,28,16.03
-28-02-2015,Garmisch Partenkirchen,Downhill,27,15.30
-22-02-2015,Saalbach,Super G,32,30.68
-21-02-2015,Saalbach,Downhill,30,30.84
-24-01-2015,Kitzbuehel,Downhill,30,24.29
-23-01-2015,Kitzbuehel,Super G,DNF1,
-18-01-2015,Wengen,Downhill,30,24.74
-28-12-2014,Santa Caterina,Downhill,13,15.28
-03-03-2013,Kvitfjell,Super G,25,25.61
-02-03-2013,Kvitfjell,Downhill,28,29.98
-23-02-2013,Garmisch-Partenkirchen,Downhill,44,32.21
-27-01-2013,Kitzbuehel,Slalom,DNF1,
-27-01-2013,Kitzbuehel,Super Combined,DNF1,
-26-01-2013,Kitzbuehel,Downhill,39,53.61
-25-01-2013,Kitzbuehel,Super G,DNF1,
-19-01-2013,Wengen,Downhill,DNF1,
-29-12-2012,Bormio,Downhill,30,27.72
-15-12-2012,Val Gardena-Groeden,Downhill,27,20.21
-14-12-2012,Val Gardena-Groeden,Super G,37,34.98
-01-12-2012,Beaver Creek,Super G,34,33.32
-30-11-2012,Beaver Creek,Downhill,46,36.64
-25-11-2012,Lake Louise,Super G,43,33.50
-24-11-2012,Lake Louise,Downhill,46,43.39
-04-03-2012,Kvitfjell,Super G,40,32.24
-03-03-2012,Kvitfjell,Downhill,40,35.09
-02-03-2012,Kvitfjell,Super G,32,22.15
-25-02-2012,Crans Montana,Super G,25,29.43
-24-02-2012,Crans Montana,Super G,DNF1,
-12-02-2012,Sochi,Super Combined,DNF2,
-11-02-2012,Sochi,Downhill,38,38.38
-05-02-2012,Chamonix,Super Combined,33,52.04
-04-02-2012,Chamonix,Downhill,37,29.68
-03-02-2012,Chamonix,Downhill,34,18.09
-21-01-2012,Kitzbuehel,Downhill,57,51.54
-29-12-2011,Bormio,Downhill,44,50.44
-16-12-2011,Val Gardena-Groeden,Super G,49,30.43
-06-12-2011,Beaver Creek,Giant Slalom,DNF1,
-04-12-2011,Beaver Creek,Giant Slalom,DNQ1,
-03-12-2011,Beaver Creek,Super G,DNF1,
-02-12-2011,Beaver Creek,Downhill,47,44.32
-27-11-2011,Lake Louise,Super G,44,33.02
-26-11-2011,Lake Louise,Downhill,45,27.27
-16-03-2011,Lenzerheide,Downhill,15,22.61
-13-03-2011,Kvitfjell,Super G,32,21.64
-12-03-2011,Kvitfjell,Downhill,42,32.27
-11-03-2011,Kvitfjell,Downhill,39,28.73
-27-11-2010,Lake Louise,Downhill,53,49.36
-06-03-2010,Kvitfjell,Downhill,47,36.74
-11-12-2009,Val d'Isere,Super Combined,DNF2,
+datum,kraj,disciplina,mesto
+17-03-2016,St. Moritz,Super G,9
+16-03-2016,St. Moritz,Downhill,11
+13-03-2016,Kvitfjell,Super G,26
+12-03-2016,Kvitfjell,Downhill,23
+27-02-2016,Hinterstoder,Super G,2
+20-02-2016,Chamonix,Downhill,17
+19-02-2016,Chamonix,Alpine combined,DNS2
+07-02-2016,Jeongseon,Super G,11
+06-02-2016,Jeongseon,Downhill,11
+30-01-2016,Garmisch Partenkirchen,Downhill,2
+23-01-2016,Kitzbuehel,Downhill,23
+22-01-2016,Kitzbuehel,Alpine combined,16
+22-01-2016,Kitzbuehel,Super G,15
+16-01-2016,Wengen,Downhill,24
+15-01-2016,Wengen,Alpine combined,DNF2
+29-12-2015,Santa Caterina,Downhill,22
+19-12-2015,Val Gardena / Groeden,Downhill,37
+18-12-2015,Val Gardena / Groeden,Super G,DNF1
+05-12-2015,Beaver Creek,Super G,38
+04-12-2015,Beaver Creek,Downhill,27
+29-11-2015,Lake Louise,Super G,14
+28-11-2015,Lake Louise,Downhill,24
+08-03-2015,Kvitfjell,Super G,20
+07-03-2015,Kvitfjell,Downhill,28
+28-02-2015,Garmisch Partenkirchen,Downhill,27
+22-02-2015,Saalbach,Super G,32
+21-02-2015,Saalbach,Downhill,30
+24-01-2015,Kitzbuehel,Downhill,30
+23-01-2015,Kitzbuehel,Super G,DNF1
+18-01-2015,Wengen,Downhill,30
+28-12-2014,Santa Caterina,Downhill,13
+03-03-2013,Kvitfjell,Super G,25
+02-03-2013,Kvitfjell,Downhill,28
+23-02-2013,Garmisch-Partenkirchen,Downhill,44
+27-01-2013,Kitzbuehel,Slalom,DNF1
+27-01-2013,Kitzbuehel,Super Combined,DNF1
+26-01-2013,Kitzbuehel,Downhill,39
+25-01-2013,Kitzbuehel,Super G,DNF1
+19-01-2013,Wengen,Downhill,DNF1
+29-12-2012,Bormio,Downhill,30
+15-12-2012,Val Gardena-Groeden,Downhill,27
+14-12-2012,Val Gardena-Groeden,Super G,37
+01-12-2012,Beaver Creek,Super G,34
+30-11-2012,Beaver Creek,Downhill,46
+25-11-2012,Lake Louise,Super G,43
+24-11-2012,Lake Louise,Downhill,46
+04-03-2012,Kvitfjell,Super G,40
+03-03-2012,Kvitfjell,Downhill,40
+02-03-2012,Kvitfjell,Super G,32
+25-02-2012,Crans Montana,Super G,25
+24-02-2012,Crans Montana,Super G,DNF1
+12-02-2012,Sochi,Super Combined,DNF2
+11-02-2012,Sochi,Downhill,38
+05-02-2012,Chamonix,Super Combined,33
+04-02-2012,Chamonix,Downhill,37
+03-02-2012,Chamonix,Downhill,34
+21-01-2012,Kitzbuehel,Downhill,57
+29-12-2011,Bormio,Downhill,44
+16-12-2011,Val Gardena-Groeden,Super G,49
+06-12-2011,Beaver Creek,Giant Slalom,DNF1
+04-12-2011,Beaver Creek,Giant Slalom,DNQ1
+03-12-2011,Beaver Creek,Super G,DNF1
+02-12-2011,Beaver Creek,Downhill,47
+27-11-2011,Lake Louise,Super G,44
+26-11-2011,Lake Louise,Downhill,45
+16-03-2011,Lenzerheide,Downhill,15
+13-03-2011,Kvitfjell,Super G,32
+12-03-2011,Kvitfjell,Downhill,42
+11-03-2011,Kvitfjell,Downhill,39
+27-11-2010,Lake Louise,Downhill,53
+06-03-2010,Kvitfjell,Downhill,47
+11-12-2009,Val d'Isere,Super Combined,DNF2

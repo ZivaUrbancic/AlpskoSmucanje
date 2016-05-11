@@ -1,24 +1,24 @@
-datum,kraj,disciplina,mesto,zaostanek
-15-01-2016,Flachau,Slalom,DNQ1,
-12-01-2016,Flachau,Slalom,DNQ1,
-13-12-2015,Are,Slalom,DNF1,
-29-11-2015,"Aspen, CO",Slalom,DNS1,
-28-11-2015,"Aspen, CO",Slalom,DNF2,
-21-03-2015,Meribel,Slalom,DNF2,
-14-03-2015,Are,Slalom,DNQ1,
-22-02-2015,Maribor,Slalom,10,12.49
-13-01-2015,Flachau,Slalom,10,12.02
-04-01-2015,Zagreb,Slalom,19,38.76
-13-12-2014,Are,Slalom,DNQ1,
-30-11-2014,Aspen,Slalom,24,29.58
-15-11-2014,Levi,Slalom,DNQ1,
-08-03-2014,Are,Slalom,DNF1,
-02-02-2014,Kranjska Gora,Slalom,DNQ1,
-14-01-2014,Flachau,Slalom,23,20.74
-05-01-2014,Bormio,Slalom,16,9.32
-29-12-2013,Lienz,Slalom,DNF1,
-17-12-2013,Courchevel,Slalom,28,25.41
-16-11-2013,Levi,Slalom,14,12.93
-10-03-2013,Ofterschwang,Slalom,DNQ1,
-04-01-2013,Zagreb,Slalom,DNF1,
-29-12-2012,Semmering,Slalom,DNQ1,
+datum,kraj,disciplina,mesto
+15-01-2016,Flachau,Slalom,DNQ1
+12-01-2016,Flachau,Slalom,DNQ1
+13-12-2015,Are,Slalom,DNF1
+29-11-2015,"Aspen, CO",Slalom,DNS1
+28-11-2015,"Aspen, CO",Slalom,DNF2
+21-03-2015,Meribel,Slalom,DNF2
+14-03-2015,Are,Slalom,DNQ1
+22-02-2015,Maribor,Slalom,10
+13-01-2015,Flachau,Slalom,10
+04-01-2015,Zagreb,Slalom,19
+13-12-2014,Are,Slalom,DNQ1
+30-11-2014,Aspen,Slalom,24
+15-11-2014,Levi,Slalom,DNQ1
+08-03-2014,Are,Slalom,DNF1
+02-02-2014,Kranjska Gora,Slalom,DNQ1
+14-01-2014,Flachau,Slalom,23
+05-01-2014,Bormio,Slalom,16
+29-12-2013,Lienz,Slalom,DNF1
+17-12-2013,Courchevel,Slalom,28
+16-11-2013,Levi,Slalom,14
+10-03-2013,Ofterschwang,Slalom,DNQ1
+04-01-2013,Zagreb,Slalom,DNF1
+29-12-2012,Semmering,Slalom,DNQ1

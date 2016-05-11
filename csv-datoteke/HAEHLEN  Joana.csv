@@ -1,27 +1,27 @@
-datum,kraj,disciplina,mesto,zaostanek
-13-03-2016,Lenzerheide,Alpine combined,DNF1,
-12-03-2016,Lenzerheide,Super G,28,30.87
-28-02-2016,Soldeu- El Tarter,Alpine combined,DNS2,
-27-02-2016,Soldeu- El Tarter,Super G,DNF1,
-21-02-2016,La Thuile,Super G,29,60.72
-20-02-2016,La Thuile,Downhill,17,31.25
-19-02-2016,La Thuile,Downhill,DNF1,
-07-02-2016,Garmisch Partenkirchen,Super G,34,39.04
-06-02-2016,Garmisch Partenkirchen,Downhill,18,44.64
-24-01-2016,Cortina d'Ampezzo,Super G,22,33.94
-23-01-2016,Cortina d'Ampezzo,Downhill,26,38.91
-10-01-2016,Altenmarkt-Zauchensee,Super G,16,30.14
-09-01-2016,Altenmarkt-Zauchensee,Downhill,19,33.64
-19-12-2015,Val d'IsÃ¨re,Downhill,33,32.05
-18-12-2015,Val d'IsÃ¨re,Alpine combined,29,53.32
-06-12-2015,Lake Louise,Super G,34,50.08
-05-12-2015,Lake Louise,Downhill,24,32.94
-04-12-2015,Lake Louise,Downhill,DNF1,
-02-03-2014,Crans Montana,Downhill,15,31.34
-11-01-2014,Altenmarkt / Zauchensee,Downhill,DNF1,
-21-12-2013,Val d'Isere,Downhill,35,33.08
-08-12-2013,Lake Louise,Super G,42,38.40
-07-12-2013,Lake Louise,Downhill,37,33.45
-06-12-2013,Lake Louise,Downhill,29,33.77
-30-11-2013,Beaver Creek,Super G,36,51.82
-29-11-2013,Beaver Creek,Downhill,40,51.55
+datum,kraj,disciplina,mesto
+13-03-2016,Lenzerheide,Alpine combined,DNF1
+12-03-2016,Lenzerheide,Super G,28
+28-02-2016,Soldeu- El Tarter,Alpine combined,DNS2
+27-02-2016,Soldeu- El Tarter,Super G,DNF1
+21-02-2016,La Thuile,Super G,29
+20-02-2016,La Thuile,Downhill,17
+19-02-2016,La Thuile,Downhill,DNF1
+07-02-2016,Garmisch Partenkirchen,Super G,34
+06-02-2016,Garmisch Partenkirchen,Downhill,18
+24-01-2016,Cortina d'Ampezzo,Super G,22
+23-01-2016,Cortina d'Ampezzo,Downhill,26
+10-01-2016,Altenmarkt-Zauchensee,Super G,16
+09-01-2016,Altenmarkt-Zauchensee,Downhill,19
+19-12-2015,Val d'IsÃ¨re,Downhill,33
+18-12-2015,Val d'IsÃ¨re,Alpine combined,29
+06-12-2015,Lake Louise,Super G,34
+05-12-2015,Lake Louise,Downhill,24
+04-12-2015,Lake Louise,Downhill,DNF1
+02-03-2014,Crans Montana,Downhill,15
+11-01-2014,Altenmarkt / Zauchensee,Downhill,DNF1
+21-12-2013,Val d'Isere,Downhill,35
+08-12-2013,Lake Louise,Super G,42
+07-12-2013,Lake Louise,Downhill,37
+06-12-2013,Lake Louise,Downhill,29
+30-11-2013,Beaver Creek,Super G,36
+29-11-2013,Beaver Creek,Downhill,40

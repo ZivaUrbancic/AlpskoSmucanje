@@ -1,41 +1,41 @@
-datum,kraj,disciplina,mesto,zaostanek
-06-03-2016,Jasna,Slalom,DNS1,
-15-02-2016,Crans Montana,Slalom,DNQ1,
-15-01-2016,Flachau,Slalom,DNQ1,
-12-01-2016,Flachau,Slalom,DNF1,
-05-01-2016,Santa Caterina Valfurva,Slalom,DNF2,
-29-12-2015,Lienz,Slalom,DNQ1,
-13-12-2015,Are,Slalom,DNF2,
-29-11-2015,"Aspen, CO",Slalom,19,35.29
-28-11-2015,"Aspen, CO",Slalom,DNF2,
-21-03-2015,Meribel,Slalom,7,9.11
-14-03-2015,Are,Slalom,22,27.27
-22-02-2015,Maribor,Slalom,15,15.33
-13-01-2015,Flachau,Slalom,16,17.08
-04-01-2015,Zagreb,Slalom,DNF2,
-29-12-2014,Kuehtai in Tirol,Slalom,17,23.82
-13-12-2014,Are,Slalom,18,16.88
-30-11-2014,Aspen,Slalom,15,17.57
-15-11-2014,Levi,Slalom,26,20.51
-16-03-2013,Lenzerheide,Slalom,6,9.60
-10-03-2013,Ofterschwang,Slalom,12,14.45
-27-01-2013,Maribor,Slalom,13,15.02
-15-01-2013,Flachau,Slalom,DSQ1,
-04-01-2013,Zagreb,Slalom,5,13.70
-29-12-2012,Semmering,Slalom,DNQ1,
-20-12-2012,Are,Slalom,DNQ1,
-25-11-2012,"Aspen, CO",Slalom,DNQ1,
-10-11-2012,Levi,Slalom,DNQ1,
-10-03-2012,Are,Slalom,25,14.27
-04-03-2012,Ofterschwang,Slalom,20,8.22
-11-02-2012,Soldeu-Grandvalira,Slalom,24,28.34
-22-01-2012,Kranjska Gora,Slalom,DNQ1,
-03-01-2012,Zagreb,Slalom,DNQ1,
-29-12-2011,Lienz,Slalom,DNF1,
-20-12-2011,Flachau,Slalom,DNQ1,
-18-12-2011,Courchevel,Slalom,DNF1,
-27-11-2011,Aspen,Slalom,DNF1,
-11-01-2011,Flachau,Slalom,DNQ1,
-29-12-2010,Semmering,Slalom,DNF1,
-12-01-2010,Flachau,Slalom,DNQ1,
-03-01-2010,Zagreb,Slalom,DNQ1,
+datum,kraj,disciplina,mesto
+06-03-2016,Jasna,Slalom,DNS1
+15-02-2016,Crans Montana,Slalom,DNQ1
+15-01-2016,Flachau,Slalom,DNQ1
+12-01-2016,Flachau,Slalom,DNF1
+05-01-2016,Santa Caterina Valfurva,Slalom,DNF2
+29-12-2015,Lienz,Slalom,DNQ1
+13-12-2015,Are,Slalom,DNF2
+29-11-2015,"Aspen, CO",Slalom,19
+28-11-2015,"Aspen, CO",Slalom,DNF2
+21-03-2015,Meribel,Slalom,7
+14-03-2015,Are,Slalom,22
+22-02-2015,Maribor,Slalom,15
+13-01-2015,Flachau,Slalom,16
+04-01-2015,Zagreb,Slalom,DNF2
+29-12-2014,Kuehtai in Tirol,Slalom,17
+13-12-2014,Are,Slalom,18
+30-11-2014,Aspen,Slalom,15
+15-11-2014,Levi,Slalom,26
+16-03-2013,Lenzerheide,Slalom,6
+10-03-2013,Ofterschwang,Slalom,12
+27-01-2013,Maribor,Slalom,13
+15-01-2013,Flachau,Slalom,DSQ1
+04-01-2013,Zagreb,Slalom,5
+29-12-2012,Semmering,Slalom,DNQ1
+20-12-2012,Are,Slalom,DNQ1
+25-11-2012,"Aspen, CO",Slalom,DNQ1
+10-11-2012,Levi,Slalom,DNQ1
+10-03-2012,Are,Slalom,25
+04-03-2012,Ofterschwang,Slalom,20
+11-02-2012,Soldeu-Grandvalira,Slalom,24
+22-01-2012,Kranjska Gora,Slalom,DNQ1
+03-01-2012,Zagreb,Slalom,DNQ1
+29-12-2011,Lienz,Slalom,DNF1
+20-12-2011,Flachau,Slalom,DNQ1
+18-12-2011,Courchevel,Slalom,DNF1
+27-11-2011,Aspen,Slalom,DNF1
+11-01-2011,Flachau,Slalom,DNQ1
+29-12-2010,Semmering,Slalom,DNF1
+12-01-2010,Flachau,Slalom,DNQ1
+03-01-2010,Zagreb,Slalom,DNQ1

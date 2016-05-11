@@ -1,25 +1,25 @@
-datum,kraj,disciplina,mesto,zaostanek
-13-03-2016,Lenzerheide,Alpine combined,15,34.51
-12-03-2016,Lenzerheide,Super G,40,37.68
-28-02-2016,Soldeu- El Tarter,Alpine combined,5,13.53
-27-02-2016,Soldeu- El Tarter,Super G,35,48.79
-17-01-2016,Flachau,Giant Slalom,DNQ1,
-15-01-2016,Flachau,Slalom,DNQ1,
-12-01-2016,Flachau,Slalom,DNQ1,
-29-12-2015,Lienz,Slalom,DNQ1,
-28-12-2015,Lienz,Giant Slalom,DNQ1,
-20-12-2015,Courchevel,Giant Slalom,DNQ1,
-13-12-2015,Are,Slalom,22,25.14
-12-12-2015,Are,Giant Slalom,29,31.91
-29-11-2015,"Aspen, CO",Slalom,25,46.43
-28-11-2015,"Aspen, CO",Slalom,DNQ1,
-27-11-2015,"Aspen, CO",Giant Slalom,DNF2,
-22-02-2015,Maribor,Slalom,DNQ1,
-13-01-2015,Flachau,Slalom,DNQ1,
-29-12-2014,Kuehtai in Tirol,Slalom,26,38.79
-14-01-2014,Flachau,Slalom,DNQ1,
-05-01-2014,Bormio,Slalom,DNQ1,
-29-12-2013,Lienz,Slalom,DNF1,
-17-12-2013,Courchevel,Slalom,DNQ1,
-16-11-2013,Levi,Slalom,DNF1,
-26-10-2013,Soelden,Giant Slalom,DNQ1,
+datum,kraj,disciplina,mesto
+13-03-2016,Lenzerheide,Alpine combined,15
+12-03-2016,Lenzerheide,Super G,40
+28-02-2016,Soldeu- El Tarter,Alpine combined,5
+27-02-2016,Soldeu- El Tarter,Super G,35
+17-01-2016,Flachau,Giant Slalom,DNQ1
+15-01-2016,Flachau,Slalom,DNQ1
+12-01-2016,Flachau,Slalom,DNQ1
+29-12-2015,Lienz,Slalom,DNQ1
+28-12-2015,Lienz,Giant Slalom,DNQ1
+20-12-2015,Courchevel,Giant Slalom,DNQ1
+13-12-2015,Are,Slalom,22
+12-12-2015,Are,Giant Slalom,29
+29-11-2015,"Aspen, CO",Slalom,25
+28-11-2015,"Aspen, CO",Slalom,DNQ1
+27-11-2015,"Aspen, CO",Giant Slalom,DNF2
+22-02-2015,Maribor,Slalom,DNQ1
+13-01-2015,Flachau,Slalom,DNQ1
+29-12-2014,Kuehtai in Tirol,Slalom,26
+14-01-2014,Flachau,Slalom,DNQ1
+05-01-2014,Bormio,Slalom,DNQ1
+29-12-2013,Lienz,Slalom,DNF1
+17-12-2013,Courchevel,Slalom,DNQ1
+16-11-2013,Levi,Slalom,DNF1
+26-10-2013,Soelden,Giant Slalom,DNQ1

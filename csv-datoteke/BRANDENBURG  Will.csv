@@ -1,56 +1,56 @@
-datum,kraj,disciplina,mesto,zaostanek
-15-03-2015,Kranjska Gora,Slalom,DNF1,
-27-01-2015,Schladming,Slalom,18,21.72
-25-01-2015,Kitzbuehel,Slalom,DNF1,
-23-01-2015,Kitzbuehel,Alpine combined,DNS1,
-23-01-2015,Kitzbuehel,Super G,DNS1,
-17-01-2015,Wengen,Slalom,DNF1,
-11-01-2015,Adelboden,Slalom,DNF1,
-06-01-2015,Zagreb,Slalom,DNF1,
-22-12-2014,Madonna di Campiglio,Slalom,DNF1,
-14-12-2014,Are,Slalom,DNF1,
-16-11-2014,Levi,Slalom,DNQ1,
-09-03-2014,Kranjska Gora,Slalom,23,14.63
-24-01-2014,Kitzbuehel,Slalom,DNQ1,
-19-01-2014,Wengen,Slalom,DNQ1,
-06-01-2014,Bormio,Slalom,DNQ1,
-15-12-2013,Val d'Isere,Slalom,DNF1,
-17-11-2013,Levi,Slalom,DNQ1,
-10-03-2013,Kranjska Gora,Slalom,DNQ1,
-27-01-2013,Kitzbuehel,Slalom,DNF1,
-20-01-2013,Wengen,Slalom,DNQ1,
-18-01-2013,Wengen,Super Combined,DNF2,
-13-01-2013,Adelboden,Slalom,DNQ1,
-06-01-2013,Zagreb,Slalom,DNF1,
-18-12-2012,Madonna di Campiglio,Slalom,DNF1,
-08-12-2012,Val d'Isere,Slalom,DNF1,
-11-11-2012,Levi,Slalom,15,10.02
-11-03-2012,Kranjska Gora,Slalom,6,5.25
-19-02-2012,Bansko,Slalom,DNF1,
-12-02-2012,Sochi,Super Combined,DNF2,
-24-01-2012,Schladming,Slalom,DSQ1,
-22-01-2012,Kitzbuehel,Slalom,DNF1,
-15-01-2012,Wengen,Slalom,DNF1,
-13-01-2012,Wengen,Super Combined,DNF2,
-08-01-2012,Adelboden,Slalom,22,20.15
-05-01-2012,Zagreb,Slalom,DNF2,
-21-12-2011,Flachau,Slalom,DNQ1,
-19-12-2011,Alta Badia,Slalom,DNF1,
-08-12-2011,Beaver Creek,Slalom,DNF1,
-06-03-2011,Kranjska Gora,Slalom,DNF1,
-27-02-2011,Bansko,Slalom,DNF1,
-26-02-2011,Bansko,Super Combined,DNS2,
-30-01-2011,Chamonix,Super Combined,22,27.50
-29-01-2011,Chamonix,Downhill,51,55.81
-25-01-2011,Schladming,Slalom,DNF1,
-23-01-2011,Kitzbuehel,Slalom,DNF1,
-16-01-2011,Wengen,Slalom,DNF1,
-09-01-2011,Adelboden,Slalom,24,23.05
-06-01-2011,Zagreb,Slalom,DNF1,
-12-12-2010,Val d'Isere,Slalom,DNF2,
-27-11-2010,Lake Louise,Downhill,63,66.39
-14-11-2010,Levi,Slalom,DNF2,
-31-01-2010,Kranjska Gora,Slalom,DNF1,
-24-01-2010,Kitzbuehel,Slalom,DNF1,
-20-01-2008,Kitzbuehel,Slalom,DNF1,
-16-12-2007,La Villa - Alta Badia,Giant Slalom,DNF1,
+datum,kraj,disciplina,mesto
+15-03-2015,Kranjska Gora,Slalom,DNF1
+27-01-2015,Schladming,Slalom,18
+25-01-2015,Kitzbuehel,Slalom,DNF1
+23-01-2015,Kitzbuehel,Alpine combined,DNS1
+23-01-2015,Kitzbuehel,Super G,DNS1
+17-01-2015,Wengen,Slalom,DNF1
+11-01-2015,Adelboden,Slalom,DNF1
+06-01-2015,Zagreb,Slalom,DNF1
+22-12-2014,Madonna di Campiglio,Slalom,DNF1
+14-12-2014,Are,Slalom,DNF1
+16-11-2014,Levi,Slalom,DNQ1
+09-03-2014,Kranjska Gora,Slalom,23
+24-01-2014,Kitzbuehel,Slalom,DNQ1
+19-01-2014,Wengen,Slalom,DNQ1
+06-01-2014,Bormio,Slalom,DNQ1
+15-12-2013,Val d'Isere,Slalom,DNF1
+17-11-2013,Levi,Slalom,DNQ1
+10-03-2013,Kranjska Gora,Slalom,DNQ1
+27-01-2013,Kitzbuehel,Slalom,DNF1
+20-01-2013,Wengen,Slalom,DNQ1
+18-01-2013,Wengen,Super Combined,DNF2
+13-01-2013,Adelboden,Slalom,DNQ1
+06-01-2013,Zagreb,Slalom,DNF1
+18-12-2012,Madonna di Campiglio,Slalom,DNF1
+08-12-2012,Val d'Isere,Slalom,DNF1
+11-11-2012,Levi,Slalom,15
+11-03-2012,Kranjska Gora,Slalom,6
+19-02-2012,Bansko,Slalom,DNF1
+12-02-2012,Sochi,Super Combined,DNF2
+24-01-2012,Schladming,Slalom,DSQ1
+22-01-2012,Kitzbuehel,Slalom,DNF1
+15-01-2012,Wengen,Slalom,DNF1
+13-01-2012,Wengen,Super Combined,DNF2
+08-01-2012,Adelboden,Slalom,22
+05-01-2012,Zagreb,Slalom,DNF2
+21-12-2011,Flachau,Slalom,DNQ1
+19-12-2011,Alta Badia,Slalom,DNF1
+08-12-2011,Beaver Creek,Slalom,DNF1
+06-03-2011,Kranjska Gora,Slalom,DNF1
+27-02-2011,Bansko,Slalom,DNF1
+26-02-2011,Bansko,Super Combined,DNS2
+30-01-2011,Chamonix,Super Combined,22
+29-01-2011,Chamonix,Downhill,51
+25-01-2011,Schladming,Slalom,DNF1
+23-01-2011,Kitzbuehel,Slalom,DNF1
+16-01-2011,Wengen,Slalom,DNF1
+09-01-2011,Adelboden,Slalom,24
+06-01-2011,Zagreb,Slalom,DNF1
+12-12-2010,Val d'Isere,Slalom,DNF2
+27-11-2010,Lake Louise,Downhill,63
+14-11-2010,Levi,Slalom,DNF2
+31-01-2010,Kranjska Gora,Slalom,DNF1
+24-01-2010,Kitzbuehel,Slalom,DNF1
+20-01-2008,Kitzbuehel,Slalom,DNF1
+16-12-2007,La Villa - Alta Badia,Giant Slalom,DNF1

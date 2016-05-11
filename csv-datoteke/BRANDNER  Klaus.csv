@@ -1,39 +1,39 @@
-datum,kraj,disciplina,mesto,zaostanek
-13-03-2016,Kvitfjell,Super G,16,13.98
-12-03-2016,Kvitfjell,Downhill,21,19.82
-27-02-2016,Hinterstoder,Super G,19,23.31
-20-02-2016,Chamonix,Downhill,40,30.73
-19-02-2016,Chamonix,Alpine combined,DNS1,
-07-02-2016,Jeongseon,Super G,14,22.44
-06-02-2016,Jeongseon,Downhill,35,28.98
-30-01-2016,Garmisch Partenkirchen,Downhill,DNF1,
-23-01-2016,Kitzbuehel,Downhill,DNS1,
-22-01-2016,Kitzbuehel,Super G,29,31.74
-29-12-2015,Santa Caterina,Downhill,DNF1,
-19-12-2015,Val Gardena / Groeden,Downhill,44,34.73
-18-12-2015,Val Gardena / Groeden,Super G,42,30.64
-05-12-2015,Beaver Creek,Super G,53,48.91
-04-12-2015,Beaver Creek,Downhill,DNF1,
-29-11-2015,Lake Louise,Super G,DNF1,
-28-11-2015,Lake Louise,Downhill,43,31.34
-08-03-2015,Kvitfjell,Super G,DNF1,
-07-03-2015,Kvitfjell,Downhill,40,22.17
-28-02-2015,Garmisch Partenkirchen,Downhill,19,13.04
-22-02-2015,Saalbach,Super G,DNF1,
-21-02-2015,Saalbach,Downhill,DNF1,
-24-01-2015,Kitzbuehel,Downhill,18,17.84
-23-01-2015,Kitzbuehel,Super G,DNF1,
-18-01-2015,Wengen,Downhill,46,42.19
-28-12-2014,Santa Caterina,Downhill,39,28.27
-20-12-2014,Val Gardena / Groeden,Super G,18,16.11
-19-12-2014,Val Gardena / Groeden,Downhill,38,43.58
-06-12-2014,Beaver Creek,Super G,DNF1,
-30-11-2014,Lake Louise,Super G,DNF1,
-02-03-2014,Kvitfjell,Super G,20,17.35
-01-03-2014,Kvitfjell,Downhill,61,45.02
-28-02-2014,Kvitfjell,Downhill,46,29.81
-18-01-2014,Wengen,Downhill,DNF1,
-29-12-2013,Bormio,Downhill,57,45.27
-21-12-2013,Val Gardena / Groeden,Downhill,50,48.62
-20-12-2013,Val Gardena / Groeden,Super G,42,42.30
-23-02-2013,Garmisch-Partenkirchen,Downhill,59,57.00
+datum,kraj,disciplina,mesto
+13-03-2016,Kvitfjell,Super G,16
+12-03-2016,Kvitfjell,Downhill,21
+27-02-2016,Hinterstoder,Super G,19
+20-02-2016,Chamonix,Downhill,40
+19-02-2016,Chamonix,Alpine combined,DNS1
+07-02-2016,Jeongseon,Super G,14
+06-02-2016,Jeongseon,Downhill,35
+30-01-2016,Garmisch Partenkirchen,Downhill,DNF1
+23-01-2016,Kitzbuehel,Downhill,DNS1
+22-01-2016,Kitzbuehel,Super G,29
+29-12-2015,Santa Caterina,Downhill,DNF1
+19-12-2015,Val Gardena / Groeden,Downhill,44
+18-12-2015,Val Gardena / Groeden,Super G,42
+05-12-2015,Beaver Creek,Super G,53
+04-12-2015,Beaver Creek,Downhill,DNF1
+29-11-2015,Lake Louise,Super G,DNF1
+28-11-2015,Lake Louise,Downhill,43
+08-03-2015,Kvitfjell,Super G,DNF1
+07-03-2015,Kvitfjell,Downhill,40
+28-02-2015,Garmisch Partenkirchen,Downhill,19
+22-02-2015,Saalbach,Super G,DNF1
+21-02-2015,Saalbach,Downhill,DNF1
+24-01-2015,Kitzbuehel,Downhill,18
+23-01-2015,Kitzbuehel,Super G,DNF1
+18-01-2015,Wengen,Downhill,46
+28-12-2014,Santa Caterina,Downhill,39
+20-12-2014,Val Gardena / Groeden,Super G,18
+19-12-2014,Val Gardena / Groeden,Downhill,38
+06-12-2014,Beaver Creek,Super G,DNF1
+30-11-2014,Lake Louise,Super G,DNF1
+02-03-2014,Kvitfjell,Super G,20
+01-03-2014,Kvitfjell,Downhill,61
+28-02-2014,Kvitfjell,Downhill,46
+18-01-2014,Wengen,Downhill,DNF1
+29-12-2013,Bormio,Downhill,57
+21-12-2013,Val Gardena / Groeden,Downhill,50
+20-12-2013,Val Gardena / Groeden,Super G,42
+23-02-2013,Garmisch-Partenkirchen,Downhill,59

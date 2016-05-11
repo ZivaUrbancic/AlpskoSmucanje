@@ -1,18 +1,18 @@
-datum,kraj,disciplina,mesto,zaostanek
-18-12-2015,Val d'IsÃ¨re,Alpine combined,32,57.54
-29-11-2015,"Aspen, CO",Slalom,DNQ1,
-28-11-2015,"Aspen, CO",Slalom,DNQ1,
-13-01-2015,Flachau,Slalom,DNQ1,
-04-01-2015,Zagreb,Slalom,DNF1,
-29-12-2014,Kuehtai in Tirol,Slalom,DNF1,
-13-12-2014,Are,Slalom,21,20.77
-30-11-2014,Aspen,Slalom,30,64.18
-15-11-2014,Levi,Slalom,22,18.45
-15-03-2014,Lenzerheide,Slalom,15,29.62
-08-03-2014,Are,Slalom,DNF1,
-02-02-2014,Kranjska Gora,Slalom,DNQ1,
-14-01-2014,Flachau,Slalom,DNQ1,
-05-01-2014,Bormio,Slalom,DNQ1,
-29-12-2013,Lienz,Slalom,DNQ1,
-17-12-2013,Courchevel,Slalom,DNS1,
-16-11-2013,Levi,Slalom,4,8.94
+datum,kraj,disciplina,mesto
+18-12-2015,Val d'IsÃ¨re,Alpine combined,32
+29-11-2015,"Aspen, CO",Slalom,DNQ1
+28-11-2015,"Aspen, CO",Slalom,DNQ1
+13-01-2015,Flachau,Slalom,DNQ1
+04-01-2015,Zagreb,Slalom,DNF1
+29-12-2014,Kuehtai in Tirol,Slalom,DNF1
+13-12-2014,Are,Slalom,21
+30-11-2014,Aspen,Slalom,30
+15-11-2014,Levi,Slalom,22
+15-03-2014,Lenzerheide,Slalom,15
+08-03-2014,Are,Slalom,DNF1
+02-02-2014,Kranjska Gora,Slalom,DNQ1
+14-01-2014,Flachau,Slalom,DNQ1
+05-01-2014,Bormio,Slalom,DNQ1
+29-12-2013,Lienz,Slalom,DNQ1
+17-12-2013,Courchevel,Slalom,DNS1
+16-11-2013,Levi,Slalom,4
