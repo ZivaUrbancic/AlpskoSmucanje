@@ -8,6 +8,7 @@ __1. Smučarji__
 Osnovne podatke o tekmovalcih sem pobrala s strani [World Cup Athletes](http://www.fis-ski.com/alpine-skiing/athletes/). Zajeti podatki:
   * ime in priimek
   * id na strani FIS
+  * proizvajalec smuči
   
 __2. Rezultati__  
 Podatke o rezultatih sem pobrala s strani z biografijo tekmovalca (npr. [Nadia Fanchini](http://data.fis-ski.com/dynamic/athlete-biography.html?sector=AL&listid=&competitorid=71263&type=result&rec_start=0&limit=100)).  Povezavo sem sestavila z id-jem tekmovalca. Zajeti podatki:
@@ -24,7 +25,7 @@ Večinoma bom analizirala podatke za posamezne tekmovalce:
   * potek sezone
   * priljubljena prizorišča
 
-Ogledala si bom tudi vodilne v seštevkih posameznih disciplin, tekmovanja v kombinaciji, pretekle sezone in potek kariere.
+Ogledala si bom tudi analizo narodnosti in proizvajalcev smuči ter poiskala najboljše v sezoni 2015/16.
 
 ## Možne razširitve:
-Analiza opreme, drugih pokalov (analiziram le podatke za tekme svetovnega pokala), ekip (narodnosti) in smučarjev, ki so že zaključili profesionalno kariero.
+Analiza drugih pokalov (analiziram le podatke za tekme svetovnega pokala), ekip in smučarjev, ki so že zaključili profesionalno kariero.
