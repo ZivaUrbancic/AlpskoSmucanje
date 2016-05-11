@@ -1,76 +1,76 @@
-datum,kraj,disciplina,mesto
-20-03-2016,St. Moritz,Slalom,16
-06-03-2016,Kranjska Gora,Slalom,3
-23-02-2016,Stockholm,City Event,3
-14-02-2016,Yuzawa Naeba,Slalom,11
-26-01-2016,Schladming,Slalom,6
-24-01-2016,Kitzbuehel,Slalom,13
-17-01-2016,Wengen,Slalom,3
-10-01-2016,Adelboden,Slalom,5
-06-01-2016,Santa Caterina Valfurva,Slalom,12
-22-12-2015,Madonna di Campiglio,Slalom,17
-13-12-2015,Val d'IsÃ¨re,Slalom,DNF1
-22-03-2015,Meribel,Slalom,6
-15-03-2015,Kranjska Gora,Slalom,25
-27-01-2015,Schladming,Slalom,2
-25-01-2015,Kitzbuehel,Slalom,8
-17-01-2015,Wengen,Slalom,2
-11-01-2015,Adelboden,Slalom,1
-06-01-2015,Zagreb,Slalom,7
-22-12-2014,Madonna di Campiglio,Slalom,11
-14-12-2014,Are,Slalom,12
-16-11-2014,Levi,Slalom,21
-16-03-2014,Lenzerheide,Slalom,4
-09-03-2014,Kranjska Gora,Slalom,10
-28-01-2014,Schladming,Slalom,DNF1
-24-01-2014,Kitzbuehel,Slalom,DNF2
-19-01-2014,Wengen,Slalom,12
-12-01-2014,Adelboden,Slalom,9
-06-01-2014,Bormio,Slalom,22
-15-12-2013,Val d'Isere,Slalom,17
-17-11-2013,Levi,Slalom,16
-17-03-2013,Lenzerheide,Slalom,14
-10-03-2013,Kranjska Gora,Slalom,20
-29-01-2013,City Event Moscow,City Event,9
-27-01-2013,Kitzbuehel,Slalom,11
-20-01-2013,Wengen,Slalom,5
-13-01-2013,Adelboden,Slalom,DNQ1
-06-01-2013,Zagreb,Slalom,4
-01-01-2013,City Event Munich,City Event,9
-18-12-2012,Madonna di Campiglio,Slalom,DNQ1
-08-12-2012,Val d'Isere,Slalom,DNF2
-11-11-2012,Levi,Slalom,21
-18-03-2012,Schladming,Slalom,7
-11-03-2012,Kranjska Gora,Slalom,4
-21-02-2012,Moscow,City Event,9
-19-02-2012,Bansko,Slalom,3
-24-01-2012,Schladming,Slalom,2
-22-01-2012,Kitzbuehel,Slalom,DNF2
-15-01-2012,Wengen,Slalom,7
-08-01-2012,Adelboden,Slalom,3
-05-01-2012,Zagreb,Slalom,10
-21-12-2011,Flachau,Slalom,23
-19-12-2011,Alta Badia,Slalom,8
-08-12-2011,Beaver Creek,Slalom,11
-06-03-2011,Kranjska Gora,Slalom,DNF1
-27-02-2011,Bansko,Slalom,12
-25-01-2011,Schladming,Slalom,DNQ1
-23-01-2011,Kitzbuehel,Slalom,DNQ1
-16-01-2011,Wengen,Slalom,DNF1
-09-01-2011,Adelboden,Slalom,28
-06-01-2011,Zagreb,Slalom,13
-12-12-2010,Val d'Isere,Slalom,DNQ1
-14-11-2010,Levi,Slalom,DNQ1
-31-01-2010,Kranjska Gora,Slalom,21
-26-01-2010,Schladming,Slalom,DNF1
-24-01-2010,Kitzbuehel,Slalom,DNQ1
-17-01-2010,Wengen,Slalom,DNQ1
-10-01-2010,Adelboden,Slalom,DNF1
-06-01-2010,Zagreb,Slalom,DNF1
-21-12-2009,Alta Badia,Slalom,DNF1
-15-11-2009,Levi,Slalom,DNF1
-01-03-2009,Kranjska Gora,Slalom,DNQ1
-01-02-2009,Garmisch Partenkirchen,Slalom,25
-27-01-2009,Schladming,Slalom,DNQ1
-25-01-2009,Kitzbuehel,Slalom,DNF1
-22-12-2008,Alta Badia,Slalom,DNF1
+datum,kraj,disciplina,mesto,zaostanek
+20-03-2016,St. Moritz,Slalom,16,10.90
+06-03-2016,Kranjska Gora,Slalom,3,7.52
+23-02-2016,Stockholm,City Event,3,
+14-02-2016,Yuzawa Naeba,Slalom,11,6.94
+26-01-2016,Schladming,Slalom,6,8.74
+24-01-2016,Kitzbuehel,Slalom,13,15.24
+17-01-2016,Wengen,Slalom,3,5.00
+10-01-2016,Adelboden,Slalom,5,7.95
+06-01-2016,Santa Caterina Valfurva,Slalom,12,12.51
+22-12-2015,Madonna di Campiglio,Slalom,17,21.35
+13-12-2015,Val d'IsÃ¨re,Slalom,DNF1,
+22-03-2015,Meribel,Slalom,6,9.16
+15-03-2015,Kranjska Gora,Slalom,25,22.54
+27-01-2015,Schladming,Slalom,2,9.75
+25-01-2015,Kitzbuehel,Slalom,8,9.22
+17-01-2015,Wengen,Slalom,2,1.35
+11-01-2015,Adelboden,Slalom,1,0.00
+06-01-2015,Zagreb,Slalom,7,10.37
+22-12-2014,Madonna di Campiglio,Slalom,11,12.96
+14-12-2014,Are,Slalom,12,11.62
+16-11-2014,Levi,Slalom,21,25.96
+16-03-2014,Lenzerheide,Slalom,4,9.22
+09-03-2014,Kranjska Gora,Slalom,10,9.58
+28-01-2014,Schladming,Slalom,DNF1,
+24-01-2014,Kitzbuehel,Slalom,DNF2,
+19-01-2014,Wengen,Slalom,12,8.38
+12-01-2014,Adelboden,Slalom,9,9.83
+06-01-2014,Bormio,Slalom,22,12.53
+15-12-2013,Val d'Isere,Slalom,17,9.90
+17-11-2013,Levi,Slalom,16,13.64
+17-03-2013,Lenzerheide,Slalom,14,15.53
+10-03-2013,Kranjska Gora,Slalom,20,20.57
+29-01-2013,City Event Moscow,City Event,9,0.00
+27-01-2013,Kitzbuehel,Slalom,11,9.75
+20-01-2013,Wengen,Slalom,5,3.48
+13-01-2013,Adelboden,Slalom,DNQ1,
+06-01-2013,Zagreb,Slalom,4,6.14
+01-01-2013,City Event Munich,City Event,9,0.00
+18-12-2012,Madonna di Campiglio,Slalom,DNQ1,
+08-12-2012,Val d'Isere,Slalom,DNF2,
+11-11-2012,Levi,Slalom,21,12.11
+18-03-2012,Schladming,Slalom,7,9.90
+11-03-2012,Kranjska Gora,Slalom,4,4.35
+21-02-2012,Moscow,City Event,9,0.00
+19-02-2012,Bansko,Slalom,3,4.87
+24-01-2012,Schladming,Slalom,2,1.30
+22-01-2012,Kitzbuehel,Slalom,DNF2,
+15-01-2012,Wengen,Slalom,7,7.74
+08-01-2012,Adelboden,Slalom,3,5.09
+05-01-2012,Zagreb,Slalom,10,12.93
+21-12-2011,Flachau,Slalom,23,15.23
+19-12-2011,Alta Badia,Slalom,8,7.57
+08-12-2011,Beaver Creek,Slalom,11,7.14
+06-03-2011,Kranjska Gora,Slalom,DNF1,
+27-02-2011,Bansko,Slalom,12,9.29
+25-01-2011,Schladming,Slalom,DNQ1,
+23-01-2011,Kitzbuehel,Slalom,DNQ1,
+16-01-2011,Wengen,Slalom,DNF1,
+09-01-2011,Adelboden,Slalom,28,101.98
+06-01-2011,Zagreb,Slalom,13,6.49
+12-12-2010,Val d'Isere,Slalom,DNQ1,
+14-11-2010,Levi,Slalom,DNQ1,
+31-01-2010,Kranjska Gora,Slalom,21,16.12
+26-01-2010,Schladming,Slalom,DNF1,
+24-01-2010,Kitzbuehel,Slalom,DNQ1,
+17-01-2010,Wengen,Slalom,DNQ1,
+10-01-2010,Adelboden,Slalom,DNF1,
+06-01-2010,Zagreb,Slalom,DNF1,
+21-12-2009,Alta Badia,Slalom,DNF1,
+15-11-2009,Levi,Slalom,DNF1,
+01-03-2009,Kranjska Gora,Slalom,DNQ1,
+01-02-2009,Garmisch Partenkirchen,Slalom,25,20.23
+27-01-2009,Schladming,Slalom,DNQ1,
+25-01-2009,Kitzbuehel,Slalom,DNF1,
+22-12-2008,Alta Badia,Slalom,DNF1,

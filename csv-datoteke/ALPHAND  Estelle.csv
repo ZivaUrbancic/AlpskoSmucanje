@@ -1,20 +1,20 @@
-datum,kraj,disciplina,mesto
-13-03-2016,Lenzerheide,Alpine combined,DNF2
-12-03-2016,Lenzerheide,Super G,44
-15-02-2016,Crans Montana,Slalom,DNF1
-30-01-2016,Maribor,Giant Slalom,DNQ1
-17-01-2016,Flachau,Giant Slalom,DNQ1
-15-01-2016,Flachau,Slalom,DNF1
-12-01-2016,Flachau,Slalom,DNQ1
-05-01-2016,Santa Caterina Valfurva,Slalom,DNF1
-28-12-2015,Lienz,Giant Slalom,26
-20-12-2015,Courchevel,Giant Slalom,DNQ1
-12-12-2015,Are,Giant Slalom,DNQ1
-29-11-2015,"Aspen, CO",Slalom,DNQ1
-28-11-2015,"Aspen, CO",Slalom,DNF1
-27-11-2015,"Aspen, CO",Giant Slalom,21
-24-10-2015,Soelden,Giant Slalom,DNF1
-22-02-2015,Maribor,Slalom,DNQ1
-07-03-2014,Are,Giant Slalom,DNQ1
-06-03-2014,Are,Giant Slalom,DNQ1
-09-03-2013,Ofterschwang,Giant Slalom,DNF1
+datum,kraj,disciplina,mesto,zaostanek
+13-03-2016,Lenzerheide,Alpine combined,DNF2,
+12-03-2016,Lenzerheide,Super G,44,43.91
+15-02-2016,Crans Montana,Slalom,DNF1,
+30-01-2016,Maribor,Giant Slalom,DNQ1,
+17-01-2016,Flachau,Giant Slalom,DNQ1,
+15-01-2016,Flachau,Slalom,DNF1,
+12-01-2016,Flachau,Slalom,DNQ1,
+05-01-2016,Santa Caterina Valfurva,Slalom,DNF1,
+28-12-2015,Lienz,Giant Slalom,26,36.71
+20-12-2015,Courchevel,Giant Slalom,DNQ1,
+12-12-2015,Are,Giant Slalom,DNQ1,
+29-11-2015,"Aspen, CO",Slalom,DNQ1,
+28-11-2015,"Aspen, CO",Slalom,DNF1,
+27-11-2015,"Aspen, CO",Giant Slalom,21,31.52
+24-10-2015,Soelden,Giant Slalom,DNF1,
+22-02-2015,Maribor,Slalom,DNQ1,
+07-03-2014,Are,Giant Slalom,DNQ1,
+06-03-2014,Are,Giant Slalom,DNQ1,
+09-03-2013,Ofterschwang,Giant Slalom,DNF1,

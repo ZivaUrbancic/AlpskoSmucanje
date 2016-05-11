@@ -1,132 +1,132 @@
-datum,kraj,disciplina,mesto
-20-03-2016,St. Moritz,Giant Slalom,8
-07-03-2016,Jasna,Giant Slalom,11
-30-01-2016,Maribor,Giant Slalom,2
-17-01-2016,Flachau,Giant Slalom,2
-28-12-2015,Lienz,Giant Slalom,DNF2
-20-12-2015,Courchevel,Giant Slalom,7
-12-12-2015,Are,Giant Slalom,12
-27-11-2015,"Aspen, CO",Giant Slalom,22
-24-10-2015,Soelden,Giant Slalom,DNF1
-22-03-2015,Meribel,Giant Slalom,15
-13-03-2015,Are,Giant Slalom,11
-21-02-2015,Maribor,Giant Slalom,DNF2
-19-01-2015,Cortina d'Ampezzo,Super G,39
-28-12-2014,Kuehtai in Tirol,Giant Slalom,DNQ1
-12-12-2014,Are,Giant Slalom,14
-29-11-2014,Aspen,Giant Slalom,14
-25-10-2014,Soelden,Giant Slalom,DNS1
-28-12-2013,Lienz,Giant Slalom,DNQ1
-22-12-2013,Val d'Isere,Giant Slalom,DNQ1
-15-12-2013,St. Moritz,Giant Slalom,DNQ1
-01-12-2013,Beaver Creek,Giant Slalom,DSQ1
-17-03-2013,Lenzerheide,Giant Slalom,DNF1
-09-03-2013,Ofterschwang,Giant Slalom,18
-26-01-2013,Maribor,Giant Slalom,22
-28-12-2012,Semmering,Giant Slalom,DNQ1
-20-12-2012,Are,Slalom,DNF1
-19-12-2012,Are,Giant Slalom,24
-16-12-2012,Courchevel,Giant Slalom,10
-09-12-2012,St. Moritz,Giant Slalom,15
-25-11-2012,"Aspen, CO",Slalom,DNF1
-24-11-2012,"Aspen, CO",Giant Slalom,18
-27-10-2012,Soelden,Giant Slalom,13
-09-03-2012,Are,Giant Slalom,DNF1
-03-03-2012,Ofterschwang,Giant Slalom,20
-02-03-2012,Ofterschwang,Giant Slalom,20
-12-02-2012,Soldeu-Grandvalira,Giant Slalom,DNQ1
-21-01-2012,Kranjska Gora,Giant Slalom,26
-28-12-2011,Lienz,Giant Slalom,28
-26-11-2011,Aspen,Giant Slalom,DNF1
-22-10-2011,Soelden,Giant Slalom,28
-06-02-2011,Arber-Zwiesel,Giant Slalom,DNQ1
-29-12-2010,Semmering,Slalom,DNQ1
-28-12-2010,Semmering,Giant Slalom,DNQ1
-12-12-2010,St. Moritz,Giant Slalom,22
-27-11-2010,Aspen,Giant Slalom,DNQ1
-23-10-2010,Soelden,Giant Slalom,DNQ1
-24-01-2010,Cortina d'Ampezzo,Giant Slalom,DNQ1
-17-01-2010,Maribor,Slalom,DNF1
-16-01-2010,Maribor,Giant Slalom,DNQ1
-10-01-2010,Haus im Ennstal,Super G,DNS1
-29-12-2009,Lienz,Slalom,DNF1
-28-12-2009,Lienz,Giant Slalom,DNQ1
-13-12-2009,Are,Slalom,DNQ1
-12-12-2009,Are,Giant Slalom,DNQ1
-28-11-2009,Aspen,Giant Slalom,DNQ1
-24-10-2009,Soelden,Giant Slalom,DNQ1
-06-03-2009,Ofterschwang,Giant Slalom,DNF1
-25-01-2009,Cortina d'Ampezzo,Giant Slalom,27
-11-01-2009,Maribor,Slalom,DNF1
-10-01-2009,Maribor,Giant Slalom,DNQ1
-29-12-2008,Semmering,Slalom,DNF1
-28-12-2008,Semmering,Giant Slalom,DNQ1
-13-12-2008,La Molina,Giant Slalom,DNQ1
-29-11-2008,Aspen,Giant Slalom,DNQ1
-25-10-2008,Soelden,Giant Slalom,25
-21-01-2008,Cortina d'Ampezzo,Super G,34
-20-01-2008,Cortina d'Ampezzo,Super G,38
-13-01-2008,Maribor,Slalom,DNF1
-12-01-2008,Maribor,Giant Slalom,26
-06-01-2008,Spindleruv Mlyn,Slalom,DNF1
-05-01-2008,Spindleruv Mlyn,Giant Slalom,DNQ1
-29-12-2007,Lienz,Slalom,27
-28-12-2007,Lienz,Giant Slalom,18
-16-12-2007,St. Moritz,Super G,27
-09-12-2007,"Aspen, CO",Slalom,18
-08-12-2007,"Aspen, CO",Downhill,DNS1
-02-12-2007,"Lake Louise, AB",Super G,DNF1
-25-11-2007,"Panorama, BC",Slalom,DNF1
-24-11-2007,"Panorama, BC",Giant Slalom,8
-10-11-2007,Reiteralm,Slalom,DNQ1
-27-10-2007,Soelden,Giant Slalom,16
-10-03-2007,Zwiesel,Giant Slalom,DNQ1
-25-02-2007,Sierra Nevada,Slalom,DNS1
-24-02-2007,Sierra Nevada,Giant Slalom,DNF1
-21-01-2007,Cortina d'Ampezzo,Giant Slalom,DNF1
-19-01-2007,Cortina d'Ampezzo,Super G,49
-07-01-2007,Kranjska Gora,Slalom,DNF1
-06-01-2007,Kranjska Gora,Giant Slalom,22
-28-12-2006,Semmering,Giant Slalom,24
-26-11-2006,"Aspen, CO",Slalom,DNQ1
-25-11-2006,"Aspen, CO",Giant Slalom,11
-11-11-2006,Levi,Slalom,DNQ1
-18-03-2006,Are,Giant Slalom,18
-05-03-2006,Hafjell/Kvitfjell,Giant Slalom,16
-04-03-2006,Hafjell/Kvitfjell,Super Combined,28
-03-03-2006,Hafjell/Kvitfjell,Super G,DNF1
-05-02-2006,Ofterschwang,Slalom,DNS1
-04-02-2006,Ofterschwang,Giant Slalom,28
-03-02-2006,Ofterschwang,Giant Slalom,DNQ1
-29-01-2006,Cortina d'Ampezzo,Giant Slalom,20
-27-01-2006,Cortina d'Ampezzo,Super G,35
-08-01-2006,Maribor,Slalom,DNF1
-28-12-2005,Lienz,Giant Slalom,15
-21-12-2005,Spindleruv Mlyn,Giant Slalom,DSQ2
-10-12-2005,"Aspen, CO",Giant Slalom,15
-22-10-2005,Soelden,Giant Slalom,13
-23-01-2005,Maribor,Slalom,DNQ2
-22-01-2005,Maribor,Giant Slalom,DNQ2
-08-01-2005,Santa Caterina,Giant Slalom,DNQ1
-29-12-2004,Semmering,Slalom,DNF1
-28-12-2004,Semmering,Giant Slalom,DNQ1
-22-12-2004,St. Moritz,Giant Slalom,DNQ2
-28-11-2004,"Aspen, CO",Slalom,DNF1
-27-11-2004,"Aspen, CO",Slalom,DNF1
-26-11-2004,"Aspen, CO",Giant Slalom,DNQ1
-23-10-2004,Soelden,Giant Slalom,25
-07-02-2004,Zwiesel,Giant Slalom,DNF1
-25-01-2004,Maribor,Slalom,DNF1
-24-01-2004,Maribor,Giant Slalom,DNQ1
-13-12-2003,Alta Badia,Giant Slalom,DNF1
-26-01-2003,Maribor,Slalom,DNF1
-25-01-2003,Maribor,Giant Slalom,DNQ1
-05-01-2003,Bormio,Slalom,DNF1
-04-01-2003,Bormio,Giant Slalom,DNQ1
-29-12-2002,Semmering,Slalom,DNQ1
-26-10-2002,Soelden,Giant Slalom,DNQ1
-04-01-2002,Maribor,Giant Slalom,DNQ1
-28-12-2001,Lienz,Giant Slalom,DNF1
-16-12-2001,Val d'Isere,Giant Slalom,DNF1
-22-11-2001,"Copper Mountain, CO",Slalom,DNQ1
-27-10-2001,Soelden,Giant Slalom,DNQ1
+datum,kraj,disciplina,mesto,zaostanek
+20-03-2016,St. Moritz,Giant Slalom,8,10.93
+07-03-2016,Jasna,Giant Slalom,11,10.35
+30-01-2016,Maribor,Giant Slalom,2,2.09
+17-01-2016,Flachau,Giant Slalom,2,6.16
+28-12-2015,Lienz,Giant Slalom,DNF2,
+20-12-2015,Courchevel,Giant Slalom,7,6.44
+12-12-2015,Are,Giant Slalom,12,14.46
+27-11-2015,"Aspen, CO",Giant Slalom,22,35.04
+24-10-2015,Soelden,Giant Slalom,DNF1,
+22-03-2015,Meribel,Giant Slalom,15,25.68
+13-03-2015,Are,Giant Slalom,11,10.87
+21-02-2015,Maribor,Giant Slalom,DNF2,
+19-01-2015,Cortina d'Ampezzo,Super G,39,83.76
+28-12-2014,Kuehtai in Tirol,Giant Slalom,DNQ1,
+12-12-2014,Are,Giant Slalom,14,13.22
+29-11-2014,Aspen,Giant Slalom,14,20.38
+25-10-2014,Soelden,Giant Slalom,DNS1,
+28-12-2013,Lienz,Giant Slalom,DNQ1,
+22-12-2013,Val d'Isere,Giant Slalom,DNQ1,
+15-12-2013,St. Moritz,Giant Slalom,DNQ1,
+01-12-2013,Beaver Creek,Giant Slalom,DSQ1,
+17-03-2013,Lenzerheide,Giant Slalom,DNF1,
+09-03-2013,Ofterschwang,Giant Slalom,18,21.21
+26-01-2013,Maribor,Giant Slalom,22,14.77
+28-12-2012,Semmering,Giant Slalom,DNQ1,
+20-12-2012,Are,Slalom,DNF1,
+19-12-2012,Are,Giant Slalom,24,31.25
+16-12-2012,Courchevel,Giant Slalom,10,19.25
+09-12-2012,St. Moritz,Giant Slalom,15,24.78
+25-11-2012,"Aspen, CO",Slalom,DNF1,
+24-11-2012,"Aspen, CO",Giant Slalom,18,24.60
+27-10-2012,Soelden,Giant Slalom,13,25.80
+09-03-2012,Are,Giant Slalom,DNF1,
+03-03-2012,Ofterschwang,Giant Slalom,20,13.96
+02-03-2012,Ofterschwang,Giant Slalom,20,12.49
+12-02-2012,Soldeu-Grandvalira,Giant Slalom,DNQ1,
+21-01-2012,Kranjska Gora,Giant Slalom,26,28.71
+28-12-2011,Lienz,Giant Slalom,28,21.74
+26-11-2011,Aspen,Giant Slalom,DNF1,
+22-10-2011,Soelden,Giant Slalom,28,24.40
+06-02-2011,Arber-Zwiesel,Giant Slalom,DNQ1,
+29-12-2010,Semmering,Slalom,DNQ1,
+28-12-2010,Semmering,Giant Slalom,DNQ1,
+12-12-2010,St. Moritz,Giant Slalom,22,18.04
+27-11-2010,Aspen,Giant Slalom,DNQ1,
+23-10-2010,Soelden,Giant Slalom,DNQ1,
+24-01-2010,Cortina d'Ampezzo,Giant Slalom,DNQ1,
+17-01-2010,Maribor,Slalom,DNF1,
+16-01-2010,Maribor,Giant Slalom,DNQ1,
+10-01-2010,Haus im Ennstal,Super G,DNS1,
+29-12-2009,Lienz,Slalom,DNF1,
+28-12-2009,Lienz,Giant Slalom,DNQ1,
+13-12-2009,Are,Slalom,DNQ1,
+12-12-2009,Are,Giant Slalom,DNQ1,
+28-11-2009,Aspen,Giant Slalom,DNQ1,
+24-10-2009,Soelden,Giant Slalom,DNQ1,
+06-03-2009,Ofterschwang,Giant Slalom,DNF1,
+25-01-2009,Cortina d'Ampezzo,Giant Slalom,27,27.96
+11-01-2009,Maribor,Slalom,DNF1,
+10-01-2009,Maribor,Giant Slalom,DNQ1,
+29-12-2008,Semmering,Slalom,DNF1,
+28-12-2008,Semmering,Giant Slalom,DNQ1,
+13-12-2008,La Molina,Giant Slalom,DNQ1,
+29-11-2008,Aspen,Giant Slalom,DNQ1,
+25-10-2008,Soelden,Giant Slalom,25,27.76
+21-01-2008,Cortina d'Ampezzo,Super G,34,31.60
+20-01-2008,Cortina d'Ampezzo,Super G,38,30.30
+13-01-2008,Maribor,Slalom,DNF1,
+12-01-2008,Maribor,Giant Slalom,26,33.70
+06-01-2008,Spindleruv Mlyn,Slalom,DNF1,
+05-01-2008,Spindleruv Mlyn,Giant Slalom,DNQ1,
+29-12-2007,Lienz,Slalom,27,23.88
+28-12-2007,Lienz,Giant Slalom,18,23.59
+16-12-2007,St. Moritz,Super G,27,23.33
+09-12-2007,"Aspen, CO",Slalom,18,24.70
+08-12-2007,"Aspen, CO",Downhill,DNS1,
+02-12-2007,"Lake Louise, AB",Super G,DNF1,
+25-11-2007,"Panorama, BC",Slalom,DNF1,
+24-11-2007,"Panorama, BC",Giant Slalom,8,9.14
+10-11-2007,Reiteralm,Slalom,DNQ1,
+27-10-2007,Soelden,Giant Slalom,16,7.80
+10-03-2007,Zwiesel,Giant Slalom,DNQ1,
+25-02-2007,Sierra Nevada,Slalom,DNS1,
+24-02-2007,Sierra Nevada,Giant Slalom,DNF1,
+21-01-2007,Cortina d'Ampezzo,Giant Slalom,DNF1,
+19-01-2007,Cortina d'Ampezzo,Super G,49,60.38
+07-01-2007,Kranjska Gora,Slalom,DNF1,
+06-01-2007,Kranjska Gora,Giant Slalom,22,26.29
+28-12-2006,Semmering,Giant Slalom,24,25.35
+26-11-2006,"Aspen, CO",Slalom,DNQ1,
+25-11-2006,"Aspen, CO",Giant Slalom,11,22.82
+11-11-2006,Levi,Slalom,DNQ1,
+18-03-2006,Are,Giant Slalom,18,25.12
+05-03-2006,Hafjell/Kvitfjell,Giant Slalom,16,13.91
+04-03-2006,Hafjell/Kvitfjell,Super Combined,28,
+03-03-2006,Hafjell/Kvitfjell,Super G,DNF1,
+05-02-2006,Ofterschwang,Slalom,DNS1,
+04-02-2006,Ofterschwang,Giant Slalom,28,23.31
+03-02-2006,Ofterschwang,Giant Slalom,DNQ1,
+29-01-2006,Cortina d'Ampezzo,Giant Slalom,20,16.04
+27-01-2006,Cortina d'Ampezzo,Super G,35,40.36
+08-01-2006,Maribor,Slalom,DNF1,
+28-12-2005,Lienz,Giant Slalom,15,13.52
+21-12-2005,Spindleruv Mlyn,Giant Slalom,DSQ2,
+10-12-2005,"Aspen, CO",Giant Slalom,15,18.49
+22-10-2005,Soelden,Giant Slalom,13,16.55
+23-01-2005,Maribor,Slalom,DNQ2,
+22-01-2005,Maribor,Giant Slalom,DNQ2,
+08-01-2005,Santa Caterina,Giant Slalom,DNQ1,
+29-12-2004,Semmering,Slalom,DNF1,
+28-12-2004,Semmering,Giant Slalom,DNQ1,
+22-12-2004,St. Moritz,Giant Slalom,DNQ2,
+28-11-2004,"Aspen, CO",Slalom,DNF1,
+27-11-2004,"Aspen, CO",Slalom,DNF1,
+26-11-2004,"Aspen, CO",Giant Slalom,DNQ1,
+23-10-2004,Soelden,Giant Slalom,25,26.48
+07-02-2004,Zwiesel,Giant Slalom,DNF1,
+25-01-2004,Maribor,Slalom,DNF1,
+24-01-2004,Maribor,Giant Slalom,DNQ1,
+13-12-2003,Alta Badia,Giant Slalom,DNF1,
+26-01-2003,Maribor,Slalom,DNF1,
+25-01-2003,Maribor,Giant Slalom,DNQ1,
+05-01-2003,Bormio,Slalom,DNF1,
+04-01-2003,Bormio,Giant Slalom,DNQ1,
+29-12-2002,Semmering,Slalom,DNQ1,
+26-10-2002,Soelden,Giant Slalom,DNQ1,
+04-01-2002,Maribor,Giant Slalom,DNQ1,
+28-12-2001,Lienz,Giant Slalom,DNF1,
+16-12-2001,Val d'Isere,Giant Slalom,DNF1,
+22-11-2001,"Copper Mountain, CO",Slalom,DNQ1,
+27-10-2001,Soelden,Giant Slalom,DNQ1,

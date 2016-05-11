@@ -1,12 +1,12 @@
-datum,kraj,disciplina,mesto
-13-03-2016,Kvitfjell,Super G,32
-12-03-2016,Kvitfjell,Downhill,28
-27-02-2016,Hinterstoder,Super G,DNF1
-19-02-2016,Chamonix,Alpine combined,43
-19-12-2015,Val Gardena / Groeden,Downhill,51
-18-03-2015,Meribel,Downhill,25
-08-03-2015,Kvitfjell,Super G,DNF1
-07-03-2015,Kvitfjell,Downhill,51
-20-12-2014,Val Gardena / Groeden,Super G,53
-06-12-2014,Beaver Creek,Super G,43
-30-11-2014,Lake Louise,Super G,55
+datum,kraj,disciplina,mesto,zaostanek
+13-03-2016,Kvitfjell,Super G,32,25.28
+12-03-2016,Kvitfjell,Downhill,28,22.88
+27-02-2016,Hinterstoder,Super G,DNF1,
+19-02-2016,Chamonix,Alpine combined,43,54.53
+19-12-2015,Val Gardena / Groeden,Downhill,51,43.77
+18-03-2015,Meribel,Downhill,25,32.10
+08-03-2015,Kvitfjell,Super G,DNF1,
+07-03-2015,Kvitfjell,Downhill,51,34.16
+20-12-2014,Val Gardena / Groeden,Super G,53,42.68
+06-12-2014,Beaver Creek,Super G,43,57.43
+30-11-2014,Lake Louise,Super G,55,43.89

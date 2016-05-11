@@ -1,8 +1,8 @@
-datum,kraj,disciplina,mesto
-17-03-2016,St. Moritz,Super G,11
-10-01-2016,Altenmarkt-Zauchensee,Super G,42
-28-12-2015,Lienz,Giant Slalom,DNQ1
-20-12-2015,Courchevel,Giant Slalom,DNQ1
-12-12-2015,Are,Giant Slalom,DNQ1
-27-11-2015,"Aspen, CO",Giant Slalom,DNQ1
-12-01-2014,Altenmarkt / Zauchensee,Super Combined,DNF1
+datum,kraj,disciplina,mesto,zaostanek
+17-03-2016,St. Moritz,Super G,11,24.08
+10-01-2016,Altenmarkt-Zauchensee,Super G,42,63.24
+28-12-2015,Lienz,Giant Slalom,DNQ1,
+20-12-2015,Courchevel,Giant Slalom,DNQ1,
+12-12-2015,Are,Giant Slalom,DNQ1,
+27-11-2015,"Aspen, CO",Giant Slalom,DNQ1,
+12-01-2014,Altenmarkt / Zauchensee,Super Combined,DNF1,

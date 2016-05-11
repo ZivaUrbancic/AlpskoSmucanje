@@ -1,79 +1,79 @@
-datum,kraj,disciplina,mesto
-19-03-2016,St. Moritz,Slalom,13
-07-03-2016,Jasna,Giant Slalom,DNQ1
-06-03-2016,Jasna,Slalom,13
-15-02-2016,Crans Montana,Slalom,4
-15-01-2016,Flachau,Slalom,22
-12-01-2016,Flachau,Slalom,18
-05-01-2016,Santa Caterina Valfurva,Slalom,21
-29-12-2015,Lienz,Slalom,14
-13-12-2015,Are,Slalom,DNQ1
-12-12-2015,Are,Giant Slalom,DNQ1
-29-11-2015,"Aspen, CO",Slalom,DNF2
-28-11-2015,"Aspen, CO",Slalom,DNF1
-27-11-2015,"Aspen, CO",Giant Slalom,DNQ1
-21-03-2015,Meribel,Slalom,22
-14-03-2015,Are,Slalom,9
-22-02-2015,Maribor,Slalom,8
-13-01-2015,Flachau,Slalom,19
-04-01-2015,Zagreb,Slalom,12
-29-12-2014,Kuehtai in Tirol,Slalom,13
-13-12-2014,Are,Slalom,DNQ1
-30-11-2014,Aspen,Slalom,10
-15-11-2014,Levi,Slalom,DNF2
-15-03-2014,Lenzerheide,Slalom,DNF1
-08-03-2014,Are,Slalom,10
-06-03-2014,Are,Giant Slalom,DNQ1
-02-02-2014,Kranjska Gora,Slalom,3
-14-01-2014,Flachau,Slalom,11
-05-01-2014,Bormio,Slalom,4
-29-12-2013,Lienz,Slalom,26
-17-12-2013,Courchevel,Slalom,3
-16-11-2013,Levi,Slalom,DNQ1
-16-03-2013,Lenzerheide,Slalom,2
-10-03-2013,Ofterschwang,Slalom,11
-29-01-2013,City Event Moscow,City Event,9
-27-01-2013,Maribor,Slalom,15
-15-01-2013,Flachau,Slalom,6
-04-01-2013,Zagreb,Slalom,7
-01-01-2013,City Event Munich,City Event,9
-29-12-2012,Semmering,Slalom,12
-20-12-2012,Are,Slalom,DNQ1
-25-11-2012,"Aspen, CO",Slalom,16
-10-11-2012,Levi,Slalom,DNQ1
-27-10-2012,Soelden,Giant Slalom,DNQ1
-10-03-2012,Are,Slalom,24
-04-03-2012,Ofterschwang,Slalom,DNQ1
-03-03-2012,Ofterschwang,Giant Slalom,DNQ1
-11-02-2012,Soldeu-Grandvalira,Slalom,20
-22-01-2012,Kranjska Gora,Slalom,12
-21-01-2012,Kranjska Gora,Giant Slalom,DNQ1
-03-01-2012,Zagreb,Slalom,18
-29-12-2011,Lienz,Slalom,21
-20-12-2011,Flachau,Slalom,DNQ1
-18-12-2011,Courchevel,Slalom,DNF2
-27-11-2011,Aspen,Slalom,26
-22-10-2011,Soelden,Giant Slalom,DNQ1
-18-03-2011,Lenzerheide,Slalom,22
-12-03-2011,Spindleruv Mlyn,Slalom,25
-11-03-2011,Spindleruv Mlyn,Giant Slalom,DNQ1
-04-02-2011,Arber-Zwiesel,Slalom,12
-11-01-2011,Flachau,Slalom,DNQ1
-04-01-2011,Zagreb,Slalom,DNF1
-29-12-2010,Semmering,Slalom,16
-21-12-2010,Courchevel,Slalom,7
-28-11-2010,Aspen,Slalom,DNQ1
-27-11-2010,Aspen,Giant Slalom,DNF1
-13-11-2010,Levi,Slalom,17
-23-10-2010,Soelden,Giant Slalom,DNF1
-17-01-2010,Maribor,Slalom,DNQ1
-12-01-2010,Flachau,Slalom,DNQ1
-03-01-2010,Zagreb,Slalom,DNF1
-29-12-2009,Lienz,Slalom,DNQ1
-14-11-2009,Levi,Slalom,DNQ1
-30-01-2009,Garmisch Partenkirchen,Slalom,DNQ1
-11-01-2009,Maribor,Slalom,DNF1
-04-01-2009,Zagreb,Slalom,DNF2
-29-12-2008,Semmering,Slalom,24
-14-12-2008,La Molina,Slalom,DNF1
-14-03-2008,Bormio,Slalom,DNF2
+datum,kraj,disciplina,mesto,zaostanek
+19-03-2016,St. Moritz,Slalom,13,28.40
+07-03-2016,Jasna,Giant Slalom,DNQ1,
+06-03-2016,Jasna,Slalom,13,30.77
+15-02-2016,Crans Montana,Slalom,4,4.92
+15-01-2016,Flachau,Slalom,22,21.41
+12-01-2016,Flachau,Slalom,18,23.64
+05-01-2016,Santa Caterina Valfurva,Slalom,21,22.95
+29-12-2015,Lienz,Slalom,14,15.47
+13-12-2015,Are,Slalom,DNQ1,
+12-12-2015,Are,Giant Slalom,DNQ1,
+29-11-2015,"Aspen, CO",Slalom,DNF2,
+28-11-2015,"Aspen, CO",Slalom,DNF1,
+27-11-2015,"Aspen, CO",Giant Slalom,DNQ1,
+21-03-2015,Meribel,Slalom,22,20.13
+14-03-2015,Are,Slalom,9,20.80
+22-02-2015,Maribor,Slalom,8,10.17
+13-01-2015,Flachau,Slalom,19,19.84
+04-01-2015,Zagreb,Slalom,12,31.72
+29-12-2014,Kuehtai in Tirol,Slalom,13,18.80
+13-12-2014,Are,Slalom,DNQ1,
+30-11-2014,Aspen,Slalom,10,11.87
+15-11-2014,Levi,Slalom,DNF2,
+15-03-2014,Lenzerheide,Slalom,DNF1,
+08-03-2014,Are,Slalom,10,20.51
+06-03-2014,Are,Giant Slalom,DNQ1,
+02-02-2014,Kranjska Gora,Slalom,3,0.84
+14-01-2014,Flachau,Slalom,11,12.83
+05-01-2014,Bormio,Slalom,4,3.81
+29-12-2013,Lienz,Slalom,26,56.57
+17-12-2013,Courchevel,Slalom,3,7.19
+16-11-2013,Levi,Slalom,DNQ1,
+16-03-2013,Lenzerheide,Slalom,2,1.07
+10-03-2013,Ofterschwang,Slalom,11,14.39
+29-01-2013,City Event Moscow,City Event,9,0.00
+27-01-2013,Maribor,Slalom,15,15.95
+15-01-2013,Flachau,Slalom,6,7.79
+04-01-2013,Zagreb,Slalom,7,16.71
+01-01-2013,City Event Munich,City Event,9,0.00
+29-12-2012,Semmering,Slalom,12,16.57
+20-12-2012,Are,Slalom,DNQ1,
+25-11-2012,"Aspen, CO",Slalom,16,26.87
+10-11-2012,Levi,Slalom,DNQ1,
+27-10-2012,Soelden,Giant Slalom,DNQ1,
+10-03-2012,Are,Slalom,24,13.44
+04-03-2012,Ofterschwang,Slalom,DNQ1,
+03-03-2012,Ofterschwang,Giant Slalom,DNQ1,
+11-02-2012,Soldeu-Grandvalira,Slalom,20,21.53
+22-01-2012,Kranjska Gora,Slalom,12,21.27
+21-01-2012,Kranjska Gora,Giant Slalom,DNQ1,
+03-01-2012,Zagreb,Slalom,18,23.43
+29-12-2011,Lienz,Slalom,21,16.59
+20-12-2011,Flachau,Slalom,DNQ1,
+18-12-2011,Courchevel,Slalom,DNF2,
+27-11-2011,Aspen,Slalom,26,33.41
+22-10-2011,Soelden,Giant Slalom,DNQ1,
+18-03-2011,Lenzerheide,Slalom,22,14.54
+12-03-2011,Spindleruv Mlyn,Slalom,25,21.20
+11-03-2011,Spindleruv Mlyn,Giant Slalom,DNQ1,
+04-02-2011,Arber-Zwiesel,Slalom,12,22.29
+11-01-2011,Flachau,Slalom,DNQ1,
+04-01-2011,Zagreb,Slalom,DNF1,
+29-12-2010,Semmering,Slalom,16,15.54
+21-12-2010,Courchevel,Slalom,7,16.32
+28-11-2010,Aspen,Slalom,DNQ1,
+27-11-2010,Aspen,Giant Slalom,DNF1,
+13-11-2010,Levi,Slalom,17,13.84
+23-10-2010,Soelden,Giant Slalom,DNF1,
+17-01-2010,Maribor,Slalom,DNQ1,
+12-01-2010,Flachau,Slalom,DNQ1,
+03-01-2010,Zagreb,Slalom,DNF1,
+29-12-2009,Lienz,Slalom,DNQ1,
+14-11-2009,Levi,Slalom,DNQ1,
+30-01-2009,Garmisch Partenkirchen,Slalom,DNQ1,
+11-01-2009,Maribor,Slalom,DNF1,
+04-01-2009,Zagreb,Slalom,DNF2,
+29-12-2008,Semmering,Slalom,24,25.61
+14-12-2008,La Molina,Slalom,DNF1,
+14-03-2008,Bormio,Slalom,DNF2,

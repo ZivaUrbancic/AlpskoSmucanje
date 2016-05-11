@@ -1,7 +1,7 @@
-datum,kraj,disciplina,mesto
-07-03-2016,Jasna,Giant Slalom,DNQ1
-06-03-2016,Jasna,Slalom,18
-28-02-2016,Soldeu- El Tarter,Alpine combined,17
-27-02-2016,Soldeu- El Tarter,Super G,48
-15-02-2016,Crans Montana,Slalom,24
-15-01-2016,Flachau,Slalom,DNQ1
+datum,kraj,disciplina,mesto,zaostanek
+07-03-2016,Jasna,Giant Slalom,DNQ1,
+06-03-2016,Jasna,Slalom,18,36.37
+28-02-2016,Soldeu- El Tarter,Alpine combined,17,26.63
+27-02-2016,Soldeu- El Tarter,Super G,48,62.92
+15-02-2016,Crans Montana,Slalom,24,23.17
+15-01-2016,Flachau,Slalom,DNQ1,

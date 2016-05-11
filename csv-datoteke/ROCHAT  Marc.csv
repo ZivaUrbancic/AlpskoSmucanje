@@ -1,7 +1,7 @@
-datum,kraj,disciplina,mesto
-06-03-2016,Kranjska Gora,Slalom,DNQ1
-26-01-2016,Schladming,Slalom,DNQ1
-24-01-2016,Kitzbuehel,Slalom,DNF1
-10-01-2016,Adelboden,Slalom,DNF1
-06-01-2016,Santa Caterina Valfurva,Slalom,27
-13-12-2015,Val d'IsÃ¨re,Slalom,DNF1
+datum,kraj,disciplina,mesto,zaostanek
+06-03-2016,Kranjska Gora,Slalom,DNQ1,
+26-01-2016,Schladming,Slalom,DNQ1,
+24-01-2016,Kitzbuehel,Slalom,DNF1,
+10-01-2016,Adelboden,Slalom,DNF1,
+06-01-2016,Santa Caterina Valfurva,Slalom,27,34.95
+13-12-2015,Val d'IsÃ¨re,Slalom,DNF1,

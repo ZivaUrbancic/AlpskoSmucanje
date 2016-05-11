@@ -1,6 +1,6 @@
-datum,kraj,disciplina,mesto
-13-03-2016,Kvitfjell,Super G,18
-29-12-2015,Santa Caterina,Downhill,DNF1
-19-12-2015,Val Gardena / Groeden,Downhill,45
-18-12-2015,Val Gardena / Groeden,Super G,31
-12-03-2014,Lenzerheide,Downhill,14
+datum,kraj,disciplina,mesto,zaostanek
+13-03-2016,Kvitfjell,Super G,18,14.45
+29-12-2015,Santa Caterina,Downhill,DNF1,
+19-12-2015,Val Gardena / Groeden,Downhill,45,35.61
+18-12-2015,Val Gardena / Groeden,Super G,31,25.98
+12-03-2014,Lenzerheide,Downhill,14,22.38

@@ -1,14 +1,14 @@
-datum,kraj,disciplina,mesto
-13-03-2016,Lenzerheide,Alpine combined,17
-12-03-2016,Lenzerheide,Super G,19
-07-03-2016,Jasna,Giant Slalom,24
-28-02-2016,Soldeu- El Tarter,Alpine combined,16
-27-02-2016,Soldeu- El Tarter,Super G,28
-21-02-2016,La Thuile,Super G,DNF1
-30-01-2016,Maribor,Giant Slalom,DNF1
-17-01-2016,Flachau,Giant Slalom,DNF2
-15-11-2014,Levi,Slalom,DNF2
-25-10-2014,Soelden,Giant Slalom,DNF1
-29-12-2013,Lienz,Slalom,DNF1
-28-12-2013,Lienz,Giant Slalom,DNQ1
-09-03-2013,Ofterschwang,Giant Slalom,DNQ1
+datum,kraj,disciplina,mesto,zaostanek
+13-03-2016,Lenzerheide,Alpine combined,17,39.33
+12-03-2016,Lenzerheide,Super G,19,23.04
+07-03-2016,Jasna,Giant Slalom,24,16.85
+28-02-2016,Soldeu- El Tarter,Alpine combined,16,25.41
+27-02-2016,Soldeu- El Tarter,Super G,28,41.26
+21-02-2016,La Thuile,Super G,DNF1,
+30-01-2016,Maribor,Giant Slalom,DNF1,
+17-01-2016,Flachau,Giant Slalom,DNF2,
+15-11-2014,Levi,Slalom,DNF2,
+25-10-2014,Soelden,Giant Slalom,DNF1,
+29-12-2013,Lienz,Slalom,DNF1,
+28-12-2013,Lienz,Giant Slalom,DNQ1,
+09-03-2013,Ofterschwang,Giant Slalom,DNQ1,

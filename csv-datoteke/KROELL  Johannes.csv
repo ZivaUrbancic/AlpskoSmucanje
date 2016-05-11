@@ -1,22 +1,22 @@
-datum,kraj,disciplina,mesto
-27-02-2016,Hinterstoder,Super G,29
-20-02-2016,Chamonix,Downhill,DSQ1
-30-01-2016,Garmisch Partenkirchen,Downhill,27
-23-01-2016,Kitzbuehel,Downhill,DNS1
-22-01-2016,Kitzbuehel,Alpine combined,DNF1
-22-01-2016,Kitzbuehel,Super G,DNF1
-29-12-2015,Santa Caterina,Downhill,23
-01-03-2014,Kvitfjell,Downhill,58
-21-12-2013,Val Gardena / Groeden,Downhill,32
-02-03-2013,Kvitfjell,Downhill,46
-23-02-2013,Garmisch-Partenkirchen,Downhill,10
-29-12-2012,Bormio,Downhill,42
-15-12-2012,Val Gardena-Groeden,Downhill,52
-30-11-2012,Beaver Creek,Downhill,DNF1
-24-11-2012,Lake Louise,Downhill,15
-03-03-2012,Kvitfjell,Downhill,36
-21-01-2012,Kitzbuehel,Downhill,39
-02-12-2011,Beaver Creek,Downhill,50
-26-11-2011,Lake Louise,Downhill,37
-12-03-2011,Kvitfjell,Downhill,41
-11-03-2011,Kvitfjell,Downhill,32
+datum,kraj,disciplina,mesto,zaostanek
+27-02-2016,Hinterstoder,Super G,29,30.04
+20-02-2016,Chamonix,Downhill,DSQ1,
+30-01-2016,Garmisch Partenkirchen,Downhill,27,16.81
+23-01-2016,Kitzbuehel,Downhill,DNS1,
+22-01-2016,Kitzbuehel,Alpine combined,DNF1,
+22-01-2016,Kitzbuehel,Super G,DNF1,
+29-12-2015,Santa Caterina,Downhill,23,31.81
+01-03-2014,Kvitfjell,Downhill,58,43.02
+21-12-2013,Val Gardena / Groeden,Downhill,32,30.77
+02-03-2013,Kvitfjell,Downhill,46,47.51
+23-02-2013,Garmisch-Partenkirchen,Downhill,10,11.76
+29-12-2012,Bormio,Downhill,42,54.86
+15-12-2012,Val Gardena-Groeden,Downhill,52,38.56
+30-11-2012,Beaver Creek,Downhill,DNF1,
+24-11-2012,Lake Louise,Downhill,15,22.52
+03-03-2012,Kvitfjell,Downhill,36,32.82
+21-01-2012,Kitzbuehel,Downhill,39,28.86
+02-12-2011,Beaver Creek,Downhill,50,47.27
+26-11-2011,Lake Louise,Downhill,37,24.55
+12-03-2011,Kvitfjell,Downhill,41,31.64
+11-03-2011,Kvitfjell,Downhill,32,21.92

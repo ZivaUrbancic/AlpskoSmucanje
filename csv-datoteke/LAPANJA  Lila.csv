@@ -1,7 +1,7 @@
-datum,kraj,disciplina,mesto
-06-03-2016,Jasna,Slalom,DNF1
-15-02-2016,Crans Montana,Slalom,DNF2
-15-01-2016,Flachau,Slalom,DNQ1
-12-01-2016,Flachau,Slalom,23
-29-11-2015,"Aspen, CO",Slalom,DNQ1
-28-11-2015,"Aspen, CO",Slalom,DNF1
+datum,kraj,disciplina,mesto,zaostanek
+06-03-2016,Jasna,Slalom,DNF1,
+15-02-2016,Crans Montana,Slalom,DNF2,
+15-01-2016,Flachau,Slalom,DNQ1,
+12-01-2016,Flachau,Slalom,23,30.60
+29-11-2015,"Aspen, CO",Slalom,DNQ1,
+28-11-2015,"Aspen, CO",Slalom,DNF1,

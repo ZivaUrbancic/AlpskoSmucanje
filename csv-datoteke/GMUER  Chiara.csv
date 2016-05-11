@@ -1,8 +1,8 @@
-datum,kraj,disciplina,mesto
-15-02-2016,Crans Montana,Slalom,DNQ1
-15-01-2016,Flachau,Slalom,DNQ1
-12-01-2016,Flachau,Slalom,DNF1
-05-01-2016,Santa Caterina Valfurva,Slalom,20
-29-12-2015,Lienz,Slalom,DNQ1
-29-11-2015,"Aspen, CO",Slalom,DNQ1
-28-11-2015,"Aspen, CO",Slalom,DNF1
+datum,kraj,disciplina,mesto,zaostanek
+15-02-2016,Crans Montana,Slalom,DNQ1,
+15-01-2016,Flachau,Slalom,DNQ1,
+12-01-2016,Flachau,Slalom,DNF1,
+05-01-2016,Santa Caterina Valfurva,Slalom,20,22.40
+29-12-2015,Lienz,Slalom,DNQ1,
+29-11-2015,"Aspen, CO",Slalom,DNQ1,
+28-11-2015,"Aspen, CO",Slalom,DNF1,

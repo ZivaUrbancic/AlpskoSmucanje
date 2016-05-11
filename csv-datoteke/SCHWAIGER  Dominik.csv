@@ -1,23 +1,23 @@
-datum,kraj,disciplina,mesto
-05-03-2016,Kranjska Gora,Giant Slalom,29
-04-03-2016,Kranjska Gora,Giant Slalom,DNQ1
-28-02-2016,Hinterstoder,Giant Slalom,DNQ1
-26-02-2016,Hinterstoder,Giant Slalom,DNQ1
-13-02-2016,Yuzawa Naeba,Giant Slalom,DNQ1
-21-12-2015,Alta Badia,Parallel Giant Slalom,4
-20-12-2015,Alta Badia,Giant Slalom,19
-12-12-2015,Val d'IsÃ¨re,Giant Slalom,DNQ1
-14-03-2015,Kranjska Gora,Giant Slalom,DNF1
-01-03-2015,Garmisch Partenkirchen,Giant Slalom,DNQ1
-10-01-2015,Adelboden,Giant Slalom,DNF1
-21-12-2014,Alta Badia,Giant Slalom,DNQ1
-07-12-2014,Beaver Creek,Giant Slalom,DNF2
-26-10-2014,Soelden,Giant Slalom,DNQ1
-08-03-2014,Kranjska Gora,Giant Slalom,DNQ1
-02-02-2014,St. Moritz,Giant Slalom,21
-22-12-2013,Alta Badia,Giant Slalom,DNQ1
-14-12-2013,Val d'Isere,Giant Slalom,DNQ1
-24-02-2013,Garmisch-Partenkirchen,Giant Slalom,DNF1
-16-12-2012,Alta Badia,Giant Slalom,DNF1
-28-10-2012,Soelden,Giant Slalom,DNQ1
-23-10-2011,Soelden,Giant Slalom,DNQ1
+datum,kraj,disciplina,mesto,zaostanek
+05-03-2016,Kranjska Gora,Giant Slalom,29,41.69
+04-03-2016,Kranjska Gora,Giant Slalom,DNQ1,
+28-02-2016,Hinterstoder,Giant Slalom,DNQ1,
+26-02-2016,Hinterstoder,Giant Slalom,DNQ1,
+13-02-2016,Yuzawa Naeba,Giant Slalom,DNQ1,
+21-12-2015,Alta Badia,Parallel Giant Slalom,4,
+20-12-2015,Alta Badia,Giant Slalom,19,17.38
+12-12-2015,Val d'IsÃ¨re,Giant Slalom,DNQ1,
+14-03-2015,Kranjska Gora,Giant Slalom,DNF1,
+01-03-2015,Garmisch Partenkirchen,Giant Slalom,DNQ1,
+10-01-2015,Adelboden,Giant Slalom,DNF1,
+21-12-2014,Alta Badia,Giant Slalom,DNQ1,
+07-12-2014,Beaver Creek,Giant Slalom,DNF2,
+26-10-2014,Soelden,Giant Slalom,DNQ1,
+08-03-2014,Kranjska Gora,Giant Slalom,DNQ1,
+02-02-2014,St. Moritz,Giant Slalom,21,32.35
+22-12-2013,Alta Badia,Giant Slalom,DNQ1,
+14-12-2013,Val d'Isere,Giant Slalom,DNQ1,
+24-02-2013,Garmisch-Partenkirchen,Giant Slalom,DNF1,
+16-12-2012,Alta Badia,Giant Slalom,DNF1,
+28-10-2012,Soelden,Giant Slalom,DNQ1,
+23-10-2011,Soelden,Giant Slalom,DNQ1,

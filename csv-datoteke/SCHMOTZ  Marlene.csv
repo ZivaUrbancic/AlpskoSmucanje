@@ -1,12 +1,12 @@
-datum,kraj,disciplina,mesto
-14-03-2015,Are,Slalom,DNF1
-22-02-2015,Maribor,Slalom,DNQ1
-13-01-2015,Flachau,Slalom,DNQ1
-04-01-2015,Zagreb,Slalom,DNF1
-29-12-2014,Kuehtai in Tirol,Slalom,DNQ1
-28-12-2014,Kuehtai in Tirol,Giant Slalom,DNQ1
-13-12-2014,Are,Slalom,23
-15-11-2014,Levi,Slalom,DNQ1
-17-12-2013,Courchevel,Slalom,DNF1
-16-11-2013,Levi,Slalom,23
-15-01-2013,Flachau,Slalom,DNF1
+datum,kraj,disciplina,mesto,zaostanek
+14-03-2015,Are,Slalom,DNF1,
+22-02-2015,Maribor,Slalom,DNQ1,
+13-01-2015,Flachau,Slalom,DNQ1,
+04-01-2015,Zagreb,Slalom,DNF1,
+29-12-2014,Kuehtai in Tirol,Slalom,DNQ1,
+28-12-2014,Kuehtai in Tirol,Giant Slalom,DNQ1,
+13-12-2014,Are,Slalom,23,22.23
+15-11-2014,Levi,Slalom,DNQ1,
+17-12-2013,Courchevel,Slalom,DNF1,
+16-11-2013,Levi,Slalom,23,18.32
+15-01-2013,Flachau,Slalom,DNF1,

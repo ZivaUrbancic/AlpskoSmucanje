@@ -1,55 +1,55 @@
-datum,kraj,disciplina,mesto
-08-03-2015,Garmisch Partenkirchen,Super G,37
-07-03-2015,Garmisch Partenkirchen,Downhill,30
-02-03-2015,Bansko,Super G,33
-01-03-2015,Bansko,Alpine combined,DNF1
-25-01-2015,St.Moritz,Super G,DSQ1
-24-01-2015,St.Moritz,Downhill,42
-19-01-2015,Cortina d'Ampezzo,Super G,DNF1
-18-01-2015,Cortina d'Ampezzo,Downhill,37
-16-01-2015,Cortina d'Ampezzo,Downhill,44
-21-12-2014,Val d Isere,Super G,31
-20-12-2014,Val d Isere,Downhill,DNF1
-07-12-2014,Lake Louise,Super G,26
-06-12-2014,Lake Louise,Downhill,38
-05-12-2014,Lake Louise,Downhill,44
-02-03-2014,Crans Montana,Downhill,19
-12-01-2014,Altenmarkt / Zauchensee,Super Combined,29
-03-03-2012,Ofterschwang,Giant Slalom,DNQ1
-02-03-2012,Ofterschwang,Giant Slalom,DNQ1
-26-02-2012,Bansko,Super G,30
-18-02-2012,Sochi,Downhill,24
-12-02-2012,Soldeu-Grandvalira,Giant Slalom,DNQ1
-05-02-2012,Garmisch-Partenkirchen,Super G,22
-04-02-2012,Garmisch-Partenkirchen,Downhill,18
-29-01-2012,St. Moritz,Super Combined,18
-28-01-2012,St. Moritz,Downhill,31
-27-01-2012,St. Moritz,Super Combined,10
-15-01-2012,Cortina d'Ampezzo,Super G,32
-14-01-2012,Cortina d'Ampezzo,Downhill,22
-08-01-2012,Bad Kleinkirchheim,Super G,35
-07-01-2012,Bad Kleinkirchheim,Downhill,20
-29-12-2011,Lienz,Slalom,DNQ1
-28-12-2011,Lienz,Giant Slalom,DNQ1
-07-12-2011,Beaver Creek,Super G,DNF1
-04-12-2011,Lake Louise,Super G,21
-03-12-2011,Lake Louise,Downhill,33
-02-12-2011,Lake Louise,Downhill,25
-06-03-2011,Tarvisio,Super G,39
-05-03-2011,Tarvisio,Downhill,30
-04-03-2011,Tarvisio,Super Combined,12
-27-02-2011,Are,Super G,46
-26-02-2011,Are,Downhill,DNF1
-25-02-2011,Are,Super Combined,11
-19-12-2010,Val d'Isere,Super Combined,27
-18-12-2010,Val d'Isere,Downhill,42
-31-01-2010,St. Moritz,Super G,40
-29-01-2010,St. Moritz,Super Combined,DNF2
-10-01-2010,Haus im Ennstal,Super G,DNF1
-09-01-2010,Haus im Ennstal,Downhill,43
-08-01-2010,Haus im Ennstal,Downhill,55
-20-12-2009,Val d'Isere,Super G,41
-18-12-2009,Val d'Isere,Super Combined,10
-18-01-2009,Altenmarkt-Zauchensee,Downhill,51
-17-01-2009,Altenmarkt-Zauchensee,Super Combined,33
-09-03-2008,Crans-Montana,Super Combined,DNF2
+datum,kraj,disciplina,mesto,zaostanek
+08-03-2015,Garmisch Partenkirchen,Super G,37,46.64
+07-03-2015,Garmisch Partenkirchen,Downhill,30,39.75
+02-03-2015,Bansko,Super G,33,49.52
+01-03-2015,Bansko,Alpine combined,DNF1,
+25-01-2015,St.Moritz,Super G,DSQ1,
+24-01-2015,St.Moritz,Downhill,42,45.03
+19-01-2015,Cortina d'Ampezzo,Super G,DNF1,
+18-01-2015,Cortina d'Ampezzo,Downhill,37,44.30
+16-01-2015,Cortina d'Ampezzo,Downhill,44,53.21
+21-12-2014,Val d Isere,Super G,31,49.69
+20-12-2014,Val d Isere,Downhill,DNF1,
+07-12-2014,Lake Louise,Super G,26,29.87
+06-12-2014,Lake Louise,Downhill,38,40.39
+05-12-2014,Lake Louise,Downhill,44,37.06
+02-03-2014,Crans Montana,Downhill,19,34.98
+12-01-2014,Altenmarkt / Zauchensee,Super Combined,29,40.23
+03-03-2012,Ofterschwang,Giant Slalom,DNQ1,
+02-03-2012,Ofterschwang,Giant Slalom,DNQ1,
+26-02-2012,Bansko,Super G,30,44.69
+18-02-2012,Sochi,Downhill,24,40.20
+12-02-2012,Soldeu-Grandvalira,Giant Slalom,DNQ1,
+05-02-2012,Garmisch-Partenkirchen,Super G,22,25.15
+04-02-2012,Garmisch-Partenkirchen,Downhill,18,29.55
+29-01-2012,St. Moritz,Super Combined,18,23.06
+28-01-2012,St. Moritz,Downhill,31,46.32
+27-01-2012,St. Moritz,Super Combined,10,24.60
+15-01-2012,Cortina d'Ampezzo,Super G,32,43.80
+14-01-2012,Cortina d'Ampezzo,Downhill,22,27.27
+08-01-2012,Bad Kleinkirchheim,Super G,35,36.88
+07-01-2012,Bad Kleinkirchheim,Downhill,20,27.85
+29-12-2011,Lienz,Slalom,DNQ1,
+28-12-2011,Lienz,Giant Slalom,DNQ1,
+07-12-2011,Beaver Creek,Super G,DNF1,
+04-12-2011,Lake Louise,Super G,21,27.88
+03-12-2011,Lake Louise,Downhill,33,49.45
+02-12-2011,Lake Louise,Downhill,25,36.07
+06-03-2011,Tarvisio,Super G,39,40.33
+05-03-2011,Tarvisio,Downhill,30,47.13
+04-03-2011,Tarvisio,Super Combined,12,26.23
+27-02-2011,Are,Super G,46,56.16
+26-02-2011,Are,Downhill,DNF1,
+25-02-2011,Are,Super Combined,11,25.13
+19-12-2010,Val d'Isere,Super Combined,27,34.75
+18-12-2010,Val d'Isere,Downhill,42,41.06
+31-01-2010,St. Moritz,Super G,40,32.78
+29-01-2010,St. Moritz,Super Combined,DNF2,
+10-01-2010,Haus im Ennstal,Super G,DNF1,
+09-01-2010,Haus im Ennstal,Downhill,43,33.80
+08-01-2010,Haus im Ennstal,Downhill,55,62.10
+20-12-2009,Val d'Isere,Super G,41,37.90
+18-12-2009,Val d'Isere,Super Combined,10,35.10
+18-01-2009,Altenmarkt-Zauchensee,Downhill,51,52.30
+17-01-2009,Altenmarkt-Zauchensee,Super Combined,33,50.90
+09-03-2008,Crans-Montana,Super Combined,DNF2,

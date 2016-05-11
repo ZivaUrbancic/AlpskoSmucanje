@@ -1,17 +1,17 @@
-datum,kraj,disciplina,mesto
-13-03-2016,Kvitfjell,Super G,33
-12-03-2016,Kvitfjell,Downhill,35
-27-02-2016,Hinterstoder,Super G,44
-20-02-2016,Chamonix,Downhill,24
-19-02-2016,Chamonix,Alpine combined,16
-07-02-2016,Jeongseon,Super G,35
-06-02-2016,Jeongseon,Downhill,30
-30-01-2016,Garmisch Partenkirchen,Downhill,37
-19-12-2015,Val Gardena / Groeden,Downhill,DNF1
-18-12-2015,Val Gardena / Groeden,Super G,34
-05-12-2015,Beaver Creek,Super G,DNF1
-04-12-2015,Beaver Creek,Downhill,DNS1
-29-11-2015,Lake Louise,Super G,DNF1
-28-11-2015,Lake Louise,Downhill,23
-22-02-2015,Saalbach,Super G,DSQ1
-21-02-2015,Saalbach,Downhill,39
+datum,kraj,disciplina,mesto,zaostanek
+13-03-2016,Kvitfjell,Super G,33,25.98
+12-03-2016,Kvitfjell,Downhill,35,31.96
+27-02-2016,Hinterstoder,Super G,44,44.09
+20-02-2016,Chamonix,Downhill,24,19.53
+19-02-2016,Chamonix,Alpine combined,16,26.40
+07-02-2016,Jeongseon,Super G,35,39.36
+06-02-2016,Jeongseon,Downhill,30,24.17
+30-01-2016,Garmisch Partenkirchen,Downhill,37,26.02
+19-12-2015,Val Gardena / Groeden,Downhill,DNF1,
+18-12-2015,Val Gardena / Groeden,Super G,34,27.45
+05-12-2015,Beaver Creek,Super G,DNF1,
+04-12-2015,Beaver Creek,Downhill,DNS1,
+29-11-2015,Lake Louise,Super G,DNF1,
+28-11-2015,Lake Louise,Downhill,23,23.42
+22-02-2015,Saalbach,Super G,DSQ1,
+21-02-2015,Saalbach,Downhill,39,39.27

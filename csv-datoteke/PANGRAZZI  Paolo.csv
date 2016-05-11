@@ -1,27 +1,27 @@
-datum,kraj,disciplina,mesto
-20-02-2016,Chamonix,Downhill,46
-19-02-2016,Chamonix,Alpine combined,DNF1
-30-01-2016,Garmisch Partenkirchen,Downhill,46
-22-01-2016,Kitzbuehel,Super G,56
-22-01-2016,Kitzbuehel,Alpine combined,28
-16-01-2016,Wengen,Downhill,47
-15-01-2016,Wengen,Alpine combined,DNF2
-19-12-2014,Val Gardena / Groeden,Downhill,53
-29-12-2013,Bormio,Downhill,48
-23-02-2013,Garmisch-Partenkirchen,Downhill,31
-29-12-2012,Bormio,Downhill,44
-15-12-2012,Val Gardena-Groeden,Downhill,36
-14-12-2012,Val Gardena-Groeden,Super G,61
-12-02-2012,Sochi,Super Combined,DNF2
-11-02-2012,Sochi,Downhill,35
-05-02-2012,Chamonix,Super Combined,DNF2
-27-02-2011,Bansko,Slalom,DNF1
-26-02-2011,Bansko,Super Combined,DNF1
-05-02-2011,Hinterstoder,Super G,38
-30-01-2011,Chamonix,Super Combined,8
-29-01-2011,Chamonix,Downhill,45
-23-01-2011,Kitzbuehel,Combined,DNF1
-23-01-2011,Kitzbuehel,Slalom,DNF1
-22-01-2011,Kitzbuehel,Downhill,45
-15-01-2011,Wengen,Downhill,37
-14-01-2011,Wengen,Super Combined,22
+datum,kraj,disciplina,mesto,zaostanek
+20-02-2016,Chamonix,Downhill,46,32.73
+19-02-2016,Chamonix,Alpine combined,DNF1,
+30-01-2016,Garmisch Partenkirchen,Downhill,46,39.47
+22-01-2016,Kitzbuehel,Super G,56,59.12
+22-01-2016,Kitzbuehel,Alpine combined,28,70.38
+16-01-2016,Wengen,Downhill,47,58.71
+15-01-2016,Wengen,Alpine combined,DNF2,
+19-12-2014,Val Gardena / Groeden,Downhill,53,65.04
+29-12-2013,Bormio,Downhill,48,36.27
+23-02-2013,Garmisch-Partenkirchen,Downhill,31,21.85
+29-12-2012,Bormio,Downhill,44,65.83
+15-12-2012,Val Gardena-Groeden,Downhill,36,28.07
+14-12-2012,Val Gardena-Groeden,Super G,61,53.50
+12-02-2012,Sochi,Super Combined,DNF2,
+11-02-2012,Sochi,Downhill,35,32.73
+05-02-2012,Chamonix,Super Combined,DNF2,
+27-02-2011,Bansko,Slalom,DNF1,
+26-02-2011,Bansko,Super Combined,DNF1,
+05-02-2011,Hinterstoder,Super G,38,46.21
+30-01-2011,Chamonix,Super Combined,8,8.93
+29-01-2011,Chamonix,Downhill,45,40.49
+23-01-2011,Kitzbuehel,Combined,DNF1,
+23-01-2011,Kitzbuehel,Slalom,DNF1,
+22-01-2011,Kitzbuehel,Downhill,45,67.45
+15-01-2011,Wengen,Downhill,37,43.96
+14-01-2011,Wengen,Super Combined,22,33.60

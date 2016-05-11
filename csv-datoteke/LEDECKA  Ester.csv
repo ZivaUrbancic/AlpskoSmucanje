@@ -1,7 +1,7 @@
-datum,kraj,disciplina,mesto
-12-03-2016,Lenzerheide,Super G,45
-21-02-2016,La Thuile,Super G,24
-20-02-2016,La Thuile,Downhill,23
-19-02-2016,La Thuile,Downhill,36
-07-02-2016,Garmisch Partenkirchen,Super G,25
-06-02-2016,Garmisch Partenkirchen,Downhill,24
+datum,kraj,disciplina,mesto,zaostanek
+12-03-2016,Lenzerheide,Super G,45,44.49
+21-02-2016,La Thuile,Super G,24,55.85
+20-02-2016,La Thuile,Downhill,23,43.78
+19-02-2016,La Thuile,Downhill,36,74.55
+07-02-2016,Garmisch Partenkirchen,Super G,25,30.59
+06-02-2016,Garmisch Partenkirchen,Downhill,24,50.22

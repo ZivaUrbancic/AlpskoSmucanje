@@ -1,61 +1,61 @@
-datum,kraj,disciplina,mesto
-19-03-2016,St. Moritz,Giant Slalom,21
-05-03-2016,Kranjska Gora,Giant Slalom,20
-04-03-2016,Kranjska Gora,Giant Slalom,DNQ1
-28-02-2016,Hinterstoder,Giant Slalom,DNF1
-26-02-2016,Hinterstoder,Giant Slalom,8
-14-02-2016,Yuzawa Naeba,Slalom,DNF1
-13-02-2016,Yuzawa Naeba,Giant Slalom,9
-10-01-2016,Adelboden,Slalom,DNQ1
-06-01-2016,Santa Caterina Valfurva,Slalom,DNQ1
-21-12-2015,Alta Badia,Parallel Giant Slalom,16
-20-12-2015,Alta Badia,Giant Slalom,11
-12-12-2015,Val d'IsÃ¨re,Giant Slalom,8
-06-12-2015,Beaver Creek,Giant Slalom,DNF2
-25-10-2015,Soelden,Giant Slalom,4
-21-03-2015,Meribel,Giant Slalom,9
-15-03-2015,Kranjska Gora,Slalom,DNQ1
-14-03-2015,Kranjska Gora,Giant Slalom,7
-01-03-2015,Garmisch Partenkirchen,Giant Slalom,7
-10-01-2015,Adelboden,Giant Slalom,10
-21-12-2014,Alta Badia,Giant Slalom,6
-12-12-2014,Are,Giant Slalom,DNQ1
-07-12-2014,Beaver Creek,Giant Slalom,14
-16-11-2014,Levi,Slalom,DNQ1
-26-10-2014,Soelden,Giant Slalom,9
-15-03-2014,Lenzerheide,Giant Slalom,5
-09-03-2014,Kranjska Gora,Slalom,DNQ1
-08-03-2014,Kranjska Gora,Giant Slalom,6
-02-02-2014,St. Moritz,Giant Slalom,6
-24-01-2014,Kitzbuehel,Slalom,DNF1
-12-01-2014,Adelboden,Slalom,DNQ1
-11-01-2014,Adelboden,Giant Slalom,9
-06-01-2014,Bormio,Slalom,DNQ1
-22-12-2013,Alta Badia,Giant Slalom,DNF2
-15-12-2013,Val d'Isere,Slalom,DNF1
-14-12-2013,Val d'Isere,Giant Slalom,5
-08-12-2013,Beaver Creek,Giant Slalom,10
-17-11-2013,Levi,Slalom,DNQ1
-27-10-2013,Soelden,Giant Slalom,DNQ1
-10-03-2013,Kranjska Gora,Slalom,16
-09-03-2013,Kranjska Gora,Giant Slalom,21
-24-02-2013,Garmisch-Partenkirchen,Giant Slalom,22
-27-01-2013,Kitzbuehel,Slalom,DNF1
-20-01-2013,Wengen,Slalom,DNF1
-13-01-2013,Adelboden,Slalom,15
-12-01-2013,Adelboden,Giant Slalom,DNF1
-18-12-2012,Madonna di Campiglio,Slalom,20
-16-12-2012,Alta Badia,Giant Slalom,DNQ1
-09-12-2012,Val d'Isere,Giant Slalom,10
-08-12-2012,Val d'Isere,Slalom,24
-02-12-2012,Beaver Creek,Giant Slalom,DNF1
-11-11-2012,Levi,Slalom,DNF1
-28-10-2012,Soelden,Giant Slalom,18
-11-03-2012,Kranjska Gora,Slalom,DNF1
-08-01-2012,Adelboden,Slalom,21
-07-01-2012,Adelboden,Giant Slalom,DNF1
-05-01-2012,Zagreb,Slalom,DNF1
-21-12-2011,Flachau,Slalom,DSQ1
-19-12-2011,Alta Badia,Slalom,DNF1
-18-12-2011,Alta Badia,Giant Slalom,DNF1
-06-03-2011,Kranjska Gora,Slalom,DNF1
+datum,kraj,disciplina,mesto,zaostanek
+19-03-2016,St. Moritz,Giant Slalom,21,19.68
+05-03-2016,Kranjska Gora,Giant Slalom,20,35.11
+04-03-2016,Kranjska Gora,Giant Slalom,DNQ1,
+28-02-2016,Hinterstoder,Giant Slalom,DNF1,
+26-02-2016,Hinterstoder,Giant Slalom,8,14.47
+14-02-2016,Yuzawa Naeba,Slalom,DNF1,
+13-02-2016,Yuzawa Naeba,Giant Slalom,9,10.10
+10-01-2016,Adelboden,Slalom,DNQ1,
+06-01-2016,Santa Caterina Valfurva,Slalom,DNQ1,
+21-12-2015,Alta Badia,Parallel Giant Slalom,16,
+20-12-2015,Alta Badia,Giant Slalom,11,13.87
+12-12-2015,Val d'IsÃ¨re,Giant Slalom,8,18.08
+06-12-2015,Beaver Creek,Giant Slalom,DNF2,
+25-10-2015,Soelden,Giant Slalom,4,12.94
+21-03-2015,Meribel,Giant Slalom,9,12.49
+15-03-2015,Kranjska Gora,Slalom,DNQ1,
+14-03-2015,Kranjska Gora,Giant Slalom,7,15.14
+01-03-2015,Garmisch Partenkirchen,Giant Slalom,7,26.12
+10-01-2015,Adelboden,Giant Slalom,10,13.18
+21-12-2014,Alta Badia,Giant Slalom,6,11.81
+12-12-2014,Are,Giant Slalom,DNQ1,
+07-12-2014,Beaver Creek,Giant Slalom,14,9.29
+16-11-2014,Levi,Slalom,DNQ1,
+26-10-2014,Soelden,Giant Slalom,9,19.85
+15-03-2014,Lenzerheide,Giant Slalom,5,2.95
+09-03-2014,Kranjska Gora,Slalom,DNQ1,
+08-03-2014,Kranjska Gora,Giant Slalom,6,5.78
+02-02-2014,St. Moritz,Giant Slalom,6,18.16
+24-01-2014,Kitzbuehel,Slalom,DNF1,
+12-01-2014,Adelboden,Slalom,DNQ1,
+11-01-2014,Adelboden,Giant Slalom,9,9.90
+06-01-2014,Bormio,Slalom,DNQ1,
+22-12-2013,Alta Badia,Giant Slalom,DNF2,
+15-12-2013,Val d'Isere,Slalom,DNF1,
+14-12-2013,Val d'Isere,Giant Slalom,5,8.56
+08-12-2013,Beaver Creek,Giant Slalom,10,18.45
+17-11-2013,Levi,Slalom,DNQ1,
+27-10-2013,Soelden,Giant Slalom,DNQ1,
+10-03-2013,Kranjska Gora,Slalom,16,16.06
+09-03-2013,Kranjska Gora,Giant Slalom,21,17.46
+24-02-2013,Garmisch-Partenkirchen,Giant Slalom,22,22.07
+27-01-2013,Kitzbuehel,Slalom,DNF1,
+20-01-2013,Wengen,Slalom,DNF1,
+13-01-2013,Adelboden,Slalom,15,16.81
+12-01-2013,Adelboden,Giant Slalom,DNF1,
+18-12-2012,Madonna di Campiglio,Slalom,20,24.32
+16-12-2012,Alta Badia,Giant Slalom,DNQ1,
+09-12-2012,Val d'Isere,Giant Slalom,10,18.49
+08-12-2012,Val d'Isere,Slalom,24,13.81
+02-12-2012,Beaver Creek,Giant Slalom,DNF1,
+11-11-2012,Levi,Slalom,DNF1,
+28-10-2012,Soelden,Giant Slalom,18,28.01
+11-03-2012,Kranjska Gora,Slalom,DNF1,
+08-01-2012,Adelboden,Slalom,21,20.05
+07-01-2012,Adelboden,Giant Slalom,DNF1,
+05-01-2012,Zagreb,Slalom,DNF1,
+21-12-2011,Flachau,Slalom,DSQ1,
+19-12-2011,Alta Badia,Slalom,DNF1,
+18-12-2011,Alta Badia,Giant Slalom,DNF1,
+06-03-2011,Kranjska Gora,Slalom,DNF1,

@@ -1,86 +1,86 @@
-datum,kraj,disciplina,mesto
-19-03-2016,St. Moritz,Slalom,DNF2
-06-03-2016,Jasna,Slalom,5
-23-02-2016,Stockholm,City Event,5
-15-02-2016,Crans Montana,Slalom,2
-15-01-2016,Flachau,Slalom,4
-12-01-2016,Flachau,Slalom,8
-05-01-2016,Santa Caterina Valfurva,Slalom,10
-29-12-2015,Lienz,Slalom,12
-13-12-2015,Are,Slalom,9
-29-11-2015,"Aspen, CO",Slalom,14
-28-11-2015,"Aspen, CO",Slalom,6
-21-03-2015,Meribel,Slalom,6
-14-03-2015,Are,Slalom,4
-22-02-2015,Maribor,Slalom,26
-13-01-2015,Flachau,Slalom,13
-04-01-2015,Zagreb,Slalom,18
-29-12-2014,Kuehtai in Tirol,Slalom,18
-13-12-2014,Are,Slalom,16
-30-11-2014,Aspen,Slalom,23
-15-03-2014,Lenzerheide,Slalom,DNF2
-08-03-2014,Are,Slalom,5
-02-02-2014,Kranjska Gora,Slalom,4
-14-01-2014,Flachau,Slalom,DNF2
-05-01-2014,Bormio,Slalom,3
-29-12-2013,Lienz,Slalom,25
-17-12-2013,Courchevel,Slalom,DNF1
-16-11-2013,Levi,Slalom,25
-10-03-2013,Ofterschwang,Slalom,13
-27-01-2013,Maribor,Slalom,24
-15-01-2013,Flachau,Slalom,16
-04-01-2013,Zagreb,Slalom,17
-29-12-2012,Semmering,Slalom,DNF1
-20-12-2012,Are,Slalom,24
-07-12-2012,St. Moritz,Super Combined,DNF2
-25-11-2012,"Aspen, CO",Slalom,22
-24-11-2012,"Aspen, CO",Giant Slalom,DNQ1
-10-11-2012,Levi,Slalom,DNQ1
-17-03-2012,Schladming,Slalom,13
-10-03-2012,Are,Slalom,DNF1
-09-03-2012,Are,Giant Slalom,DNS1
-04-03-2012,Ofterschwang,Slalom,13
-02-03-2012,Ofterschwang,Giant Slalom,DNQ1
-11-02-2012,Soldeu-Grandvalira,Slalom,4
-22-01-2012,Kranjska Gora,Slalom,9
-03-01-2012,Zagreb,Slalom,10
-29-12-2011,Lienz,Slalom,DNF1
-20-12-2011,Flachau,Slalom,5
-18-12-2011,Courchevel,Slalom,7
-18-03-2011,Lenzerheide,Slalom,9
-06-02-2011,Arber-Zwiesel,Giant Slalom,DNQ1
-04-02-2011,Arber-Zwiesel,Slalom,9
-11-01-2011,Flachau,Slalom,3
-04-01-2011,Zagreb,Slalom,6
-29-12-2010,Semmering,Slalom,6
-28-12-2010,Semmering,Giant Slalom,DNQ1
-21-12-2010,Courchevel,Slalom,9
-12-12-2010,St. Moritz,Giant Slalom,DNQ1
-28-11-2010,Aspen,Slalom,6
-27-11-2010,Aspen,Giant Slalom,DNQ1
-13-11-2010,Levi,Slalom,21
-23-10-2010,Soelden,Giant Slalom,DNF1
-13-03-2010,Garmisch Partenkirchen,Slalom,23
-24-01-2010,Cortina d'Ampezzo,Giant Slalom,DNQ1
-17-01-2010,Maribor,Slalom,27
-12-01-2010,Flachau,Slalom,8
-03-01-2010,Zagreb,Slalom,14
-29-12-2009,Lienz,Slalom,19
-28-12-2009,Lienz,Giant Slalom,DNQ1
-13-12-2009,Are,Slalom,15
-29-11-2009,Aspen,Slalom,26
-14-11-2009,Levi,Slalom,DNQ1
-07-03-2009,Ofterschwang,Slalom,21
-30-01-2009,Garmisch Partenkirchen,Slalom,21
-04-01-2009,Zagreb,Slalom,DNQ1
-29-12-2008,Semmering,Slalom,DSQ1
-14-12-2008,La Molina,Slalom,DNQ1
-30-11-2008,Aspen,Slalom,DNF1
-15-11-2008,Levi,Slalom,DNF2
-15-02-2008,Zagreb-Sljeme,Slalom,DNF1
-06-01-2008,Spindleruv Mlyn,Slalom,DNF1
-29-12-2007,Lienz,Slalom,DNQ1
-10-11-2007,Reiteralm,Slalom,DNF1
-07-01-2007,Kranjska Gora,Slalom,DNF1
-26-11-2006,"Aspen, CO",Slalom,DNS1
-11-11-2006,Levi,Slalom,26
+datum,kraj,disciplina,mesto,zaostanek
+19-03-2016,St. Moritz,Slalom,DNF2,
+06-03-2016,Jasna,Slalom,5,20.12
+23-02-2016,Stockholm,City Event,5,
+15-02-2016,Crans Montana,Slalom,2,3.63
+15-01-2016,Flachau,Slalom,4,4.71
+12-01-2016,Flachau,Slalom,8,11.01
+05-01-2016,Santa Caterina Valfurva,Slalom,10,14.20
+29-12-2015,Lienz,Slalom,12,14.26
+13-12-2015,Are,Slalom,9,15.95
+29-11-2015,"Aspen, CO",Slalom,14,31.05
+28-11-2015,"Aspen, CO",Slalom,6,37.87
+21-03-2015,Meribel,Slalom,6,7.42
+14-03-2015,Are,Slalom,4,15.42
+22-02-2015,Maribor,Slalom,26,21.79
+13-01-2015,Flachau,Slalom,13,15.70
+04-01-2015,Zagreb,Slalom,18,38.39
+29-12-2014,Kuehtai in Tirol,Slalom,18,23.89
+13-12-2014,Are,Slalom,16,13.41
+30-11-2014,Aspen,Slalom,23,27.32
+15-03-2014,Lenzerheide,Slalom,DNF2,
+08-03-2014,Are,Slalom,5,16.64
+02-02-2014,Kranjska Gora,Slalom,4,1.35
+14-01-2014,Flachau,Slalom,DNF2,
+05-01-2014,Bormio,Slalom,3,3.19
+29-12-2013,Lienz,Slalom,25,23.54
+17-12-2013,Courchevel,Slalom,DNF1,
+16-11-2013,Levi,Slalom,25,19.18
+10-03-2013,Ofterschwang,Slalom,13,14.78
+27-01-2013,Maribor,Slalom,24,18.80
+15-01-2013,Flachau,Slalom,16,17.36
+04-01-2013,Zagreb,Slalom,17,22.36
+29-12-2012,Semmering,Slalom,DNF1,
+20-12-2012,Are,Slalom,24,23.36
+07-12-2012,St. Moritz,Super Combined,DNF2,
+25-11-2012,"Aspen, CO",Slalom,22,32.49
+24-11-2012,"Aspen, CO",Giant Slalom,DNQ1,
+10-11-2012,Levi,Slalom,DNQ1,
+17-03-2012,Schladming,Slalom,13,12.59
+10-03-2012,Are,Slalom,DNF1,
+09-03-2012,Are,Giant Slalom,DNS1,
+04-03-2012,Ofterschwang,Slalom,13,4.73
+02-03-2012,Ofterschwang,Giant Slalom,DNQ1,
+11-02-2012,Soldeu-Grandvalira,Slalom,4,5.64
+22-01-2012,Kranjska Gora,Slalom,9,18.60
+03-01-2012,Zagreb,Slalom,10,17.95
+29-12-2011,Lienz,Slalom,DNF1,
+20-12-2011,Flachau,Slalom,5,7.82
+18-12-2011,Courchevel,Slalom,7,23.12
+18-03-2011,Lenzerheide,Slalom,9,7.31
+06-02-2011,Arber-Zwiesel,Giant Slalom,DNQ1,
+04-02-2011,Arber-Zwiesel,Slalom,9,15.89
+11-01-2011,Flachau,Slalom,3,3.09
+04-01-2011,Zagreb,Slalom,6,11.82
+29-12-2010,Semmering,Slalom,6,6.57
+28-12-2010,Semmering,Giant Slalom,DNQ1,
+21-12-2010,Courchevel,Slalom,9,16.58
+12-12-2010,St. Moritz,Giant Slalom,DNQ1,
+28-11-2010,Aspen,Slalom,6,7.18
+27-11-2010,Aspen,Giant Slalom,DNQ1,
+13-11-2010,Levi,Slalom,21,15.84
+23-10-2010,Soelden,Giant Slalom,DNF1,
+13-03-2010,Garmisch Partenkirchen,Slalom,23,27.49
+24-01-2010,Cortina d'Ampezzo,Giant Slalom,DNQ1,
+17-01-2010,Maribor,Slalom,27,22.26
+12-01-2010,Flachau,Slalom,8,11.71
+03-01-2010,Zagreb,Slalom,14,16.55
+29-12-2009,Lienz,Slalom,19,23.77
+28-12-2009,Lienz,Giant Slalom,DNQ1,
+13-12-2009,Are,Slalom,15,22.32
+29-11-2009,Aspen,Slalom,26,33.93
+14-11-2009,Levi,Slalom,DNQ1,
+07-03-2009,Ofterschwang,Slalom,21,17.67
+30-01-2009,Garmisch Partenkirchen,Slalom,21,15.17
+04-01-2009,Zagreb,Slalom,DNQ1,
+29-12-2008,Semmering,Slalom,DSQ1,
+14-12-2008,La Molina,Slalom,DNQ1,
+30-11-2008,Aspen,Slalom,DNF1,
+15-11-2008,Levi,Slalom,DNF2,
+15-02-2008,Zagreb-Sljeme,Slalom,DNF1,
+06-01-2008,Spindleruv Mlyn,Slalom,DNF1,
+29-12-2007,Lienz,Slalom,DNQ1,
+10-11-2007,Reiteralm,Slalom,DNF1,
+07-01-2007,Kranjska Gora,Slalom,DNF1,
+26-11-2006,"Aspen, CO",Slalom,DNS1,
+11-11-2006,Levi,Slalom,26,33.02

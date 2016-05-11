@@ -1,21 +1,21 @@
-datum,kraj,disciplina,mesto
-06-03-2016,Kranjska Gora,Slalom,DNF2
-05-03-2016,Kranjska Gora,Giant Slalom,28
-04-03-2016,Kranjska Gora,Giant Slalom,DNQ1
-28-02-2016,Hinterstoder,Giant Slalom,DNF2
-26-02-2016,Hinterstoder,Giant Slalom,25
-14-02-2016,Yuzawa Naeba,Slalom,DNF1
-13-02-2016,Yuzawa Naeba,Giant Slalom,25
-26-01-2016,Schladming,Slalom,DNF1
-24-01-2016,Kitzbuehel,Slalom,7
-10-01-2016,Adelboden,Slalom,DNQ1
-06-01-2016,Santa Caterina Valfurva,Slalom,DNQ1
-22-12-2015,Madonna di Campiglio,Slalom,DNQ1
-20-12-2015,Alta Badia,Giant Slalom,DNQ1
-13-12-2015,Val d'IsÃ¨re,Slalom,DNF1
-12-12-2015,Val d'IsÃ¨re,Giant Slalom,DNQ1
-25-10-2015,Soelden,Giant Slalom,22
-15-03-2015,Kranjska Gora,Slalom,DNQ1
-27-01-2015,Schladming,Slalom,DNF1
-25-01-2015,Kitzbuehel,Slalom,DNF1
-17-01-2015,Wengen,Slalom,DNF1
+datum,kraj,disciplina,mesto,zaostanek
+06-03-2016,Kranjska Gora,Slalom,DNF2,
+05-03-2016,Kranjska Gora,Giant Slalom,28,39.62
+04-03-2016,Kranjska Gora,Giant Slalom,DNQ1,
+28-02-2016,Hinterstoder,Giant Slalom,DNF2,
+26-02-2016,Hinterstoder,Giant Slalom,25,23.51
+14-02-2016,Yuzawa Naeba,Slalom,DNF1,
+13-02-2016,Yuzawa Naeba,Giant Slalom,25,21.35
+26-01-2016,Schladming,Slalom,DNF1,
+24-01-2016,Kitzbuehel,Slalom,7,10.80
+10-01-2016,Adelboden,Slalom,DNQ1,
+06-01-2016,Santa Caterina Valfurva,Slalom,DNQ1,
+22-12-2015,Madonna di Campiglio,Slalom,DNQ1,
+20-12-2015,Alta Badia,Giant Slalom,DNQ1,
+13-12-2015,Val d'IsÃ¨re,Slalom,DNF1,
+12-12-2015,Val d'IsÃ¨re,Giant Slalom,DNQ1,
+25-10-2015,Soelden,Giant Slalom,22,28.13
+15-03-2015,Kranjska Gora,Slalom,DNQ1,
+27-01-2015,Schladming,Slalom,DNF1,
+25-01-2015,Kitzbuehel,Slalom,DNF1,
+17-01-2015,Wengen,Slalom,DNF1,

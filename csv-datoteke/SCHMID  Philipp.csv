@@ -1,31 +1,31 @@
-datum,kraj,disciplina,mesto
-15-03-2015,Kranjska Gora,Slalom,DNQ1
-27-01-2015,Schladming,Slalom,DSQ1
-25-01-2015,Kitzbuehel,Slalom,DNQ1
-17-01-2015,Wengen,Slalom,DNQ1
-11-01-2015,Adelboden,Slalom,DNF1
-06-01-2015,Zagreb,Slalom,DNF1
-22-12-2014,Madonna di Campiglio,Slalom,DNQ1
-14-12-2014,Are,Slalom,DNQ1
-16-11-2014,Levi,Slalom,14
-09-03-2014,Kranjska Gora,Slalom,DNF1
-28-01-2014,Schladming,Slalom,DNQ1
-24-01-2014,Kitzbuehel,Slalom,DNQ1
-12-01-2014,Adelboden,Slalom,24
-06-01-2014,Bormio,Slalom,DNQ1
-15-12-2013,Val d'Isere,Slalom,DNF1
-17-11-2013,Levi,Slalom,DNF2
-10-03-2013,Kranjska Gora,Slalom,DNQ1
-20-01-2013,Wengen,Slalom,DNF2
-13-01-2013,Adelboden,Slalom,DNQ1
-08-12-2012,Val d'Isere,Slalom,DNF1
-11-11-2012,Levi,Slalom,10
-11-03-2012,Kranjska Gora,Slalom,DNQ1
-19-02-2012,Bansko,Slalom,24
-22-01-2012,Kitzbuehel,Slalom,DNQ1
-15-01-2012,Wengen,Slalom,DNQ1
-08-01-2012,Adelboden,Slalom,19
-05-01-2012,Zagreb,Slalom,DNQ1
-19-12-2011,Alta Badia,Slalom,DNQ1
-06-03-2011,Kranjska Gora,Slalom,20
-01-03-2009,Kranjska Gora,Slalom,DNQ1
+datum,kraj,disciplina,mesto,zaostanek
+15-03-2015,Kranjska Gora,Slalom,DNQ1,
+27-01-2015,Schladming,Slalom,DSQ1,
+25-01-2015,Kitzbuehel,Slalom,DNQ1,
+17-01-2015,Wengen,Slalom,DNQ1,
+11-01-2015,Adelboden,Slalom,DNF1,
+06-01-2015,Zagreb,Slalom,DNF1,
+22-12-2014,Madonna di Campiglio,Slalom,DNQ1,
+14-12-2014,Are,Slalom,DNQ1,
+16-11-2014,Levi,Slalom,14,18.78
+09-03-2014,Kranjska Gora,Slalom,DNF1,
+28-01-2014,Schladming,Slalom,DNQ1,
+24-01-2014,Kitzbuehel,Slalom,DNQ1,
+12-01-2014,Adelboden,Slalom,24,98.35
+06-01-2014,Bormio,Slalom,DNQ1,
+15-12-2013,Val d'Isere,Slalom,DNF1,
+17-11-2013,Levi,Slalom,DNF2,
+10-03-2013,Kranjska Gora,Slalom,DNQ1,
+20-01-2013,Wengen,Slalom,DNF2,
+13-01-2013,Adelboden,Slalom,DNQ1,
+08-12-2012,Val d'Isere,Slalom,DNF1,
+11-11-2012,Levi,Slalom,10,8.55
+11-03-2012,Kranjska Gora,Slalom,DNQ1,
+19-02-2012,Bansko,Slalom,24,19.33
+22-01-2012,Kitzbuehel,Slalom,DNQ1,
+15-01-2012,Wengen,Slalom,DNQ1,
+08-01-2012,Adelboden,Slalom,19,16.91
+05-01-2012,Zagreb,Slalom,DNQ1,
+19-12-2011,Alta Badia,Slalom,DNQ1,
+06-03-2011,Kranjska Gora,Slalom,20,14.81
+01-03-2009,Kranjska Gora,Slalom,DNQ1,

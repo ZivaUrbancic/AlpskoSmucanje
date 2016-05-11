@@ -1,8 +1,8 @@
-datum,kraj,disciplina,mesto
-07-02-2016,Garmisch Partenkirchen,Super G,35
-06-02-2016,Garmisch Partenkirchen,Downhill,28
-23-01-2016,Cortina d'Ampezzo,Downhill,37
-10-01-2016,Altenmarkt-Zauchensee,Super G,39
-09-01-2016,Altenmarkt-Zauchensee,Downhill,DNQ1
-05-12-2015,Lake Louise,Downhill,32
-04-12-2015,Lake Louise,Downhill,41
+datum,kraj,disciplina,mesto,zaostanek
+07-02-2016,Garmisch Partenkirchen,Super G,35,39.57
+06-02-2016,Garmisch Partenkirchen,Downhill,28,53.94
+23-01-2016,Cortina d'Ampezzo,Downhill,37,48.19
+10-01-2016,Altenmarkt-Zauchensee,Super G,39,59.08
+09-01-2016,Altenmarkt-Zauchensee,Downhill,DNQ1,
+05-12-2015,Lake Louise,Downhill,32,46.98
+04-12-2015,Lake Louise,Downhill,41,51.81

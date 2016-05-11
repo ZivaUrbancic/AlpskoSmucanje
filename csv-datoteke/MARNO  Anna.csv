@@ -1,12 +1,12 @@
-datum,kraj,disciplina,mesto
-27-02-2016,Soldeu- El Tarter,Super G,33
-21-02-2016,La Thuile,Super G,32
-07-02-2016,Garmisch Partenkirchen,Super G,39
-24-01-2016,Cortina d'Ampezzo,Super G,30
-23-01-2016,Cortina d'Ampezzo,Downhill,38
-10-01-2016,Altenmarkt-Zauchensee,Super G,DNF1
-06-12-2015,Lake Louise,Super G,42
-05-12-2015,Lake Louise,Downhill,42
-04-12-2015,Lake Louise,Downhill,45
-29-11-2014,Aspen,Giant Slalom,DNQ1
-30-11-2013,Beaver Creek,Super G,DNF1
+datum,kraj,disciplina,mesto,zaostanek
+27-02-2016,Soldeu- El Tarter,Super G,33,44.84
+21-02-2016,La Thuile,Super G,32,62.80
+07-02-2016,Garmisch Partenkirchen,Super G,39,41.72
+24-01-2016,Cortina d'Ampezzo,Super G,30,47.17
+23-01-2016,Cortina d'Ampezzo,Downhill,38,49.09
+10-01-2016,Altenmarkt-Zauchensee,Super G,DNF1,
+06-12-2015,Lake Louise,Super G,42,58.20
+05-12-2015,Lake Louise,Downhill,42,66.90
+04-12-2015,Lake Louise,Downhill,45,59.28
+29-11-2014,Aspen,Giant Slalom,DNQ1,
+30-11-2013,Beaver Creek,Super G,DNF1,

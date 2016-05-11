@@ -1,77 +1,77 @@
-datum,kraj,disciplina,mesto
-16-03-2016,St. Moritz,Downhill,14
-12-03-2016,Lenzerheide,Super G,50
-27-02-2016,Soldeu- El Tarter,Super G,34
-21-02-2016,La Thuile,Super G,DNF1
-20-02-2016,La Thuile,Downhill,8
-19-02-2016,La Thuile,Downhill,13
-07-02-2016,Garmisch Partenkirchen,Super G,29
-06-02-2016,Garmisch Partenkirchen,Downhill,7
-24-01-2016,Cortina d'Ampezzo,Super G,27
-23-01-2016,Cortina d'Ampezzo,Downhill,6
-10-01-2016,Altenmarkt-Zauchensee,Super G,32
-09-01-2016,Altenmarkt-Zauchensee,Downhill,17
-19-12-2015,Val d'IsÃ¨re,Downhill,9
-18-12-2015,Val d'IsÃ¨re,Alpine combined,DNS2
-06-12-2015,Lake Louise,Super G,46
-05-12-2015,Lake Louise,Downhill,22
-04-12-2015,Lake Louise,Downhill,22
-18-03-2015,Meribel,Downhill,11
-08-03-2015,Garmisch Partenkirchen,Super G,29
-07-03-2015,Garmisch Partenkirchen,Downhill,DNF1
-02-03-2015,Bansko,Super G,44
-01-03-2015,Bansko,Alpine combined,DNS2
-25-01-2015,St.Moritz,Super G,DNF1
-24-01-2015,St.Moritz,Downhill,3
-19-01-2015,Cortina d'Ampezzo,Super G,24
-18-01-2015,Cortina d'Ampezzo,Downhill,16
-16-01-2015,Cortina d'Ampezzo,Downhill,20
-21-12-2014,Val d Isere,Super G,DNF1
-20-12-2014,Val d Isere,Downhill,40
-07-12-2014,Lake Louise,Super G,DSQ1
-06-12-2014,Lake Louise,Downhill,25
-05-12-2014,Lake Louise,Downhill,34
-02-03-2014,Crans Montana,Downhill,5
-26-01-2014,Cortina d Ampezzo,Super G,DNF1
-25-01-2014,Cortina d Ampezzo,Downhill,DNF1
-24-01-2014,Cortina d Ampezzo,Downhill,18
-23-01-2014,Cortina d Ampezzo,Super G,38
-12-01-2014,Altenmarkt / Zauchensee,Super Combined,35
-11-01-2014,Altenmarkt / Zauchensee,Downhill,40
-21-12-2013,Val d'Isere,Downhill,12
-15-12-2013,St. Moritz,Giant Slalom,DNQ1
-14-12-2013,St. Moritz,Super G,45
-08-12-2013,Lake Louise,Super G,40
-07-12-2013,Lake Louise,Downhill,35
-06-12-2013,Lake Louise,Downhill,38
-01-12-2013,Beaver Creek,Giant Slalom,DNF1
-30-11-2013,Beaver Creek,Super G,47
-29-11-2013,Beaver Creek,Downhill,48
-03-03-2013,Garmisch-Partenkirchen,Super G,DNF1
-02-03-2013,Garmisch-Partenkirchen,Downhill,18
-01-03-2013,Garmisch-Partenkirchen,Super G,43
-24-02-2013,Meribel,Super Combined,DNF1
-23-02-2013,Meribel,Downhill,26
-20-01-2013,Cortina d'Ampezzo,Super G,46
-19-01-2013,Cortina d'Ampezzo,Downhill,32
-13-01-2013,St. Anton,Super G,38
-12-01-2013,St. Anton,Downhill,43
-14-12-2012,Val d'Isere,Downhill,29
-09-12-2012,St. Moritz,Giant Slalom,DNQ1
-08-12-2012,St. Moritz,Super G,43
-07-12-2012,St. Moritz,Super Combined,33
-02-12-2012,Lake Louise,Super G,44
-01-12-2012,Lake Louise,Downhill,26
-30-11-2012,Lake Louise,Downhill,30
-26-02-2012,Bansko,Super G,38
-18-02-2012,Sochi,Downhill,DNS1
-05-02-2012,Garmisch-Partenkirchen,Super G,DNF1
-04-02-2012,Garmisch-Partenkirchen,Downhill,42
-29-01-2012,St. Moritz,Super Combined,40
-28-01-2012,St. Moritz,Downhill,39
-27-01-2012,St. Moritz,Super Combined,30
-08-01-2012,Bad Kleinkirchheim,Super G,49
-07-01-2012,Bad Kleinkirchheim,Downhill,43
-06-03-2011,Tarvisio,Super G,DNF1
-05-03-2011,Tarvisio,Downhill,50
-04-03-2011,Tarvisio,Super Combined,36
+datum,kraj,disciplina,mesto,zaostanek
+16-03-2016,St. Moritz,Downhill,14,15.85
+12-03-2016,Lenzerheide,Super G,50,50.72
+27-02-2016,Soldeu- El Tarter,Super G,34,47.85
+21-02-2016,La Thuile,Super G,DNF1,
+20-02-2016,La Thuile,Downhill,8,23.44
+19-02-2016,La Thuile,Downhill,13,35.58
+07-02-2016,Garmisch Partenkirchen,Super G,29,35.41
+06-02-2016,Garmisch Partenkirchen,Downhill,7,26.41
+24-01-2016,Cortina d'Ampezzo,Super G,27,40.18
+23-01-2016,Cortina d'Ampezzo,Downhill,6,13.92
+10-01-2016,Altenmarkt-Zauchensee,Super G,32,47.21
+09-01-2016,Altenmarkt-Zauchensee,Downhill,17,32.02
+19-12-2015,Val d'IsÃ¨re,Downhill,9,11.24
+18-12-2015,Val d'IsÃ¨re,Alpine combined,DNS2,
+06-12-2015,Lake Louise,Super G,46,63.35
+05-12-2015,Lake Louise,Downhill,22,30.56
+04-12-2015,Lake Louise,Downhill,22,30.54
+18-03-2015,Meribel,Downhill,11,16.83
+08-03-2015,Garmisch Partenkirchen,Super G,29,38.47
+07-03-2015,Garmisch Partenkirchen,Downhill,DNF1,
+02-03-2015,Bansko,Super G,44,67.18
+01-03-2015,Bansko,Alpine combined,DNS2,
+25-01-2015,St.Moritz,Super G,DNF1,
+24-01-2015,St.Moritz,Downhill,3,6.98
+19-01-2015,Cortina d'Ampezzo,Super G,24,43.56
+18-01-2015,Cortina d'Ampezzo,Downhill,16,21.46
+16-01-2015,Cortina d'Ampezzo,Downhill,20,23.73
+21-12-2014,Val d Isere,Super G,DNF1,
+20-12-2014,Val d Isere,Downhill,40,37.81
+07-12-2014,Lake Louise,Super G,DSQ1,
+06-12-2014,Lake Louise,Downhill,25,22.52
+05-12-2014,Lake Louise,Downhill,34,25.46
+02-03-2014,Crans Montana,Downhill,5,11.95
+26-01-2014,Cortina d Ampezzo,Super G,DNF1,
+25-01-2014,Cortina d Ampezzo,Downhill,DNF1,
+24-01-2014,Cortina d Ampezzo,Downhill,18,28.69
+23-01-2014,Cortina d Ampezzo,Super G,38,38.77
+12-01-2014,Altenmarkt / Zauchensee,Super Combined,35,61.28
+11-01-2014,Altenmarkt / Zauchensee,Downhill,40,43.35
+21-12-2013,Val d'Isere,Downhill,12,18.26
+15-12-2013,St. Moritz,Giant Slalom,DNQ1,
+14-12-2013,St. Moritz,Super G,45,44.37
+08-12-2013,Lake Louise,Super G,40,36.24
+07-12-2013,Lake Louise,Downhill,35,32.50
+06-12-2013,Lake Louise,Downhill,38,37.19
+01-12-2013,Beaver Creek,Giant Slalom,DNF1,
+30-11-2013,Beaver Creek,Super G,47,92.65
+29-11-2013,Beaver Creek,Downhill,48,65.21
+03-03-2013,Garmisch-Partenkirchen,Super G,DNF1,
+02-03-2013,Garmisch-Partenkirchen,Downhill,18,26.87
+01-03-2013,Garmisch-Partenkirchen,Super G,43,65.25
+24-02-2013,Meribel,Super Combined,DNF1,
+23-02-2013,Meribel,Downhill,26,21.77
+20-01-2013,Cortina d'Ampezzo,Super G,46,83.92
+19-01-2013,Cortina d'Ampezzo,Downhill,32,47.69
+13-01-2013,St. Anton,Super G,38,55.00
+12-01-2013,St. Anton,Downhill,43,42.96
+14-12-2012,Val d'Isere,Downhill,29,44.15
+09-12-2012,St. Moritz,Giant Slalom,DNQ1,
+08-12-2012,St. Moritz,Super G,43,56.93
+07-12-2012,St. Moritz,Super Combined,33,68.90
+02-12-2012,Lake Louise,Super G,44,57.56
+01-12-2012,Lake Louise,Downhill,26,32.40
+30-11-2012,Lake Louise,Downhill,30,45.62
+26-02-2012,Bansko,Super G,38,59.40
+18-02-2012,Sochi,Downhill,DNS1,
+05-02-2012,Garmisch-Partenkirchen,Super G,DNF1,
+04-02-2012,Garmisch-Partenkirchen,Downhill,42,52.76
+29-01-2012,St. Moritz,Super Combined,40,74.62
+28-01-2012,St. Moritz,Downhill,39,55.30
+27-01-2012,St. Moritz,Super Combined,30,69.70
+08-01-2012,Bad Kleinkirchheim,Super G,49,60.66
+07-01-2012,Bad Kleinkirchheim,Downhill,43,84.66
+06-03-2011,Tarvisio,Super G,DNF1,
+05-03-2011,Tarvisio,Downhill,50,95.49
+04-03-2011,Tarvisio,Super Combined,36,73.79

@@ -1,13 +1,13 @@
-datum,kraj,disciplina,mesto
-07-03-2016,Jasna,Giant Slalom,20
-30-01-2016,Maribor,Giant Slalom,25
-17-01-2016,Flachau,Giant Slalom,DNQ1
-28-12-2015,Lienz,Giant Slalom,DNQ1
-20-12-2015,Courchevel,Giant Slalom,DNQ1
-12-12-2015,Are,Giant Slalom,8
-27-11-2015,"Aspen, CO",Giant Slalom,DNQ1
-13-03-2015,Are,Giant Slalom,DNQ1
-21-02-2015,Maribor,Giant Slalom,DNQ1
-28-12-2014,Kuehtai in Tirol,Giant Slalom,DNQ1
-22-12-2013,Val d'Isere,Giant Slalom,DNQ1
-15-12-2013,St. Moritz,Giant Slalom,DNQ1
+datum,kraj,disciplina,mesto,zaostanek
+07-03-2016,Jasna,Giant Slalom,20,14.51
+30-01-2016,Maribor,Giant Slalom,25,27.47
+17-01-2016,Flachau,Giant Slalom,DNQ1,
+28-12-2015,Lienz,Giant Slalom,DNQ1,
+20-12-2015,Courchevel,Giant Slalom,DNQ1,
+12-12-2015,Are,Giant Slalom,8,12.18
+27-11-2015,"Aspen, CO",Giant Slalom,DNQ1,
+13-03-2015,Are,Giant Slalom,DNQ1,
+21-02-2015,Maribor,Giant Slalom,DNQ1,
+28-12-2014,Kuehtai in Tirol,Giant Slalom,DNQ1,
+22-12-2013,Val d'Isere,Giant Slalom,DNQ1,
+15-12-2013,St. Moritz,Giant Slalom,DNQ1,

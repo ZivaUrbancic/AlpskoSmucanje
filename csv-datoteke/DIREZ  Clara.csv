@@ -1,15 +1,15 @@
-datum,kraj,disciplina,mesto
-07-03-2016,Jasna,Giant Slalom,DNQ1
-30-01-2016,Maribor,Giant Slalom,DNQ1
-17-01-2016,Flachau,Giant Slalom,24
-28-12-2015,Lienz,Giant Slalom,24
-20-12-2015,Courchevel,Giant Slalom,DNQ1
-12-12-2015,Are,Giant Slalom,DNF1
-27-11-2015,"Aspen, CO",Giant Slalom,DNF1
-24-10-2015,Soelden,Giant Slalom,DNF1
-21-02-2015,Maribor,Giant Slalom,DNQ1
-07-03-2014,Are,Giant Slalom,DNF1
-06-03-2014,Are,Giant Slalom,DNQ1
-26-10-2013,Soelden,Giant Slalom,DNQ1
-09-03-2013,Ofterschwang,Giant Slalom,DNQ1
-26-01-2013,Maribor,Giant Slalom,DNQ1
+datum,kraj,disciplina,mesto,zaostanek
+07-03-2016,Jasna,Giant Slalom,DNQ1,
+30-01-2016,Maribor,Giant Slalom,DNQ1,
+17-01-2016,Flachau,Giant Slalom,24,22.09
+28-12-2015,Lienz,Giant Slalom,24,24.11
+20-12-2015,Courchevel,Giant Slalom,DNQ1,
+12-12-2015,Are,Giant Slalom,DNF1,
+27-11-2015,"Aspen, CO",Giant Slalom,DNF1,
+24-10-2015,Soelden,Giant Slalom,DNF1,
+21-02-2015,Maribor,Giant Slalom,DNQ1,
+07-03-2014,Are,Giant Slalom,DNF1,
+06-03-2014,Are,Giant Slalom,DNQ1,
+26-10-2013,Soelden,Giant Slalom,DNQ1,
+09-03-2013,Ofterschwang,Giant Slalom,DNQ1,
+26-01-2013,Maribor,Giant Slalom,DNQ1,

@@ -1,66 +1,66 @@
-datum,kraj,disciplina,mesto
-19-03-2016,St. Moritz,Giant Slalom,23
-17-03-2016,St. Moritz,Super G,DNF1
-16-03-2016,St. Moritz,Downhill,9
-13-03-2016,Kvitfjell,Super G,2
-12-03-2016,Kvitfjell,Downhill,29
-05-03-2016,Kranjska Gora,Giant Slalom,DNQ1
-04-03-2016,Kranjska Gora,Giant Slalom,DNQ1
-28-02-2016,Hinterstoder,Giant Slalom,DNQ1
-27-02-2016,Hinterstoder,Super G,4
-20-02-2016,Chamonix,Downhill,26
-19-02-2016,Chamonix,Alpine combined,17
-07-02-2016,Jeongseon,Super G,3
-06-02-2016,Jeongseon,Downhill,29
-30-01-2016,Garmisch Partenkirchen,Downhill,41
-23-01-2016,Kitzbuehel,Downhill,7
-22-01-2016,Kitzbuehel,Alpine combined,8
-22-01-2016,Kitzbuehel,Super G,11
-16-01-2016,Wengen,Downhill,18
-15-01-2016,Wengen,Alpine combined,9
-29-12-2015,Santa Caterina,Downhill,6
-19-12-2015,Val Gardena / Groeden,Downhill,7
-18-12-2015,Val Gardena / Groeden,Super G,10
-06-12-2015,Beaver Creek,Giant Slalom,DNF1
-05-12-2015,Beaver Creek,Super G,10
-04-12-2015,Beaver Creek,Downhill,14
-29-11-2015,Lake Louise,Super G,8
-28-11-2015,Lake Louise,Downhill,30
-25-10-2015,Soelden,Giant Slalom,DNQ1
-19-03-2015,Meribel,Super G,13
-18-03-2015,Meribel,Downhill,19
-08-03-2015,Kvitfjell,Super G,2
-07-03-2015,Kvitfjell,Downhill,12
-01-03-2015,Garmisch Partenkirchen,Giant Slalom,DNQ1
-28-02-2015,Garmisch Partenkirchen,Downhill,7
-22-02-2015,Saalbach,Super G,12
-21-02-2015,Saalbach,Downhill,6
-24-01-2015,Kitzbuehel,Downhill,28
-23-01-2015,Kitzbuehel,Alpine combined,13
-23-01-2015,Kitzbuehel,Super G,20
-18-01-2015,Wengen,Downhill,20
-16-01-2015,Wengen,Alpine combined,12
-10-01-2015,Adelboden,Giant Slalom,DNQ1
-21-12-2014,Alta Badia,Giant Slalom,25
-20-12-2014,Val Gardena / Groeden,Super G,4
-12-12-2014,Are,Giant Slalom,DSQ1
-07-12-2014,Beaver Creek,Giant Slalom,DNQ1
-06-12-2014,Beaver Creek,Super G,DNF1
-30-11-2014,Lake Louise,Super G,18
-13-03-2014,Lenzerheide,Super G,DNF1
-08-03-2014,Kranjska Gora,Giant Slalom,DNQ1
-02-03-2014,Kvitfjell,Super G,5
-26-01-2014,Kitzbuehel,Super G,15
-26-01-2014,Kitzbuehel,Super Combined,19
-17-01-2014,Wengen,Super Combined,18
-22-12-2013,Alta Badia,Giant Slalom,DNQ1
-20-12-2013,Val Gardena / Groeden,Super G,28
-08-12-2013,Beaver Creek,Giant Slalom,DNQ1
-07-12-2013,Beaver Creek,Super G,16
-06-12-2013,Beaver Creek,Downhill,39
-01-12-2013,Lake Louise,Super G,32
-16-12-2012,Alta Badia,Giant Slalom,DNF1
-23-10-2011,Soelden,Giant Slalom,DNQ1
-05-03-2011,Kranjska Gora,Giant Slalom,DNQ1
-06-02-2011,Hinterstoder,Giant Slalom,DNQ1
-19-12-2010,Alta Badia,Giant Slalom,DNQ1
+datum,kraj,disciplina,mesto,zaostanek
+19-03-2016,St. Moritz,Giant Slalom,23,26.58
+17-03-2016,St. Moritz,Super G,DNF1,
+16-03-2016,St. Moritz,Downhill,9,16.05
+13-03-2016,Kvitfjell,Super G,2,1.98
+12-03-2016,Kvitfjell,Downhill,29,23.00
+05-03-2016,Kranjska Gora,Giant Slalom,DNQ1,
+04-03-2016,Kranjska Gora,Giant Slalom,DNQ1,
+28-02-2016,Hinterstoder,Giant Slalom,DNQ1,
+27-02-2016,Hinterstoder,Super G,4,5.89
+20-02-2016,Chamonix,Downhill,26,19.64
+19-02-2016,Chamonix,Alpine combined,17,27.26
+07-02-2016,Jeongseon,Super G,3,13.29
+06-02-2016,Jeongseon,Downhill,29,24.04
+30-01-2016,Garmisch Partenkirchen,Downhill,41,34.26
+23-01-2016,Kitzbuehel,Downhill,7,14.02
+22-01-2016,Kitzbuehel,Alpine combined,8,21.48
+22-01-2016,Kitzbuehel,Super G,11,17.90
+16-01-2016,Wengen,Downhill,18,30.68
+15-01-2016,Wengen,Alpine combined,9,9.63
+29-12-2015,Santa Caterina,Downhill,6,17.01
+19-12-2015,Val Gardena / Groeden,Downhill,7,14.16
+18-12-2015,Val Gardena / Groeden,Super G,10,15.44
+06-12-2015,Beaver Creek,Giant Slalom,DNF1,
+05-12-2015,Beaver Creek,Super G,10,12.43
+04-12-2015,Beaver Creek,Downhill,14,18.93
+29-11-2015,Lake Louise,Super G,8,7.86
+28-11-2015,Lake Louise,Downhill,30,25.86
+25-10-2015,Soelden,Giant Slalom,DNQ1,
+19-03-2015,Meribel,Super G,13,8.99
+18-03-2015,Meribel,Downhill,19,20.33
+08-03-2015,Kvitfjell,Super G,2,2.66
+07-03-2015,Kvitfjell,Downhill,12,8.92
+01-03-2015,Garmisch Partenkirchen,Giant Slalom,DNQ1,
+28-02-2015,Garmisch Partenkirchen,Downhill,7,7.13
+22-02-2015,Saalbach,Super G,12,13.81
+21-02-2015,Saalbach,Downhill,6,8.42
+24-01-2015,Kitzbuehel,Downhill,28,22.78
+23-01-2015,Kitzbuehel,Alpine combined,13,20.37
+23-01-2015,Kitzbuehel,Super G,20,19.13
+18-01-2015,Wengen,Downhill,20,20.49
+16-01-2015,Wengen,Alpine combined,12,22.34
+10-01-2015,Adelboden,Giant Slalom,DNQ1,
+21-12-2014,Alta Badia,Giant Slalom,25,34.52
+20-12-2014,Val Gardena / Groeden,Super G,4,6.44
+12-12-2014,Are,Giant Slalom,DSQ1,
+07-12-2014,Beaver Creek,Giant Slalom,DNQ1,
+06-12-2014,Beaver Creek,Super G,DNF1,
+30-11-2014,Lake Louise,Super G,18,13.26
+13-03-2014,Lenzerheide,Super G,DNF1,
+08-03-2014,Kranjska Gora,Giant Slalom,DNQ1,
+02-03-2014,Kvitfjell,Super G,5,5.51
+26-01-2014,Kitzbuehel,Super G,15,9.10
+26-01-2014,Kitzbuehel,Super Combined,19,33.46
+17-01-2014,Wengen,Super Combined,18,18.38
+22-12-2013,Alta Badia,Giant Slalom,DNQ1,
+20-12-2013,Val Gardena / Groeden,Super G,28,33.86
+08-12-2013,Beaver Creek,Giant Slalom,DNQ1,
+07-12-2013,Beaver Creek,Super G,16,16.57
+06-12-2013,Beaver Creek,Downhill,39,39.85
+01-12-2013,Lake Louise,Super G,32,23.13
+16-12-2012,Alta Badia,Giant Slalom,DNF1,
+23-10-2011,Soelden,Giant Slalom,DNQ1,
+05-03-2011,Kranjska Gora,Giant Slalom,DNQ1,
+06-02-2011,Hinterstoder,Giant Slalom,DNQ1,
+19-12-2010,Alta Badia,Giant Slalom,DNQ1,

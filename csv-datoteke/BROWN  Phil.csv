@@ -1,50 +1,50 @@
-datum,kraj,disciplina,mesto
-06-03-2016,Kranjska Gora,Slalom,DNQ1
-05-03-2016,Kranjska Gora,Giant Slalom,DNF1
-04-03-2016,Kranjska Gora,Giant Slalom,DNF1
-28-02-2016,Hinterstoder,Giant Slalom,DNF1
-26-02-2016,Hinterstoder,Giant Slalom,DNF1
-14-02-2016,Yuzawa Naeba,Slalom,DNF1
-13-02-2016,Yuzawa Naeba,Giant Slalom,DNQ1
-26-01-2016,Schladming,Slalom,DNF1
-24-01-2016,Kitzbuehel,Slalom,DNF1
-10-01-2016,Adelboden,Slalom,DNQ1
-06-01-2016,Santa Caterina Valfurva,Slalom,DNQ1
-06-12-2015,Beaver Creek,Giant Slalom,26
-15-03-2015,Kranjska Gora,Slalom,DNQ1
-14-03-2015,Kranjska Gora,Giant Slalom,DNQ1
-01-03-2015,Garmisch Partenkirchen,Giant Slalom,DNQ1
-27-01-2015,Schladming,Slalom,DNQ1
-25-01-2015,Kitzbuehel,Slalom,DNF1
-23-01-2015,Kitzbuehel,Super G,DNF1
-23-01-2015,Kitzbuehel,Alpine combined,DNF1
-17-01-2015,Wengen,Slalom,DNF1
-11-01-2015,Adelboden,Slalom,DNF1
-10-01-2015,Adelboden,Giant Slalom,DNQ1
-06-01-2015,Zagreb,Slalom,DNF1
-22-12-2014,Madonna di Campiglio,Slalom,DNQ1
-21-12-2014,Alta Badia,Giant Slalom,DNQ1
-14-12-2014,Are,Slalom,DNQ1
-12-12-2014,Are,Giant Slalom,26
-07-12-2014,Beaver Creek,Giant Slalom,DNQ1
-16-11-2014,Levi,Slalom,DNQ1
-26-10-2014,Soelden,Giant Slalom,21
-08-03-2014,Kranjska Gora,Giant Slalom,24
-02-02-2014,St. Moritz,Giant Slalom,DNQ1
-26-01-2014,Kitzbuehel,Super G,73
-26-01-2014,Kitzbuehel,Super Combined,DSQ2
-24-01-2014,Kitzbuehel,Slalom,DNF1
-19-01-2014,Wengen,Slalom,DNF1
-12-01-2014,Adelboden,Slalom,DNF1
-11-01-2014,Adelboden,Giant Slalom,DNQ1
-06-01-2014,Bormio,Slalom,DNQ1
-22-12-2013,Alta Badia,Giant Slalom,DNQ1
-15-12-2013,Val d'Isere,Slalom,DNF1
-14-12-2013,Val d'Isere,Giant Slalom,DNF1
-08-12-2013,Beaver Creek,Giant Slalom,DNQ1
-17-11-2013,Levi,Slalom,DNF1
-27-10-2013,Soelden,Giant Slalom,DNQ1
-12-01-2013,Adelboden,Giant Slalom,DNQ1
-02-12-2012,Beaver Creek,Giant Slalom,DNQ1
-26-02-2012,Crans Montana,Giant Slalom,DSQ1
-07-01-2012,Adelboden,Giant Slalom,DNF1
+datum,kraj,disciplina,mesto,zaostanek
+06-03-2016,Kranjska Gora,Slalom,DNQ1,
+05-03-2016,Kranjska Gora,Giant Slalom,DNF1,
+04-03-2016,Kranjska Gora,Giant Slalom,DNF1,
+28-02-2016,Hinterstoder,Giant Slalom,DNF1,
+26-02-2016,Hinterstoder,Giant Slalom,DNF1,
+14-02-2016,Yuzawa Naeba,Slalom,DNF1,
+13-02-2016,Yuzawa Naeba,Giant Slalom,DNQ1,
+26-01-2016,Schladming,Slalom,DNF1,
+24-01-2016,Kitzbuehel,Slalom,DNF1,
+10-01-2016,Adelboden,Slalom,DNQ1,
+06-01-2016,Santa Caterina Valfurva,Slalom,DNQ1,
+06-12-2015,Beaver Creek,Giant Slalom,26,24.92
+15-03-2015,Kranjska Gora,Slalom,DNQ1,
+14-03-2015,Kranjska Gora,Giant Slalom,DNQ1,
+01-03-2015,Garmisch Partenkirchen,Giant Slalom,DNQ1,
+27-01-2015,Schladming,Slalom,DNQ1,
+25-01-2015,Kitzbuehel,Slalom,DNF1,
+23-01-2015,Kitzbuehel,Super G,DNF1,
+23-01-2015,Kitzbuehel,Alpine combined,DNF1,
+17-01-2015,Wengen,Slalom,DNF1,
+11-01-2015,Adelboden,Slalom,DNF1,
+10-01-2015,Adelboden,Giant Slalom,DNQ1,
+06-01-2015,Zagreb,Slalom,DNF1,
+22-12-2014,Madonna di Campiglio,Slalom,DNQ1,
+21-12-2014,Alta Badia,Giant Slalom,DNQ1,
+14-12-2014,Are,Slalom,DNQ1,
+12-12-2014,Are,Giant Slalom,26,49.79
+07-12-2014,Beaver Creek,Giant Slalom,DNQ1,
+16-11-2014,Levi,Slalom,DNQ1,
+26-10-2014,Soelden,Giant Slalom,21,29.05
+08-03-2014,Kranjska Gora,Giant Slalom,24,16.11
+02-02-2014,St. Moritz,Giant Slalom,DNQ1,
+26-01-2014,Kitzbuehel,Super G,73,39.39
+26-01-2014,Kitzbuehel,Super Combined,DSQ2,
+24-01-2014,Kitzbuehel,Slalom,DNF1,
+19-01-2014,Wengen,Slalom,DNF1,
+12-01-2014,Adelboden,Slalom,DNF1,
+11-01-2014,Adelboden,Giant Slalom,DNQ1,
+06-01-2014,Bormio,Slalom,DNQ1,
+22-12-2013,Alta Badia,Giant Slalom,DNQ1,
+15-12-2013,Val d'Isere,Slalom,DNF1,
+14-12-2013,Val d'Isere,Giant Slalom,DNF1,
+08-12-2013,Beaver Creek,Giant Slalom,DNQ1,
+17-11-2013,Levi,Slalom,DNF1,
+27-10-2013,Soelden,Giant Slalom,DNQ1,
+12-01-2013,Adelboden,Giant Slalom,DNQ1,
+02-12-2012,Beaver Creek,Giant Slalom,DNQ1,
+26-02-2012,Crans Montana,Giant Slalom,DSQ1,
+07-01-2012,Adelboden,Giant Slalom,DNF1,

@@ -1,15 +1,15 @@
-datum,kraj,disciplina,mesto
-12-03-2016,Lenzerheide,Super G,47
-21-02-2016,La Thuile,Super G,36
-20-02-2016,La Thuile,Downhill,29
-19-02-2016,La Thuile,Downhill,40
-24-01-2016,Cortina d'Ampezzo,Super G,35
-10-01-2016,Altenmarkt-Zauchensee,Super G,44
-19-12-2015,Val d'IsÃ¨re,Downhill,DNF1
-18-12-2015,Val d'IsÃ¨re,Alpine combined,DNS2
-06-12-2015,Lake Louise,Super G,43
-05-12-2015,Lake Louise,Downhill,35
-04-12-2015,Lake Louise,Downhill,46
-07-03-2015,Garmisch Partenkirchen,Downhill,DNF1
-24-01-2015,St.Moritz,Downhill,46
-06-12-2014,Lake Louise,Downhill,48
+datum,kraj,disciplina,mesto,zaostanek
+12-03-2016,Lenzerheide,Super G,47,47.54
+21-02-2016,La Thuile,Super G,36,71.97
+20-02-2016,La Thuile,Downhill,29,49.09
+19-02-2016,La Thuile,Downhill,40,86.19
+24-01-2016,Cortina d'Ampezzo,Super G,35,54.03
+10-01-2016,Altenmarkt-Zauchensee,Super G,44,69.48
+19-12-2015,Val d'IsÃ¨re,Downhill,DNF1,
+18-12-2015,Val d'IsÃ¨re,Alpine combined,DNS2,
+06-12-2015,Lake Louise,Super G,43,58.34
+05-12-2015,Lake Louise,Downhill,35,56.03
+04-12-2015,Lake Louise,Downhill,46,65.05
+07-03-2015,Garmisch Partenkirchen,Downhill,DNF1,
+24-01-2015,St.Moritz,Downhill,46,48.52
+06-12-2014,Lake Louise,Downhill,48,60.76
