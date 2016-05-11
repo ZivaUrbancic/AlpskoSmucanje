@@ -7,8 +7,8 @@ datum,kraj,disciplina,mesto
 26-02-2016,Hinterstoder,Giant Slalom,DNF1
 26-01-2016,Schladming,Slalom,DSQ1
 24-01-2016,Kitzbuehel,Slalom,DNF1
-22-01-2016,Kitzbuehel,Super G,62
 22-01-2016,Kitzbuehel,Alpine combined,29
+22-01-2016,Kitzbuehel,Super G,62
 17-01-2016,Wengen,Slalom,DNQ1
 10-01-2016,Adelboden,Slalom,DNQ1
 06-01-2016,Santa Caterina Valfurva,Slalom,DSQ1
@@ -22,8 +22,8 @@ datum,kraj,disciplina,mesto
 08-03-2014,Kranjska Gora,Giant Slalom,DNQ1
 02-02-2014,St. Moritz,Giant Slalom,DNF1
 28-01-2014,Schladming,Slalom,DNF1
-26-01-2014,Kitzbuehel,Super G,80
 26-01-2014,Kitzbuehel,Super Combined,39
+26-01-2014,Kitzbuehel,Super G,80
 24-01-2014,Kitzbuehel,Slalom,DNF1
 19-01-2014,Wengen,Slalom,DNQ1
 17-01-2014,Wengen,Super Combined,36
@@ -166,8 +166,8 @@ datum,kraj,disciplina,mesto
 07-02-2004,Adelboden,Giant Slalom,DNQ1
 27-01-2004,Schladming,Slalom,DSQ1
 25-01-2004,Kitzbuehel,Slalom,DNF1
-11-01-2004,Chamonix,Combined,DSQ
 11-01-2004,Chamonix,Slalom,DSQ1
+11-01-2004,Chamonix,Combined,DSQ
 10-01-2004,Chamonix,Downhill,71
 04-01-2004,Flachau,Slalom,DNQ1
 03-01-2004,Flachau,Giant Slalom,DNQ1

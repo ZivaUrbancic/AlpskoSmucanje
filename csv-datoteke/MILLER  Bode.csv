@@ -9,8 +9,8 @@ datum,kraj,disciplina,mesto
 28-02-2014,Kvitfjell,Downhill,16
 02-02-2014,St. Moritz,Giant Slalom,DNF1
 28-01-2014,Schladming,Slalom,DSQ1
-26-01-2014,Kitzbuehel,Super G,2
 26-01-2014,Kitzbuehel,Super Combined,DSQ2
+26-01-2014,Kitzbuehel,Super G,2
 25-01-2014,Kitzbuehel,Downhill,3
 19-01-2014,Wengen,Slalom,26
 18-01-2014,Wengen,Downhill,5
@@ -60,8 +60,8 @@ datum,kraj,disciplina,mesto
 06-02-2011,Hinterstoder,Giant Slalom,9
 05-02-2011,Hinterstoder,Super G,3
 25-01-2011,Schladming,Slalom,DNS1
-23-01-2011,Kitzbuehel,Combined,DNF1
 23-01-2011,Kitzbuehel,Slalom,DNF1
+23-01-2011,Kitzbuehel,Combined,DNF1
 22-01-2011,Kitzbuehel,Downhill,2
 21-01-2011,Kitzbuehel,Super G,10
 16-01-2011,Wengen,Slalom,DNF1
@@ -83,8 +83,8 @@ datum,kraj,disciplina,mesto
 27-11-2010,Lake Louise,Downhill,8
 14-11-2010,Levi,Slalom,DNF1
 26-01-2010,Schladming,Slalom,26
-24-01-2010,Kitzbuehel,Slalom,DNS1
 24-01-2010,Kitzbuehel,Combined,DNS1
+24-01-2010,Kitzbuehel,Slalom,DNS1
 23-01-2010,Kitzbuehel,Downhill,9
 22-01-2010,Kitzbuehel,Super G,17
 17-01-2010,Wengen,Slalom,DNF1
@@ -105,8 +105,8 @@ datum,kraj,disciplina,mesto
 15-11-2009,Levi,Slalom,DNF2
 01-02-2009,Garmisch Partenkirchen,Slalom,6
 27-01-2009,Schladming,Slalom,8
-25-01-2009,Kitzbuehel,Combined,DNF2
 25-01-2009,Kitzbuehel,Slalom,DNF1
+25-01-2009,Kitzbuehel,Combined,DNF2
 24-01-2009,Kitzbuehel,Downhill,4
 23-01-2009,Kitzbuehel,Super G,21
 18-01-2009,Wengen,Slalom,DNF2
@@ -287,8 +287,8 @@ datum,kraj,disciplina,mesto
 31-01-2004,Garmisch-Partenkirchen,Downhill,28
 30-01-2004,Garmisch-Partenkirchen,Downhill,27
 27-01-2004,Schladming,Slalom,4
-25-01-2004,Kitzbuehel,Combined,1
 25-01-2004,Kitzbuehel,Slalom,4
+25-01-2004,Kitzbuehel,Combined,1
 24-01-2004,Kitzbuehel,Downhill,16
 23-01-2004,Kitzbuehel,Super G,28
 22-01-2004,Kitzbuehel,Downhill,7

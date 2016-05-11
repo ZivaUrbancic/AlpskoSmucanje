@@ -159,7 +159,7 @@ id,ime,drzava,smuci
 126473,KROELL  Johannes,AUT,Salomon
 32552,KROELL  Klaus,AUT,Salomon
 156304,KRYENBUEHL  Urs,SUI,Stoeckli
-70730,KRYZL  Krystof,CZE,Blizzard
+70730,KRYZL  Krystof,CZE,Ni_podatka
 125878,KUENG  Mirena,SUI,Head
 32813,KUENG  Patrick,SUI,Salomon
 78864,KUERNER  Miha,SLO,Ni_podatka
@@ -192,7 +192,7 @@ id,ime,drzava,smuci
 117803,MAYER  Matthias,AUT,Head
 38837,MAZE  Tina,SLO,Stoeckli
 82305,MCJAMES  Megan,USA,Voelkl
-104177,MCKENNIS  Alice,USA,Atomic
+104177,MCKENNIS  Alice,USA,Ni_podatka
 174158,MEILLARD  Loic,SUI,Rossignol
 39732,MERIGHETTI  Daniela,ITA,Fischer
 39778,MERMILLOD BLONDIN  Thomas,FRA,Rossignol
@@ -236,7 +236,7 @@ id,ime,drzava,smuci
 127048,PINTURAULT  Alexis,FRA,Head
 136009,PIOT  Jennifer,FRA,Rossignol
 145321,PIRINEN  Eemeli,FIN,Ni_podatka
-117686,PLEISCH  Manuel,SUI,Atomic
+117686,PLEISCH  Manuel,SUI,Ni_podatka
 48438,POISSON  David,FRA,Salomon
 95213,PREFONTAINE  Marie-Pier,CAN,Rossignol
 118034,PRIDY  Morgan,CAN,Atomic
@@ -294,7 +294,7 @@ id,ime,drzava,smuci
 36748,STERZ  Regina,AUT,Voelkl
 58869,STIEGLER  Resi,USA,Rossignol
 67825,STRACHOVA  Sarka,CZE,Fischer
-137475,STRASSER  Linus,GER,Nordica
+137475,STRASSER  Linus,GER,Ni_podatka
 59171,STREITBERGER  Georg,AUT,Head
 126498,STRIEDINGER  Otmar,AUT,Rossignol
 59332,STUFFER  Verena,ITA,Fischer

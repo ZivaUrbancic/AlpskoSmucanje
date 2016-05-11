@@ -474,8 +474,8 @@ id,datum,kraj,disciplina,mesto
 2820,30-01-2011,Chamonix,Super Combined,6
 2820,29-01-2011,Chamonix,Downhill,32
 2820,25-01-2011,Schladming,Slalom,DNF2
-2820,23-01-2011,Kitzbuehel,Slalom,DSQ2
 2820,23-01-2011,Kitzbuehel,Combined,DSQ2
+2820,23-01-2011,Kitzbuehel,Slalom,DSQ2
 2820,22-01-2011,Kitzbuehel,Downhill,32
 2820,21-01-2011,Kitzbuehel,Super G,DNS1
 2820,16-01-2011,Wengen,Slalom,24
@@ -496,8 +496,8 @@ id,datum,kraj,disciplina,mesto
 2820,30-01-2010,Kranjska Gora,Giant Slalom,15
 2820,29-01-2010,Kranjska Gora,Giant Slalom,24
 2820,26-01-2010,Schladming,Slalom,DNQ1
-2820,24-01-2010,Kitzbuehel,Combined,8
 2820,24-01-2010,Kitzbuehel,Slalom,DNQ1
+2820,24-01-2010,Kitzbuehel,Combined,8
 2820,23-01-2010,Kitzbuehel,Downhill,52
 2820,17-01-2010,Wengen,Slalom,DNQ1
 2820,15-01-2010,Wengen,Super Combined,7
@@ -999,8 +999,8 @@ id,datum,kraj,disciplina,mesto
 68659,22-02-2015,Saalbach,Super G,11
 68659,21-02-2015,Saalbach,Downhill,10
 68659,24-01-2015,Kitzbuehel,Downhill,7
-68659,23-01-2015,Kitzbuehel,Super G,18
 68659,23-01-2015,Kitzbuehel,Alpine combined,14
+68659,23-01-2015,Kitzbuehel,Super G,18
 68659,18-01-2015,Wengen,Downhill,24
 68659,16-01-2015,Wengen,Alpine combined,11
 68659,28-12-2014,Santa Caterina,Downhill,5
@@ -1068,8 +1068,8 @@ id,datum,kraj,disciplina,mesto
 68659,04-02-2012,Chamonix,Downhill,2
 68659,03-02-2012,Chamonix,Downhill,4
 68659,28-01-2012,Garmisch-Partenkirchen,Downhill,20
-68659,22-01-2012,Kitzbuehel,Super Combined,6
 68659,22-01-2012,Kitzbuehel,Slalom,DNQ1
+68659,22-01-2012,Kitzbuehel,Super Combined,6
 68659,21-01-2012,Kitzbuehel,Downhill,2
 68659,14-01-2012,Wengen,Downhill,8
 68659,13-01-2012,Wengen,Super Combined,26
@@ -1247,8 +1247,8 @@ id,datum,kraj,disciplina,mesto
 4588,05-12-2014,Beaver Creek,Downhill,DNF1
 4588,29-11-2014,Lake Louise,Downhill,24
 4588,02-02-2014,St. Moritz,Giant Slalom,DNF1
-4588,26-01-2014,Kitzbuehel,Super Combined,DNF2
 4588,26-01-2014,Kitzbuehel,Super G,52
+4588,26-01-2014,Kitzbuehel,Super Combined,DNF2
 4588,25-01-2014,Kitzbuehel,Downhill,41
 4588,17-01-2014,Wengen,Super Combined,17
 4588,11-01-2014,Adelboden,Giant Slalom,DNF1
@@ -2253,8 +2253,8 @@ id,datum,kraj,disciplina,mesto
 125534,01-03-2015,Garmisch Partenkirchen,Giant Slalom,DNQ1
 125534,27-01-2015,Schladming,Slalom,DNQ1
 125534,25-01-2015,Kitzbuehel,Slalom,DNF1
-125534,23-01-2015,Kitzbuehel,Super G,DNF1
 125534,23-01-2015,Kitzbuehel,Alpine combined,DNF1
+125534,23-01-2015,Kitzbuehel,Super G,DNF1
 125534,17-01-2015,Wengen,Slalom,DNF1
 125534,11-01-2015,Adelboden,Slalom,DNF1
 125534,10-01-2015,Adelboden,Giant Slalom,DNQ1
@@ -2409,8 +2409,8 @@ id,datum,kraj,disciplina,mesto
 95011,30-01-2011,Chamonix,Super Combined,33
 95011,14-01-2011,Wengen,Super Combined,27
 95011,24-01-2010,Kitzbuehel,Combined,DNF1
-95011,24-01-2010,Kitzbuehel,Slalom,DNF1
 95011,24-01-2010,Kitzbuehel,Combined,DNF1
+95011,24-01-2010,Kitzbuehel,Slalom,DNF1
 95011,23-01-2010,Kitzbuehel,Downhill,DNF1
 95011,15-01-2010,Wengen,Super Combined,DSQ2
 95011,12-12-2009,Val d'Isere,Super G,DNF1
@@ -2559,8 +2559,8 @@ id,datum,kraj,disciplina,mesto
 118669,06-02-2016,Jeongseon,Downhill,31
 118669,30-01-2016,Garmisch Partenkirchen,Downhill,25
 118669,23-01-2016,Kitzbuehel,Downhill,DNS1
-118669,22-01-2016,Kitzbuehel,Alpine combined,DNF2
 118669,22-01-2016,Kitzbuehel,Super G,7
+118669,22-01-2016,Kitzbuehel,Alpine combined,DNF2
 118669,16-01-2016,Wengen,Downhill,31
 118669,15-01-2016,Wengen,Alpine combined,18
 118669,29-12-2015,Santa Caterina,Downhill,21
@@ -2621,9 +2621,9 @@ id,datum,kraj,disciplina,mesto
 118669,04-02-2012,Chamonix,Downhill,46
 118669,03-02-2012,Chamonix,Downhill,45
 118669,28-01-2012,Garmisch-Partenkirchen,Downhill,42
+118669,22-01-2012,Kitzbuehel,Slalom,DNS2
 118669,22-01-2012,Kitzbuehel,Slalom,DNQ1
 118669,22-01-2012,Kitzbuehel,Super Combined,DNS2
-118669,22-01-2012,Kitzbuehel,Slalom,DNS2
 118669,21-01-2012,Kitzbuehel,Downhill,36
 118669,07-01-2012,Adelboden,Giant Slalom,22
 118669,29-12-2011,Bormio,Downhill,DNF1
@@ -2673,8 +2673,8 @@ id,datum,kraj,disciplina,mesto
 137323,02-03-2014,Kvitfjell,Super G,45
 137323,01-03-2014,Kvitfjell,Downhill,35
 137323,28-02-2014,Kvitfjell,Downhill,31
-137323,26-01-2014,Kitzbuehel,Super G,55
 137323,26-01-2014,Kitzbuehel,Super Combined,29
+137323,26-01-2014,Kitzbuehel,Super G,55
 137323,25-01-2014,Kitzbuehel,Downhill,51
 137323,18-01-2014,Wengen,Downhill,30
 137323,17-01-2014,Wengen,Super Combined,33
@@ -4149,8 +4149,8 @@ id,datum,kraj,disciplina,mesto
 12865,28-02-2009,Kranjska Gora,Giant Slalom,21
 12865,22-02-2009,Sestriere,Super Combined,17
 12865,21-02-2009,Sestriere,Giant Slalom,DNF2
-12865,25-01-2009,Kitzbuehel,Combined,DNF2
 12865,25-01-2009,Kitzbuehel,Slalom,DNF1
+12865,25-01-2009,Kitzbuehel,Combined,DNF2
 12865,24-01-2009,Kitzbuehel,Downhill,1
 12865,23-01-2009,Kitzbuehel,Super G,6
 12865,17-01-2009,Wengen,Downhill,1
@@ -4235,8 +4235,8 @@ id,datum,kraj,disciplina,mesto
 12865,03-02-2006,Chamonix,Super Combined,4
 12865,29-01-2006,Garmisch-Partenkirchen,Super G,8
 12865,28-01-2006,Garmisch-Partenkirchen,Downhill,9
-12865,22-01-2006,Kitzbuehel,Combined,DSQ
 12865,22-01-2006,Kitzbuehel,Slalom,DSQ1
+12865,22-01-2006,Kitzbuehel,Combined,DSQ
 12865,21-01-2006,Kitzbuehel,Downhill,6
 12865,20-01-2006,Kitzbuehel,Super G,21
 12865,14-01-2006,Wengen,Downhill,8
@@ -4354,8 +4354,8 @@ id,datum,kraj,disciplina,mesto
 12865,20-01-2002,Kitzbuehel,Slalom,DNF1
 12865,19-01-2002,Kitzbuehel,Downhill,35
 12865,18-01-2002,Kitzbuehel,Super G,DSQ1
-12865,13-01-2002,Wengen,Combined,4
 12865,13-01-2002,Wengen,Slalom,DNQ1
+12865,13-01-2002,Wengen,Combined,4
 12865,12-01-2002,Wengen,Downhill,32
 12865,05-01-2002,Adelboden,Giant Slalom,DNQ1
 12865,21-12-2001,Kranjska Gora,Giant Slalom,7
@@ -5073,8 +5073,8 @@ id,datum,kraj,disciplina,mesto
 126526,29-12-2009,Lienz,Slalom,21
 126526,28-12-2009,Lienz,Giant Slalom,25
 126526,15-02-2008,Zagreb-Sljeme,Slalom,DNQ2
-164701,22-01-2016,Kitzbuehel,Super G,52
 164701,22-01-2016,Kitzbuehel,Alpine combined,27
+164701,22-01-2016,Kitzbuehel,Super G,52
 164701,29-11-2015,Lake Louise,Super G,55
 164701,28-11-2015,Lake Louise,Downhill,DNF1
 15325,19-03-2016,St. Moritz,Giant Slalom,7
@@ -6433,8 +6433,8 @@ id,datum,kraj,disciplina,mesto
 82015,22-02-2015,Saalbach,Super G,DNF1
 82015,21-02-2015,Saalbach,Downhill,21
 82015,24-01-2015,Kitzbuehel,Downhill,15
-82015,23-01-2015,Kitzbuehel,Super G,17
 82015,23-01-2015,Kitzbuehel,Alpine combined,DNS2
+82015,23-01-2015,Kitzbuehel,Super G,17
 82015,18-01-2015,Wengen,Downhill,2
 82015,16-01-2015,Wengen,Alpine combined,17
 82015,28-12-2014,Santa Caterina,Downhill,DNF1
@@ -6511,8 +6511,8 @@ id,datum,kraj,disciplina,mesto
 82015,06-03-2010,Kvitfjell,Downhill,18
 82015,30-01-2010,Kranjska Gora,Giant Slalom,DNQ1
 82015,29-01-2010,Kranjska Gora,Giant Slalom,DNF1
-82015,24-01-2010,Kitzbuehel,Combined,17
 82015,24-01-2010,Kitzbuehel,Slalom,DNQ1
+82015,24-01-2010,Kitzbuehel,Combined,17
 82015,23-01-2010,Kitzbuehel,Downhill,31
 82015,16-01-2010,Wengen,Downhill,42
 82015,15-01-2010,Wengen,Super Combined,12
@@ -6753,8 +6753,8 @@ id,datum,kraj,disciplina,mesto
 17147,03-02-2006,Chamonix,Super Combined,DSQ
 17147,29-01-2006,Garmisch-Partenkirchen,Super G,21
 17147,28-01-2006,Garmisch-Partenkirchen,Downhill,DNF1
-17147,22-01-2006,Kitzbuehel,Combined,4
 17147,22-01-2006,Kitzbuehel,Slalom,DNQ1
+17147,22-01-2006,Kitzbuehel,Combined,4
 17147,21-01-2006,Kitzbuehel,Downhill,28
 17147,20-01-2006,Kitzbuehel,Super G,2
 17147,14-01-2006,Wengen,Downhill,6
@@ -7191,8 +7191,8 @@ id,datum,kraj,disciplina,mesto
 105908,26-02-2016,Hinterstoder,Giant Slalom,29
 105908,13-02-2016,Yuzawa Naeba,Giant Slalom,DNQ1
 105908,26-01-2016,Schladming,Slalom,DNS1
-105908,22-01-2016,Kitzbuehel,Super G,DNS1
 105908,22-01-2016,Kitzbuehel,Alpine combined,DNS1
+105908,22-01-2016,Kitzbuehel,Super G,DNS1
 105908,20-12-2015,Alta Badia,Giant Slalom,12
 105908,12-12-2015,Val d'IsÃ¨re,Giant Slalom,DNQ1
 105908,06-12-2015,Beaver Creek,Giant Slalom,DNQ1
@@ -7598,8 +7598,8 @@ id,datum,kraj,disciplina,mesto
 97246,02-03-2014,Kvitfjell,Super G,DNF1
 97246,01-03-2014,Kvitfjell,Downhill,4
 97246,28-02-2014,Kvitfjell,Downhill,3
-97246,26-01-2014,Kitzbuehel,Super Combined,DNF2
 97246,26-01-2014,Kitzbuehel,Super G,6
+97246,26-01-2014,Kitzbuehel,Super Combined,DNF2
 97246,25-01-2014,Kitzbuehel,Downhill,7
 97246,18-01-2014,Wengen,Downhill,28
 97246,29-12-2013,Bormio,Downhill,10
@@ -7873,8 +7873,8 @@ id,datum,kraj,disciplina,mesto
 136055,06-02-2016,Jeongseon,Downhill,18
 136055,30-01-2016,Garmisch Partenkirchen,Downhill,DNF1
 136055,23-01-2016,Kitzbuehel,Downhill,DNS1
-136055,22-01-2016,Kitzbuehel,Super G,DNF1
 136055,22-01-2016,Kitzbuehel,Alpine combined,DNF1
+136055,22-01-2016,Kitzbuehel,Super G,DNF1
 136055,16-01-2016,Wengen,Downhill,38
 136055,15-01-2016,Wengen,Alpine combined,14
 136055,29-12-2015,Santa Caterina,Downhill,23
@@ -7885,16 +7885,16 @@ id,datum,kraj,disciplina,mesto
 136055,28-02-2015,Garmisch Partenkirchen,Downhill,31
 136055,22-02-2015,Saalbach,Super G,40
 136055,24-01-2015,Kitzbuehel,Downhill,38
-136055,23-01-2015,Kitzbuehel,Alpine combined,DNF1
 136055,23-01-2015,Kitzbuehel,Super G,DNF1
+136055,23-01-2015,Kitzbuehel,Alpine combined,DNF1
 136055,18-01-2015,Wengen,Downhill,33
 136055,28-12-2014,Santa Caterina,Downhill,51
 136055,19-12-2014,Val Gardena / Groeden,Downhill,DNF1
 136055,02-03-2014,Kvitfjell,Super G,24
 136055,01-03-2014,Kvitfjell,Downhill,31
 136055,28-02-2014,Kvitfjell,Downhill,26
-136055,26-01-2014,Kitzbuehel,Super G,36
 136055,26-01-2014,Kitzbuehel,Super Combined,18
+136055,26-01-2014,Kitzbuehel,Super G,36
 136055,25-01-2014,Kitzbuehel,Downhill,38
 136055,18-01-2014,Wengen,Downhill,48
 136055,17-01-2014,Wengen,Super Combined,27
@@ -8068,8 +8068,8 @@ id,datum,kraj,disciplina,mesto
 94507,06-02-2016,Jeongseon,Downhill,14
 94507,30-01-2016,Garmisch Partenkirchen,Downhill,33
 94507,23-01-2016,Kitzbuehel,Downhill,5
-94507,22-01-2016,Kitzbuehel,Alpine combined,DNF1
 94507,22-01-2016,Kitzbuehel,Super G,DNF1
+94507,22-01-2016,Kitzbuehel,Alpine combined,DNF1
 94507,16-01-2016,Wengen,Downhill,20
 94507,15-01-2016,Wengen,Alpine combined,6
 94507,29-12-2015,Santa Caterina,Downhill,11
@@ -8112,8 +8112,8 @@ id,datum,kraj,disciplina,mesto
 94507,04-02-2012,Chamonix,Downhill,13
 94507,03-02-2012,Chamonix,Downhill,16
 94507,28-01-2012,Garmisch-Partenkirchen,Downhill,14
-94507,22-01-2012,Kitzbuehel,Slalom,DNF1
 94507,22-01-2012,Kitzbuehel,Super Combined,DNF1
+94507,22-01-2012,Kitzbuehel,Slalom,DNF1
 94507,21-01-2012,Kitzbuehel,Downhill,17
 94507,14-01-2012,Wengen,Downhill,11
 94507,13-01-2012,Wengen,Super Combined,DNF2
@@ -8674,8 +8674,8 @@ id,datum,kraj,disciplina,mesto
 130869,06-02-2016,Jeongseon,Downhill,34
 130869,30-01-2016,Garmisch Partenkirchen,Downhill,20
 130869,23-01-2016,Kitzbuehel,Downhill,DNS1
-130869,22-01-2016,Kitzbuehel,Alpine combined,DNF1
 130869,22-01-2016,Kitzbuehel,Super G,DNF1
+130869,22-01-2016,Kitzbuehel,Alpine combined,DNF1
 130869,16-01-2016,Wengen,Downhill,27
 130869,15-01-2016,Wengen,Alpine combined,12
 130869,29-12-2015,Santa Caterina,Downhill,33
@@ -8689,8 +8689,8 @@ id,datum,kraj,disciplina,mesto
 130869,22-02-2015,Saalbach,Super G,30
 130869,21-02-2015,Saalbach,Downhill,DNF1
 130869,24-01-2015,Kitzbuehel,Downhill,25
-130869,23-01-2015,Kitzbuehel,Super G,36
 130869,23-01-2015,Kitzbuehel,Alpine combined,19
+130869,23-01-2015,Kitzbuehel,Super G,36
 130869,18-01-2015,Wengen,Downhill,23
 130869,16-01-2015,Wengen,Alpine combined,14
 130869,28-12-2014,Santa Caterina,Downhill,24
@@ -10362,8 +10362,8 @@ id,datum,kraj,disciplina,mesto
 106332,07-02-2016,Jeongseon,Super G,7
 106332,26-01-2016,Schladming,Slalom,2
 106332,24-01-2016,Kitzbuehel,Slalom,2
-106332,22-01-2016,Kitzbuehel,Alpine combined,DSQ2
 106332,22-01-2016,Kitzbuehel,Super G,23
+106332,22-01-2016,Kitzbuehel,Alpine combined,DSQ2
 106332,17-01-2016,Wengen,Slalom,DNF2
 106332,10-01-2016,Adelboden,Slalom,2
 106332,06-01-2016,Santa Caterina Valfurva,Slalom,1
@@ -11370,8 +11370,8 @@ id,datum,kraj,disciplina,mesto
 26841,02-03-2014,Kvitfjell,Super G,DNF1
 26841,01-03-2014,Kvitfjell,Downhill,15
 26841,28-02-2014,Kvitfjell,Downhill,14
-26841,26-01-2014,Kitzbuehel,Super Combined,12
 26841,26-01-2014,Kitzbuehel,Super G,25
+26841,26-01-2014,Kitzbuehel,Super Combined,12
 26841,25-01-2014,Kitzbuehel,Downhill,5
 26841,18-01-2014,Wengen,Downhill,21
 26841,17-01-2014,Wengen,Super Combined,7
@@ -11460,8 +11460,8 @@ id,datum,kraj,disciplina,mesto
 26841,11-03-2010,Garmisch Partenkirchen,Super G,17
 26841,07-03-2010,Kvitfjell,Super G,9
 26841,06-03-2010,Kvitfjell,Downhill,28
-26841,24-01-2010,Kitzbuehel,Combined,DNS1
 26841,24-01-2010,Kitzbuehel,Slalom,DNS1
+26841,24-01-2010,Kitzbuehel,Combined,DNS1
 26841,23-01-2010,Kitzbuehel,Downhill,37
 26841,22-01-2010,Kitzbuehel,Super G,26
 26841,16-01-2010,Wengen,Downhill,17
@@ -11522,8 +11522,8 @@ id,datum,kraj,disciplina,mesto
 26841,03-02-2008,Val d'Isere,Super Combined,18
 26841,27-01-2008,Chamonix,Super Combined,7
 26841,26-01-2008,Chamonix,Downhill,12
-26841,20-01-2008,Kitzbuehel,Slalom,DNQ2
 26841,20-01-2008,Kitzbuehel,Combined,10
+26841,20-01-2008,Kitzbuehel,Slalom,DNQ2
 26841,19-01-2008,Kitzbuehel,Downhill,39
 26841,18-01-2008,Kitzbuehel,Super G,8
 26841,13-01-2008,Wengen,Downhill,30
@@ -11568,8 +11568,8 @@ id,datum,kraj,disciplina,mesto
 70282,06-02-2016,Jeongseon,Downhill,7
 70282,30-01-2016,Garmisch Partenkirchen,Downhill,26
 70282,23-01-2016,Kitzbuehel,Downhill,3
-70282,22-01-2016,Kitzbuehel,Alpine combined,4
 70282,22-01-2016,Kitzbuehel,Super G,9
+70282,22-01-2016,Kitzbuehel,Alpine combined,4
 70282,16-01-2016,Wengen,Downhill,8
 70282,15-01-2016,Wengen,Alpine combined,DNF2
 70282,29-12-2015,Santa Caterina,Downhill,12
@@ -11590,8 +11590,8 @@ id,datum,kraj,disciplina,mesto
 70282,22-02-2015,Saalbach,Super G,4
 70282,21-02-2015,Saalbach,Downhill,4
 70282,24-01-2015,Kitzbuehel,Downhill,22
-70282,23-01-2015,Kitzbuehel,Super G,21
 70282,23-01-2015,Kitzbuehel,Alpine combined,6
+70282,23-01-2015,Kitzbuehel,Super G,21
 70282,18-01-2015,Wengen,Downhill,3
 70282,16-01-2015,Wengen,Alpine combined,1
 70282,10-01-2015,Adelboden,Giant Slalom,21
@@ -11614,8 +11614,8 @@ id,datum,kraj,disciplina,mesto
 70282,01-03-2014,Kvitfjell,Downhill,45
 70282,28-02-2014,Kvitfjell,Downhill,33
 70282,02-02-2014,St. Moritz,Giant Slalom,24
-70282,26-01-2014,Kitzbuehel,Super G,8
 70282,26-01-2014,Kitzbuehel,Super Combined,8
+70282,26-01-2014,Kitzbuehel,Super G,8
 70282,25-01-2014,Kitzbuehel,Downhill,6
 70282,18-01-2014,Wengen,Downhill,DNF1
 70282,17-01-2014,Wengen,Super Combined,11
@@ -11685,8 +11685,8 @@ id,datum,kraj,disciplina,mesto
 70282,05-03-2011,Kranjska Gora,Giant Slalom,1
 70282,06-02-2011,Hinterstoder,Giant Slalom,3
 70282,05-02-2011,Hinterstoder,Super G,4
-70282,23-01-2011,Kitzbuehel,Combined,8
 70282,23-01-2011,Kitzbuehel,Slalom,DNQ1
+70282,23-01-2011,Kitzbuehel,Combined,8
 70282,22-01-2011,Kitzbuehel,Downhill,20
 70282,21-01-2011,Kitzbuehel,Super G,25
 70282,15-01-2011,Wengen,Downhill,3
@@ -11792,8 +11792,8 @@ id,datum,kraj,disciplina,mesto
 27657,06-02-2016,Jeongseon,Downhill,1
 27657,30-01-2016,Garmisch Partenkirchen,Downhill,17
 27657,23-01-2016,Kitzbuehel,Downhill,14
-27657,22-01-2016,Kitzbuehel,Alpine combined,13
 27657,22-01-2016,Kitzbuehel,Super G,4
+27657,22-01-2016,Kitzbuehel,Alpine combined,13
 27657,16-01-2016,Wengen,Downhill,12
 27657,15-01-2016,Wengen,Alpine combined,1
 27657,29-12-2015,Santa Caterina,Downhill,27
@@ -11842,8 +11842,8 @@ id,datum,kraj,disciplina,mesto
 27657,01-03-2014,Kvitfjell,Downhill,5
 27657,28-02-2014,Kvitfjell,Downhill,1
 27657,02-02-2014,St. Moritz,Giant Slalom,13
-27657,26-01-2014,Kitzbuehel,Super Combined,10
 27657,26-01-2014,Kitzbuehel,Super G,11
+27657,26-01-2014,Kitzbuehel,Super Combined,10
 27657,25-01-2014,Kitzbuehel,Downhill,9
 27657,18-01-2014,Wengen,Downhill,13
 27657,17-01-2014,Wengen,Super Combined,21
@@ -11892,8 +11892,8 @@ id,datum,kraj,disciplina,mesto
 27657,04-02-2012,Chamonix,Downhill,21
 27657,03-02-2012,Chamonix,Downhill,49
 27657,28-01-2012,Garmisch-Partenkirchen,Downhill,19
-27657,22-01-2012,Kitzbuehel,Super Combined,7
 27657,22-01-2012,Kitzbuehel,Slalom,DNQ1
+27657,22-01-2012,Kitzbuehel,Super Combined,7
 27657,21-01-2012,Kitzbuehel,Downhill,33
 27657,14-01-2012,Wengen,Downhill,20
 27657,13-01-2012,Wengen,Super Combined,9
@@ -11948,8 +11948,8 @@ id,datum,kraj,disciplina,mesto
 27657,06-03-2010,Kvitfjell,Downhill,22
 27657,30-01-2010,Kranjska Gora,Giant Slalom,2
 27657,29-01-2010,Kranjska Gora,Giant Slalom,3
-27657,24-01-2010,Kitzbuehel,Combined,6
 27657,24-01-2010,Kitzbuehel,Slalom,DNQ1
+27657,24-01-2010,Kitzbuehel,Combined,6
 27657,23-01-2010,Kitzbuehel,Downhill,33
 27657,22-01-2010,Kitzbuehel,Super G,23
 27657,15-01-2010,Wengen,Super Combined,11
@@ -12558,8 +12558,8 @@ id,datum,kraj,disciplina,mesto
 25794,22-02-2009,Sestriere,Super Combined,13
 25794,01-02-2009,Garmisch Partenkirchen,Slalom,DSQ1
 25794,27-01-2009,Schladming,Slalom,25
-25794,25-01-2009,Kitzbuehel,Slalom,DNQ1
 25794,25-01-2009,Kitzbuehel,Combined,9
+25794,25-01-2009,Kitzbuehel,Slalom,DNQ1
 25794,24-01-2009,Kitzbuehel,Downhill,46
 25794,23-01-2009,Kitzbuehel,Super G,44
 25794,11-01-2009,Adelboden,Slalom,DNQ1
@@ -12570,8 +12570,8 @@ id,datum,kraj,disciplina,mesto
 25794,03-02-2008,Val d'Isere,Super Combined,15
 25794,27-01-2008,Chamonix,Super Combined,33
 25794,22-01-2008,Schladming,Slalom,DNQ1
-25794,20-01-2008,Kitzbuehel,Slalom,DNQ2
 25794,20-01-2008,Kitzbuehel,Combined,15
+25794,20-01-2008,Kitzbuehel,Slalom,DNQ2
 25794,19-01-2008,Kitzbuehel,Downhill,54
 25794,18-01-2008,Kitzbuehel,Super G,51
 25794,11-01-2008,Wengen,Super Combined,DNF1
@@ -12623,8 +12623,8 @@ id,datum,kraj,disciplina,mesto
 137380,06-02-2016,Jeongseon,Downhill,DNF1
 137380,30-01-2016,Garmisch Partenkirchen,Downhill,1
 137380,23-01-2016,Kitzbuehel,Downhill,6
-137380,22-01-2016,Kitzbuehel,Alpine combined,11
 137380,22-01-2016,Kitzbuehel,Super G,18
+137380,22-01-2016,Kitzbuehel,Alpine combined,11
 137380,16-01-2016,Wengen,Downhill,15
 137380,15-01-2016,Wengen,Alpine combined,DNF2
 137380,29-12-2015,Santa Caterina,Downhill,DNF1
@@ -13364,8 +13364,8 @@ id,datum,kraj,disciplina,mesto
 32043,15-03-2015,Kranjska Gora,Slalom,DNQ1
 32043,27-01-2015,Schladming,Slalom,DNQ1
 32043,25-01-2015,Kitzbuehel,Slalom,18
-32043,23-01-2015,Kitzbuehel,Alpine combined,4
 32043,23-01-2015,Kitzbuehel,Super G,34
+32043,23-01-2015,Kitzbuehel,Alpine combined,4
 32043,17-01-2015,Wengen,Slalom,DNF1
 32043,16-01-2015,Wengen,Alpine combined,3
 32043,11-01-2015,Adelboden,Slalom,18
@@ -13447,8 +13447,8 @@ id,datum,kraj,disciplina,mesto
 32043,04-02-2012,Chamonix,Downhill,48
 32043,03-02-2012,Chamonix,Downhill,48
 32043,24-01-2012,Schladming,Slalom,4
-32043,22-01-2012,Kitzbuehel,Super Combined,1
 32043,22-01-2012,Kitzbuehel,Slalom,3
+32043,22-01-2012,Kitzbuehel,Super Combined,1
 32043,21-01-2012,Kitzbuehel,Downhill,50
 32043,15-01-2012,Wengen,Slalom,1
 32043,14-01-2012,Wengen,Downhill,38
@@ -13577,8 +13577,8 @@ id,datum,kraj,disciplina,mesto
 32043,27-01-2008,Chamonix,Super Combined,2
 32043,26-01-2008,Chamonix,Downhill,8
 32043,22-01-2008,Schladming,Slalom,9
-32043,20-01-2008,Kitzbuehel,Slalom,9
 32043,20-01-2008,Kitzbuehel,Combined,3
+32043,20-01-2008,Kitzbuehel,Slalom,9
 32043,19-01-2008,Kitzbuehel,Downhill,29
 32043,18-01-2008,Kitzbuehel,Super G,22
 32043,12-01-2008,Wengen,Slalom,10
@@ -13760,8 +13760,8 @@ id,datum,kraj,disciplina,mesto
 126472,06-02-2016,Jeongseon,Downhill,29
 126472,30-01-2016,Garmisch Partenkirchen,Downhill,41
 126472,23-01-2016,Kitzbuehel,Downhill,7
-126472,22-01-2016,Kitzbuehel,Alpine combined,8
 126472,22-01-2016,Kitzbuehel,Super G,11
+126472,22-01-2016,Kitzbuehel,Alpine combined,8
 126472,16-01-2016,Wengen,Downhill,18
 126472,15-01-2016,Wengen,Alpine combined,9
 126472,29-12-2015,Santa Caterina,Downhill,6
@@ -14204,8 +14204,8 @@ id,datum,kraj,disciplina,mesto
 70730,13-02-2016,Yuzawa Naeba,Giant Slalom,19
 70730,26-01-2016,Schladming,Slalom,DNQ1
 70730,24-01-2016,Kitzbuehel,Slalom,DNQ1
-70730,22-01-2016,Kitzbuehel,Alpine combined,26
 70730,22-01-2016,Kitzbuehel,Super G,61
+70730,22-01-2016,Kitzbuehel,Alpine combined,26
 70730,15-01-2016,Wengen,Alpine combined,25
 70730,10-01-2016,Adelboden,Slalom,DNQ1
 70730,06-01-2016,Santa Caterina Valfurva,Slalom,DNF1
@@ -14804,8 +14804,8 @@ id,datum,kraj,disciplina,mesto
 34090,15-02-2004,St. Anton,Slalom,DNQ1
 34090,08-02-2004,Adelboden,Slalom,DNF2
 34090,27-01-2004,Schladming,Slalom,22
-34090,25-01-2004,Kitzbuehel,Combined,DNF
 34090,25-01-2004,Kitzbuehel,Slalom,DNF1
+34090,25-01-2004,Kitzbuehel,Combined,DNF
 34090,22-01-2004,Kitzbuehel,Downhill,55
 34090,18-01-2004,Wengen,Slalom,DNQ1
 34090,11-01-2004,Chamonix,Combined,7
@@ -14943,8 +14943,8 @@ id,datum,kraj,disciplina,mesto
 128896,05-03-2011,Kranjska Gora,Giant Slalom,DNQ1
 128896,06-02-2011,Hinterstoder,Giant Slalom,DNQ1
 35276,24-01-2016,Kitzbuehel,Slalom,DSQ1
-35276,22-01-2016,Kitzbuehel,Alpine combined,DNF1
 35276,22-01-2016,Kitzbuehel,Super G,DNF1
+35276,22-01-2016,Kitzbuehel,Alpine combined,DNF1
 35276,17-01-2016,Wengen,Slalom,DNF1
 35276,15-01-2016,Wengen,Alpine combined,DNF2
 35276,10-01-2016,Adelboden,Slalom,DNF1
@@ -15131,8 +15131,8 @@ id,datum,kraj,disciplina,mesto
 35276,21-02-2009,Sestriere,Giant Slalom,DNF1
 35276,01-02-2009,Garmisch Partenkirchen,Slalom,16
 35276,27-01-2009,Schladming,Slalom,9
-35276,25-01-2009,Kitzbuehel,Slalom,DNF2
 35276,25-01-2009,Kitzbuehel,Combined,DNF2
+35276,25-01-2009,Kitzbuehel,Slalom,DNF2
 35276,24-01-2009,Kitzbuehel,Downhill,37
 35276,23-01-2009,Kitzbuehel,Super G,29
 35276,18-01-2009,Wengen,Slalom,12
@@ -15465,8 +15465,8 @@ id,datum,kraj,disciplina,mesto
 35380,17-01-2003,Cortina d'Ampezzo,Super G,39
 35380,15-01-2003,Cortina d'Ampezzo,Super G,31
 35380,28-12-2002,Semmering,Giant Slalom,DNQ1
-35380,22-12-2002,Lenzerheide,Slalom,DNQ1
 35380,22-12-2002,Lenzerheide,Combined,9
+35380,22-12-2002,Lenzerheide,Slalom,DNQ1
 35380,21-12-2002,Lenzerheide,Downhill,4
 35380,12-12-2002,Val d'Isere,Giant Slalom,DNF1
 35380,21-11-2002,"Park City, UT",Giant Slalom,DNQ1
@@ -16204,8 +16204,8 @@ id,datum,kraj,disciplina,mesto
 37327,27-01-2002,Cortina d'Ampezzo,Giant Slalom,DNQ1
 37327,25-01-2002,Cortina d'Ampezzo,Super G,22
 37327,20-01-2002,Berchtesgaden,Slalom,DNQ1
-37327,13-01-2002,Saalbach-Hinterglemm,Combined,11
 37327,13-01-2002,Saalbach-Hinterglemm,Slalom,DNQ1
+37327,13-01-2002,Saalbach-Hinterglemm,Combined,11
 37327,12-01-2002,Saalbach-Hinterglemm,Downhill,41
 37327,11-01-2002,Saalbach-Hinterglemm,Downhill,43
 37327,22-12-2001,St. Moritz,Super G,47
@@ -16575,8 +16575,8 @@ id,datum,kraj,disciplina,mesto
 37873,01-03-2014,Kvitfjell,Downhill,DNF1
 37873,28-02-2014,Kvitfjell,Downhill,57
 37873,02-02-2014,St. Moritz,Giant Slalom,DNQ1
-37873,26-01-2014,Kitzbuehel,Super G,84
 37873,26-01-2014,Kitzbuehel,Super Combined,DNS2
+37873,26-01-2014,Kitzbuehel,Super G,84
 37873,25-01-2014,Kitzbuehel,Downhill,29
 37873,29-12-2013,Bormio,Downhill,52
 37873,20-12-2013,Val Gardena / Groeden,Super G,DNF1
@@ -17802,8 +17802,8 @@ id,datum,kraj,disciplina,mesto
 39778,30-01-2016,Garmisch Partenkirchen,Downhill,35
 39778,24-01-2016,Kitzbuehel,Slalom,DNF1
 39778,23-01-2016,Kitzbuehel,Downhill,DNS1
-39778,22-01-2016,Kitzbuehel,Alpine combined,3
 39778,22-01-2016,Kitzbuehel,Super G,18
+39778,22-01-2016,Kitzbuehel,Alpine combined,3
 39778,17-01-2016,Wengen,Slalom,19
 39778,16-01-2016,Wengen,Downhill,25
 39778,15-01-2016,Wengen,Alpine combined,4
@@ -17815,8 +17815,8 @@ id,datum,kraj,disciplina,mesto
 39778,08-03-2015,Kvitfjell,Super G,13
 39778,01-03-2015,Garmisch Partenkirchen,Giant Slalom,DNF2
 39778,22-02-2015,Saalbach,Super G,27
-39778,23-01-2015,Kitzbuehel,Alpine combined,DNF1
 39778,23-01-2015,Kitzbuehel,Super G,DNF1
+39778,23-01-2015,Kitzbuehel,Alpine combined,DNF1
 39778,16-01-2015,Wengen,Alpine combined,9
 39778,22-12-2014,Madonna di Campiglio,Slalom,DNQ1
 39778,21-12-2014,Alta Badia,Giant Slalom,DNQ1
@@ -17835,8 +17835,8 @@ id,datum,kraj,disciplina,mesto
 39778,28-02-2014,Kvitfjell,Downhill,DNF1
 39778,02-02-2014,St. Moritz,Giant Slalom,DNF1
 39778,28-01-2014,Schladming,Slalom,DNQ1
-39778,26-01-2014,Kitzbuehel,Super Combined,4
 39778,26-01-2014,Kitzbuehel,Super G,19
+39778,26-01-2014,Kitzbuehel,Super Combined,4
 39778,24-01-2014,Kitzbuehel,Slalom,DNQ1
 39778,19-01-2014,Wengen,Slalom,DNQ1
 39778,17-01-2014,Wengen,Super Combined,6
@@ -18129,8 +18129,8 @@ id,datum,kraj,disciplina,mesto
 40317,28-02-2014,Kvitfjell,Downhill,16
 40317,02-02-2014,St. Moritz,Giant Slalom,DNF1
 40317,28-01-2014,Schladming,Slalom,DSQ1
-40317,26-01-2014,Kitzbuehel,Super G,2
 40317,26-01-2014,Kitzbuehel,Super Combined,DSQ2
+40317,26-01-2014,Kitzbuehel,Super G,2
 40317,25-01-2014,Kitzbuehel,Downhill,3
 40317,19-01-2014,Wengen,Slalom,26
 40317,18-01-2014,Wengen,Downhill,5
@@ -18180,8 +18180,8 @@ id,datum,kraj,disciplina,mesto
 40317,06-02-2011,Hinterstoder,Giant Slalom,9
 40317,05-02-2011,Hinterstoder,Super G,3
 40317,25-01-2011,Schladming,Slalom,DNS1
-40317,23-01-2011,Kitzbuehel,Combined,DNF1
 40317,23-01-2011,Kitzbuehel,Slalom,DNF1
+40317,23-01-2011,Kitzbuehel,Combined,DNF1
 40317,22-01-2011,Kitzbuehel,Downhill,2
 40317,21-01-2011,Kitzbuehel,Super G,10
 40317,16-01-2011,Wengen,Slalom,DNF1
@@ -18203,8 +18203,8 @@ id,datum,kraj,disciplina,mesto
 40317,27-11-2010,Lake Louise,Downhill,8
 40317,14-11-2010,Levi,Slalom,DNF1
 40317,26-01-2010,Schladming,Slalom,26
-40317,24-01-2010,Kitzbuehel,Slalom,DNS1
 40317,24-01-2010,Kitzbuehel,Combined,DNS1
+40317,24-01-2010,Kitzbuehel,Slalom,DNS1
 40317,23-01-2010,Kitzbuehel,Downhill,9
 40317,22-01-2010,Kitzbuehel,Super G,17
 40317,17-01-2010,Wengen,Slalom,DNF1
@@ -18225,8 +18225,8 @@ id,datum,kraj,disciplina,mesto
 40317,15-11-2009,Levi,Slalom,DNF2
 40317,01-02-2009,Garmisch Partenkirchen,Slalom,6
 40317,27-01-2009,Schladming,Slalom,8
-40317,25-01-2009,Kitzbuehel,Combined,DNF2
 40317,25-01-2009,Kitzbuehel,Slalom,DNF1
+40317,25-01-2009,Kitzbuehel,Combined,DNF2
 40317,24-01-2009,Kitzbuehel,Downhill,4
 40317,23-01-2009,Kitzbuehel,Super G,21
 40317,18-01-2009,Wengen,Slalom,DNF2
@@ -18407,8 +18407,8 @@ id,datum,kraj,disciplina,mesto
 40317,31-01-2004,Garmisch-Partenkirchen,Downhill,28
 40317,30-01-2004,Garmisch-Partenkirchen,Downhill,27
 40317,27-01-2004,Schladming,Slalom,4
-40317,25-01-2004,Kitzbuehel,Combined,1
 40317,25-01-2004,Kitzbuehel,Slalom,4
+40317,25-01-2004,Kitzbuehel,Combined,1
 40317,24-01-2004,Kitzbuehel,Downhill,16
 40317,23-01-2004,Kitzbuehel,Super G,28
 40317,22-01-2004,Kitzbuehel,Downhill,7
@@ -19240,8 +19240,8 @@ id,datum,kraj,disciplina,mesto
 40871,04-01-2003,Bormio,Giant Slalom,12
 40871,29-12-2002,Semmering,Slalom,9
 40871,28-12-2002,Semmering,Giant Slalom,DNQ1
-40871,22-12-2002,Lenzerheide,Slalom,DNQ1
 40871,22-12-2002,Lenzerheide,Combined,11
+40871,22-12-2002,Lenzerheide,Slalom,DNQ1
 40871,21-12-2002,Lenzerheide,Downhill,48
 40871,15-12-2002,Sestriere,KO Slalom,25
 40871,13-12-2002,Val d'Isere,Super G,36
@@ -19497,8 +19497,8 @@ id,datum,kraj,disciplina,mesto
 108784,13-02-2016,Yuzawa Naeba,Giant Slalom,5
 108784,26-01-2016,Schladming,Slalom,24
 108784,24-01-2016,Kitzbuehel,Slalom,DNF1
-108784,22-01-2016,Kitzbuehel,Alpine combined,2
 108784,22-01-2016,Kitzbuehel,Super G,30
+108784,22-01-2016,Kitzbuehel,Alpine combined,2
 108784,17-01-2016,Wengen,Slalom,10
 108784,15-01-2016,Wengen,Alpine combined,44
 108784,10-01-2016,Adelboden,Slalom,16
@@ -19518,8 +19518,8 @@ id,datum,kraj,disciplina,mesto
 108784,01-03-2015,Garmisch Partenkirchen,Giant Slalom,9
 108784,27-01-2015,Schladming,Slalom,12
 108784,25-01-2015,Kitzbuehel,Slalom,25
-108784,23-01-2015,Kitzbuehel,Alpine combined,5
 108784,23-01-2015,Kitzbuehel,Super G,47
+108784,23-01-2015,Kitzbuehel,Alpine combined,5
 108784,17-01-2015,Wengen,Slalom,14
 108784,16-01-2015,Wengen,Alpine combined,2
 108784,11-01-2015,Adelboden,Slalom,13
@@ -19593,8 +19593,8 @@ id,datum,kraj,disciplina,mesto
 138572,14-02-2016,Yuzawa Naeba,Slalom,DNQ1
 138572,13-02-2016,Yuzawa Naeba,Giant Slalom,11
 138572,24-01-2016,Kitzbuehel,Slalom,DNF1
-138572,22-01-2016,Kitzbuehel,Alpine combined,19
 138572,22-01-2016,Kitzbuehel,Super G,42
+138572,22-01-2016,Kitzbuehel,Alpine combined,19
 138572,15-01-2016,Wengen,Alpine combined,21
 138572,22-12-2015,Madonna di Campiglio,Slalom,DNS1
 138572,21-12-2015,Alta Badia,Parallel Giant Slalom,24
@@ -19624,8 +19624,8 @@ id,datum,kraj,disciplina,mesto
 138572,08-03-2014,Kranjska Gora,Giant Slalom,DNQ1
 138572,02-02-2014,St. Moritz,Giant Slalom,DNF1
 138572,28-01-2014,Schladming,Slalom,DNQ1
-138572,26-01-2014,Kitzbuehel,Super Combined,9
 138572,26-01-2014,Kitzbuehel,Super G,60
+138572,26-01-2014,Kitzbuehel,Super Combined,9
 138572,24-01-2014,Kitzbuehel,Slalom,DNQ1
 138572,19-01-2014,Wengen,Slalom,DNF1
 138572,12-01-2014,Adelboden,Slalom,DNQ1
@@ -20463,8 +20463,8 @@ id,datum,kraj,disciplina,mesto
 44223,02-03-2014,Kvitfjell,Super G,38
 44223,01-03-2014,Kvitfjell,Downhill,25
 44223,28-02-2014,Kvitfjell,Downhill,18
-44223,26-01-2014,Kitzbuehel,Super Combined,31
 44223,26-01-2014,Kitzbuehel,Super G,22
+44223,26-01-2014,Kitzbuehel,Super Combined,31
 44223,25-01-2014,Kitzbuehel,Downhill,27
 44223,18-01-2014,Wengen,Downhill,49
 44223,29-12-2013,Bormio,Downhill,46
@@ -20563,8 +20563,8 @@ id,datum,kraj,disciplina,mesto
 44223,03-02-2006,Chamonix,Super Combined,39
 44223,29-01-2006,Garmisch-Partenkirchen,Super G,39
 44223,28-01-2006,Garmisch-Partenkirchen,Downhill,4
-44223,22-01-2006,Kitzbuehel,Slalom,DNQ1
 44223,22-01-2006,Kitzbuehel,Combined,6
+44223,22-01-2006,Kitzbuehel,Slalom,DNQ1
 44223,21-01-2006,Kitzbuehel,Downhill,26
 44223,20-01-2006,Kitzbuehel,Super G,42
 44223,14-01-2006,Wengen,Downhill,DNF1
@@ -20650,8 +20650,8 @@ id,datum,kraj,disciplina,mesto
 45078,10-03-2010,Garmisch Partenkirchen,Downhill,DNF1
 45078,07-03-2010,Kvitfjell,Super G,33
 45078,06-03-2010,Kvitfjell,Downhill,4
-45078,24-01-2010,Kitzbuehel,Slalom,DNQ1
 45078,24-01-2010,Kitzbuehel,Combined,DNS2
+45078,24-01-2010,Kitzbuehel,Slalom,DNQ1
 45078,23-01-2010,Kitzbuehel,Downhill,39
 45078,22-01-2010,Kitzbuehel,Super G,41
 45078,16-01-2010,Wengen,Downhill,12
@@ -20993,8 +20993,8 @@ id,datum,kraj,disciplina,mesto
 96579,20-02-2016,Chamonix,Downhill,46
 96579,19-02-2016,Chamonix,Alpine combined,DNF1
 96579,30-01-2016,Garmisch Partenkirchen,Downhill,46
-96579,22-01-2016,Kitzbuehel,Super G,56
 96579,22-01-2016,Kitzbuehel,Alpine combined,28
+96579,22-01-2016,Kitzbuehel,Super G,56
 96579,16-01-2016,Wengen,Downhill,47
 96579,15-01-2016,Wengen,Alpine combined,DNF2
 96579,19-12-2014,Val Gardena / Groeden,Downhill,53
@@ -21011,8 +21011,8 @@ id,datum,kraj,disciplina,mesto
 96579,05-02-2011,Hinterstoder,Super G,38
 96579,30-01-2011,Chamonix,Super Combined,8
 96579,29-01-2011,Chamonix,Downhill,45
-96579,23-01-2011,Kitzbuehel,Combined,DNF1
 96579,23-01-2011,Kitzbuehel,Slalom,DNF1
+96579,23-01-2011,Kitzbuehel,Combined,DNF1
 96579,22-01-2011,Kitzbuehel,Downhill,45
 96579,15-01-2011,Wengen,Downhill,37
 96579,14-01-2011,Wengen,Super Combined,22
@@ -21065,8 +21065,8 @@ id,datum,kraj,disciplina,mesto
 109079,22-02-2015,Saalbach,Super G,14
 109079,21-02-2015,Saalbach,Downhill,DNF1
 109079,24-01-2015,Kitzbuehel,Downhill,2
-109079,23-01-2015,Kitzbuehel,Super G,1
 109079,23-01-2015,Kitzbuehel,Alpine combined,DNS2
+109079,23-01-2015,Kitzbuehel,Super G,1
 109079,18-01-2015,Wengen,Downhill,19
 109079,16-01-2015,Wengen,Alpine combined,25
 109079,28-12-2014,Santa Caterina,Downhill,3
@@ -21092,8 +21092,8 @@ id,datum,kraj,disciplina,mesto
 109079,03-03-2013,Kvitfjell,Super G,12
 109079,02-03-2013,Kvitfjell,Downhill,9
 109079,23-02-2013,Garmisch-Partenkirchen,Downhill,8
-109079,27-01-2013,Kitzbuehel,Super Combined,DNF1
 109079,27-01-2013,Kitzbuehel,Slalom,DNF1
+109079,27-01-2013,Kitzbuehel,Super Combined,DNF1
 109079,26-01-2013,Kitzbuehel,Downhill,1
 109079,25-01-2013,Kitzbuehel,Super G,DNF1
 109079,19-01-2013,Wengen,Downhill,11
@@ -21117,8 +21117,8 @@ id,datum,kraj,disciplina,mesto
 109079,04-02-2012,Chamonix,Downhill,15
 109079,03-02-2012,Chamonix,Downhill,14
 109079,28-01-2012,Garmisch-Partenkirchen,Downhill,6
-109079,22-01-2012,Kitzbuehel,Super Combined,11
 109079,22-01-2012,Kitzbuehel,Slalom,DNQ1
+109079,22-01-2012,Kitzbuehel,Super Combined,11
 109079,21-01-2012,Kitzbuehel,Downhill,35
 109079,14-01-2012,Wengen,Downhill,13
 109079,13-01-2012,Wengen,Super Combined,8
@@ -21606,8 +21606,8 @@ id,datum,kraj,disciplina,mesto
 127048,10-03-2013,Kranjska Gora,Slalom,DNF2
 127048,09-03-2013,Kranjska Gora,Giant Slalom,3
 127048,24-02-2013,Garmisch-Partenkirchen,Giant Slalom,1
-127048,27-01-2013,Kitzbuehel,Slalom,15
 127048,27-01-2013,Kitzbuehel,Super Combined,2
+127048,27-01-2013,Kitzbuehel,Slalom,15
 127048,26-01-2013,Kitzbuehel,Downhill,33
 127048,25-01-2013,Kitzbuehel,Super G,13
 127048,20-01-2013,Wengen,Slalom,DNQ1
@@ -22099,8 +22099,8 @@ id,datum,kraj,disciplina,mesto
 80168,04-02-2012,Chamonix,Downhill,14
 80168,03-02-2012,Chamonix,Downhill,7
 80168,28-01-2012,Garmisch-Partenkirchen,Downhill,10
-80168,22-01-2012,Kitzbuehel,Slalom,DNQ1
 80168,22-01-2012,Kitzbuehel,Super Combined,14
+80168,22-01-2012,Kitzbuehel,Slalom,DNQ1
 80168,21-01-2012,Kitzbuehel,Downhill,4
 80168,14-01-2012,Wengen,Downhill,25
 80168,13-01-2012,Wengen,Super Combined,17
@@ -22344,8 +22344,8 @@ id,datum,kraj,disciplina,mesto
 49658,21-02-2009,Sestriere,Giant Slalom,3
 49658,01-02-2009,Garmisch Partenkirchen,Slalom,13
 49658,27-01-2009,Schladming,Slalom,DNF2
-49658,25-01-2009,Kitzbuehel,Combined,DNF2
 49658,25-01-2009,Kitzbuehel,Slalom,DNF1
+49658,25-01-2009,Kitzbuehel,Combined,DNF2
 49658,24-01-2009,Kitzbuehel,Downhill,12
 49658,23-01-2009,Kitzbuehel,Super G,DNF1
 49658,18-01-2009,Wengen,Slalom,5
@@ -22518,8 +22518,8 @@ id,datum,kraj,disciplina,mesto
 49658,23-01-2004,Kitzbuehel,Super G,22
 49658,22-01-2004,Kitzbuehel,Downhill,22
 49658,18-01-2004,Wengen,Slalom,1
-49658,11-01-2004,Chamonix,Combined,2
 49658,11-01-2004,Chamonix,Slalom,18
+49658,11-01-2004,Chamonix,Combined,2
 49658,10-01-2004,Chamonix,Downhill,14
 49658,04-01-2004,Flachau,Slalom,4
 49658,03-01-2004,Flachau,Giant Slalom,1
@@ -23876,8 +23876,8 @@ id,datum,kraj,disciplina,mesto
 52499,17-01-2003,Cortina d'Ampezzo,Super G,28
 52499,15-01-2003,Cortina d'Ampezzo,Super G,28
 52499,28-12-2002,Semmering,Giant Slalom,DNQ1
-52499,22-12-2002,Lenzerheide,Combined,DNF
 52499,22-12-2002,Lenzerheide,Slalom,DNF1
+52499,22-12-2002,Lenzerheide,Combined,DNF
 52499,21-12-2002,Lenzerheide,Downhill,57
 52499,13-12-2002,Val d'Isere,Super G,DNF1
 52499,12-12-2002,Val d'Isere,Giant Slalom,DNQ1
@@ -24193,8 +24193,8 @@ id,datum,kraj,disciplina,mesto
 104588,06-02-2016,Jeongseon,Downhill,27
 104588,30-01-2016,Garmisch Partenkirchen,Downhill,8
 104588,23-01-2016,Kitzbuehel,Downhill,17
-104588,22-01-2016,Kitzbuehel,Alpine combined,15
 104588,22-01-2016,Kitzbuehel,Super G,10
+104588,22-01-2016,Kitzbuehel,Alpine combined,15
 104588,16-01-2016,Wengen,Downhill,13
 104588,15-01-2016,Wengen,Alpine combined,30
 104588,29-12-2015,Santa Caterina,Downhill,10
@@ -24283,8 +24283,8 @@ id,datum,kraj,disciplina,mesto
 80173,26-10-2014,Soelden,Giant Slalom,DNQ1
 80173,01-03-2014,Kvitfjell,Downhill,33
 80173,28-02-2014,Kvitfjell,Downhill,23
-80173,26-01-2014,Kitzbuehel,Super Combined,20
 80173,26-01-2014,Kitzbuehel,Super G,35
+80173,26-01-2014,Kitzbuehel,Super Combined,20
 80173,25-01-2014,Kitzbuehel,Downhill,22
 80173,18-01-2014,Wengen,Downhill,23
 80173,29-12-2013,Bormio,Downhill,20
@@ -24809,8 +24809,8 @@ id,datum,kraj,disciplina,mesto
 54869,15-03-2014,Lenzerheide,Giant Slalom,12
 54869,08-03-2014,Kranjska Gora,Giant Slalom,21
 54869,02-02-2014,St. Moritz,Giant Slalom,5
-54869,26-01-2014,Kitzbuehel,Super Combined,32
 54869,26-01-2014,Kitzbuehel,Super G,64
+54869,26-01-2014,Kitzbuehel,Super Combined,32
 54869,11-01-2014,Adelboden,Giant Slalom,20
 54869,22-12-2013,Alta Badia,Giant Slalom,DNF1
 54869,14-12-2013,Val d'Isere,Giant Slalom,24
@@ -24927,8 +24927,8 @@ id,datum,kraj,disciplina,mesto
 121246,06-02-2016,Jeongseon,Downhill,38
 121246,30-01-2016,Garmisch Partenkirchen,Downhill,14
 121246,23-01-2016,Kitzbuehel,Downhill,DNS1
-121246,22-01-2016,Kitzbuehel,Alpine combined,DNF1
 121246,22-01-2016,Kitzbuehel,Super G,DNF1
+121246,22-01-2016,Kitzbuehel,Alpine combined,DNF1
 121246,16-01-2016,Wengen,Downhill,48
 121246,15-01-2016,Wengen,Alpine combined,23
 121246,29-12-2015,Santa Caterina,Downhill,DNS1
@@ -25240,8 +25240,8 @@ id,datum,kraj,disciplina,mesto
 56542,26-02-2016,Hinterstoder,Giant Slalom,DNF1
 56542,26-01-2016,Schladming,Slalom,DSQ1
 56542,24-01-2016,Kitzbuehel,Slalom,DNF1
-56542,22-01-2016,Kitzbuehel,Super G,62
 56542,22-01-2016,Kitzbuehel,Alpine combined,29
+56542,22-01-2016,Kitzbuehel,Super G,62
 56542,17-01-2016,Wengen,Slalom,DNQ1
 56542,10-01-2016,Adelboden,Slalom,DNQ1
 56542,06-01-2016,Santa Caterina Valfurva,Slalom,DSQ1
@@ -25255,8 +25255,8 @@ id,datum,kraj,disciplina,mesto
 56542,08-03-2014,Kranjska Gora,Giant Slalom,DNQ1
 56542,02-02-2014,St. Moritz,Giant Slalom,DNF1
 56542,28-01-2014,Schladming,Slalom,DNF1
-56542,26-01-2014,Kitzbuehel,Super G,80
 56542,26-01-2014,Kitzbuehel,Super Combined,39
+56542,26-01-2014,Kitzbuehel,Super G,80
 56542,24-01-2014,Kitzbuehel,Slalom,DNF1
 56542,19-01-2014,Wengen,Slalom,DNQ1
 56542,17-01-2014,Wengen,Super Combined,36
@@ -25399,8 +25399,8 @@ id,datum,kraj,disciplina,mesto
 56542,07-02-2004,Adelboden,Giant Slalom,DNQ1
 56542,27-01-2004,Schladming,Slalom,DSQ1
 56542,25-01-2004,Kitzbuehel,Slalom,DNF1
-56542,11-01-2004,Chamonix,Combined,DSQ
 56542,11-01-2004,Chamonix,Slalom,DSQ1
+56542,11-01-2004,Chamonix,Combined,DSQ
 56542,10-01-2004,Chamonix,Downhill,71
 56542,04-01-2004,Flachau,Slalom,DNQ1
 56542,03-01-2004,Flachau,Giant Slalom,DNQ1
@@ -25962,8 +25962,8 @@ id,datum,kraj,disciplina,mesto
 58077,08-02-2004,Adelboden,Slalom,22
 58077,25-01-2004,Kitzbuehel,Slalom,DNS1
 58077,18-01-2004,Wengen,Slalom,DNF1
-58077,11-01-2004,Chamonix,Combined,6
 58077,11-01-2004,Chamonix,Slalom,21
+58077,11-01-2004,Chamonix,Combined,6
 58077,10-01-2004,Chamonix,Downhill,62
 58077,04-01-2004,Flachau,Slalom,20
 58077,15-12-2003,Madonna di Campiglio,Slalom,DNQ1
@@ -26682,8 +26682,8 @@ id,datum,kraj,disciplina,mesto
 59171,11-03-2010,Garmisch Partenkirchen,Super G,5
 59171,07-03-2010,Kvitfjell,Super G,21
 59171,06-03-2010,Kvitfjell,Downhill,DNF1
-59171,24-01-2010,Kitzbuehel,Combined,DNF1
 59171,24-01-2010,Kitzbuehel,Slalom,DNF1
+59171,24-01-2010,Kitzbuehel,Combined,DNF1
 59171,23-01-2010,Kitzbuehel,Downhill,22
 59171,22-01-2010,Kitzbuehel,Super G,3
 59171,16-01-2010,Wengen,Downhill,10
@@ -26798,8 +26798,8 @@ id,datum,kraj,disciplina,mesto
 126498,02-03-2014,Kvitfjell,Super G,54
 126498,01-03-2014,Kvitfjell,Downhill,17
 126498,28-02-2014,Kvitfjell,Downhill,7
-126498,26-01-2014,Kitzbuehel,Super Combined,DNF2
 126498,26-01-2014,Kitzbuehel,Super G,6
+126498,26-01-2014,Kitzbuehel,Super Combined,DNF2
 126498,25-01-2014,Kitzbuehel,Downhill,26
 126498,18-01-2014,Wengen,Downhill,19
 126498,29-12-2013,Bormio,Downhill,16
@@ -27480,8 +27480,8 @@ id,datum,kraj,disciplina,mesto
 168039,26-10-2013,Soelden,Giant Slalom,DNF2
 168039,09-03-2013,Ofterschwang,Giant Slalom,DNQ1
 59877,23-01-2016,Kitzbuehel,Downhill,DNF1
-59877,22-01-2016,Kitzbuehel,Super G,1
 59877,22-01-2016,Kitzbuehel,Alpine combined,DNF2
+59877,22-01-2016,Kitzbuehel,Super G,1
 59877,16-01-2016,Wengen,Downhill,1
 59877,15-01-2016,Wengen,Alpine combined,2
 59877,29-12-2015,Santa Caterina,Downhill,7
@@ -27590,8 +27590,8 @@ id,datum,kraj,disciplina,mesto
 59877,05-02-2011,Hinterstoder,Super G,14
 59877,30-01-2011,Chamonix,Super Combined,3
 59877,29-01-2011,Chamonix,Downhill,14
-59877,23-01-2011,Kitzbuehel,Slalom,DNF1
 59877,23-01-2011,Kitzbuehel,Combined,DNF1
+59877,23-01-2011,Kitzbuehel,Slalom,DNF1
 59877,22-01-2011,Kitzbuehel,Downhill,17
 59877,21-01-2011,Kitzbuehel,Super G,3
 59877,16-01-2011,Wengen,Slalom,DNQ1
@@ -27649,8 +27649,8 @@ id,datum,kraj,disciplina,mesto
 59877,22-02-2009,Sestriere,Super Combined,11
 59877,21-02-2009,Sestriere,Giant Slalom,8
 59877,01-02-2009,Garmisch Partenkirchen,Slalom,DNF1
-59877,25-01-2009,Kitzbuehel,Slalom,DNQ1
 59877,25-01-2009,Kitzbuehel,Combined,5
+59877,25-01-2009,Kitzbuehel,Slalom,DNQ1
 59877,24-01-2009,Kitzbuehel,Downhill,19
 59877,23-01-2009,Kitzbuehel,Super G,2
 59877,18-01-2009,Wengen,Slalom,DNF2
@@ -27797,8 +27797,8 @@ id,datum,kraj,disciplina,mesto
 59877,23-01-2004,Kitzbuehel,Super G,19
 59877,22-01-2004,Kitzbuehel,Downhill,36
 59877,18-01-2004,Wengen,Slalom,DNF2
-59877,11-01-2004,Chamonix,Combined,5
 59877,11-01-2004,Chamonix,Slalom,25
+59877,11-01-2004,Chamonix,Combined,5
 59877,10-01-2004,Chamonix,Downhill,31
 59877,04-01-2004,Flachau,Slalom,11
 59877,03-01-2004,Flachau,Giant Slalom,6
@@ -28235,8 +28235,8 @@ id,datum,kraj,disciplina,mesto
 61175,04-02-2012,Chamonix,Downhill,11
 61175,03-02-2012,Chamonix,Downhill,28
 61175,28-01-2012,Garmisch-Partenkirchen,Downhill,9
-61175,22-01-2012,Kitzbuehel,Super Combined,4
 61175,22-01-2012,Kitzbuehel,Slalom,DNQ1
+61175,22-01-2012,Kitzbuehel,Super Combined,4
 61175,21-01-2012,Kitzbuehel,Downhill,9
 61175,14-01-2012,Wengen,Downhill,16
 61175,13-01-2012,Wengen,Super Combined,16
@@ -28622,8 +28622,8 @@ id,datum,kraj,disciplina,mesto
 139687,14-02-2016,Yuzawa Naeba,Slalom,DNQ1
 139687,26-01-2016,Schladming,Slalom,DSQ1
 139687,24-01-2016,Kitzbuehel,Slalom,DNF1
-139687,22-01-2016,Kitzbuehel,Super G,DNF1
 139687,22-01-2016,Kitzbuehel,Alpine combined,DNF1
+139687,22-01-2016,Kitzbuehel,Super G,DNF1
 139687,17-01-2016,Wengen,Slalom,DNQ1
 139687,15-01-2016,Wengen,Alpine combined,DNF2
 139687,10-01-2016,Adelboden,Slalom,DNQ1
@@ -29024,8 +29024,8 @@ id,datum,kraj,disciplina,mesto
 70321,02-03-2014,Kvitfjell,Super G,29
 70321,01-03-2014,Kvitfjell,Downhill,53
 70321,28-02-2014,Kvitfjell,Downhill,58
-70321,26-01-2014,Kitzbuehel,Super Combined,7
 70321,26-01-2014,Kitzbuehel,Super G,44
+70321,26-01-2014,Kitzbuehel,Super Combined,7
 70321,25-01-2014,Kitzbuehel,Downhill,21
 70321,18-01-2014,Wengen,Downhill,27
 70321,17-01-2014,Wengen,Super Combined,4
@@ -29610,8 +29610,8 @@ id,datum,kraj,disciplina,mesto
 126502,20-02-2016,Chamonix,Downhill,43
 126502,19-02-2016,Chamonix,Alpine combined,35
 126502,30-01-2016,Garmisch Partenkirchen,Downhill,DNF1
-126502,22-01-2016,Kitzbuehel,Super G,DNF1
 126502,22-01-2016,Kitzbuehel,Alpine combined,DNF1
+126502,22-01-2016,Kitzbuehel,Super G,DNF1
 126502,29-12-2015,Santa Caterina,Downhill,43
 126502,18-12-2015,Val Gardena / Groeden,Super G,DNF1
 148261,17-03-2016,St. Moritz,Super G,12
@@ -30677,8 +30677,8 @@ id,datum,kraj,disciplina,mesto
 119474,08-03-2014,Kranjska Gora,Giant Slalom,DNF1
 119474,02-02-2014,St. Moritz,Giant Slalom,DNQ1
 119474,28-01-2014,Schladming,Slalom,DNQ1
-119474,26-01-2014,Kitzbuehel,Super Combined,17
 119474,26-01-2014,Kitzbuehel,Super G,71
+119474,26-01-2014,Kitzbuehel,Super Combined,17
 119474,24-01-2014,Kitzbuehel,Slalom,DNQ1
 119474,19-01-2014,Wengen,Slalom,DNQ1
 119474,17-01-2014,Wengen,Super Combined,29
@@ -31034,8 +31034,8 @@ id,datum,kraj,disciplina,mesto
 68886,06-02-2016,Jeongseon,Downhill,33
 68886,30-01-2016,Garmisch Partenkirchen,Downhill,38
 68886,23-01-2016,Kitzbuehel,Downhill,DNS1
-68886,22-01-2016,Kitzbuehel,Super G,46
 68886,22-01-2016,Kitzbuehel,Alpine combined,18
+68886,22-01-2016,Kitzbuehel,Super G,46
 68886,17-01-2016,Wengen,Slalom,DNQ1
 68886,16-01-2016,Wengen,Downhill,36
 68886,15-01-2016,Wengen,Alpine combined,11
@@ -31056,8 +31056,8 @@ id,datum,kraj,disciplina,mesto
 68886,27-01-2015,Schladming,Slalom,DNQ1
 68886,25-01-2015,Kitzbuehel,Slalom,DNQ1
 68886,24-01-2015,Kitzbuehel,Downhill,43
-68886,23-01-2015,Kitzbuehel,Super G,26
 68886,23-01-2015,Kitzbuehel,Alpine combined,8
+68886,23-01-2015,Kitzbuehel,Super G,26
 68886,18-01-2015,Wengen,Downhill,45
 68886,17-01-2015,Wengen,Slalom,DNQ1
 68886,16-01-2015,Wengen,Alpine combined,6
@@ -31129,8 +31129,8 @@ id,datum,kraj,disciplina,mesto
 68886,30-01-2011,Chamonix,Super Combined,2
 68886,29-01-2011,Chamonix,Downhill,46
 68886,25-01-2011,Schladming,Slalom,DNQ1
-68886,23-01-2011,Kitzbuehel,Combined,DNF1
 68886,23-01-2011,Kitzbuehel,Slalom,DNQ1
+68886,23-01-2011,Kitzbuehel,Combined,DNF1
 68886,22-01-2011,Kitzbuehel,Downhill,DNF1
 68886,21-01-2011,Kitzbuehel,Super G,33
 68886,16-01-2011,Wengen,Slalom,DNQ1
@@ -31179,8 +31179,8 @@ id,datum,kraj,disciplina,mesto
 68886,22-02-2009,Sestriere,Super Combined,36
 68886,01-02-2009,Garmisch Partenkirchen,Slalom,DNQ1
 68886,27-01-2009,Schladming,Slalom,DNF1
-68886,25-01-2009,Kitzbuehel,Combined,3
 68886,25-01-2009,Kitzbuehel,Slalom,DNQ1
+68886,25-01-2009,Kitzbuehel,Combined,3
 68886,24-01-2009,Kitzbuehel,Downhill,23
 68886,23-01-2009,Kitzbuehel,Super G,38
 68886,18-01-2009,Wengen,Slalom,20
@@ -31300,8 +31300,8 @@ id,datum,kraj,disciplina,mesto
 68533,07-03-2015,Kvitfjell,Downhill,36
 68533,28-02-2015,Garmisch Partenkirchen,Downhill,41
 68533,24-01-2015,Kitzbuehel,Downhill,33
-68533,23-01-2015,Kitzbuehel,Alpine combined,21
 68533,23-01-2015,Kitzbuehel,Super G,49
+68533,23-01-2015,Kitzbuehel,Alpine combined,21
 68533,18-01-2015,Wengen,Downhill,27
 68533,16-01-2015,Wengen,Alpine combined,13
 68533,28-12-2014,Santa Caterina,Downhill,34
@@ -31528,12 +31528,12 @@ id,datum,kraj,disciplina,mesto
 68533,15-02-2004,St. Anton,Slalom,14
 68533,08-02-2004,Adelboden,Slalom,DNF2
 68533,27-01-2004,Schladming,Slalom,DNF2
-68533,25-01-2004,Kitzbuehel,Combined,5
 68533,25-01-2004,Kitzbuehel,Slalom,5
+68533,25-01-2004,Kitzbuehel,Combined,5
 68533,22-01-2004,Kitzbuehel,Downhill,54
 68533,18-01-2004,Wengen,Slalom,9
-68533,11-01-2004,Chamonix,Combined,9
 68533,11-01-2004,Chamonix,Slalom,29
+68533,11-01-2004,Chamonix,Combined,9
 68533,10-01-2004,Chamonix,Downhill,56
 68533,04-01-2004,Flachau,Slalom,10
 68533,15-12-2003,Madonna di Campiglio,Slalom,11

@@ -1,3 +1,4 @@
 *.pyc
 .ipynb_checkpoints/obdelava_podatkov-checkpoint.ipynb
 poskusna1.py
+*.html

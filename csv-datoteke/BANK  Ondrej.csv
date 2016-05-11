@@ -69,8 +69,8 @@ datum,kraj,disciplina,mesto
 30-01-2011,Chamonix,Super Combined,6
 29-01-2011,Chamonix,Downhill,32
 25-01-2011,Schladming,Slalom,DNF2
-23-01-2011,Kitzbuehel,Slalom,DSQ2
 23-01-2011,Kitzbuehel,Combined,DSQ2
+23-01-2011,Kitzbuehel,Slalom,DSQ2
 22-01-2011,Kitzbuehel,Downhill,32
 21-01-2011,Kitzbuehel,Super G,DNS1
 16-01-2011,Wengen,Slalom,24
@@ -91,8 +91,8 @@ datum,kraj,disciplina,mesto
 30-01-2010,Kranjska Gora,Giant Slalom,15
 29-01-2010,Kranjska Gora,Giant Slalom,24
 26-01-2010,Schladming,Slalom,DNQ1
-24-01-2010,Kitzbuehel,Combined,8
 24-01-2010,Kitzbuehel,Slalom,DNQ1
+24-01-2010,Kitzbuehel,Combined,8
 23-01-2010,Kitzbuehel,Downhill,52
 17-01-2010,Wengen,Slalom,DNQ1
 15-01-2010,Wengen,Super Combined,7
