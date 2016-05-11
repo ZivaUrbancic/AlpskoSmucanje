@@ -1,23 +1,23 @@
-datum,kraj,disciplina,mesto,zaostanek
-19-12-2015,Val d'IsÃ¨re,Downhill,DNF1,
-08-03-2015,Garmisch Partenkirchen,Super G,DNF1,
-07-03-2015,Garmisch Partenkirchen,Downhill,34,45.20
-02-03-2015,Bansko,Super G,26,46.91
-01-03-2015,Bansko,Alpine combined,DNF1,
-25-01-2015,St.Moritz,Super G,DSQ1,
-24-01-2015,St.Moritz,Downhill,27,27.69
-20-12-2014,Val d Isere,Downhill,DNF1,
-07-12-2014,Lake Louise,Super G,39,42.53
-06-12-2014,Lake Louise,Downhill,42,44.80
-05-12-2014,Lake Louise,Downhill,47,38.18
-02-03-2014,Crans Montana,Downhill,33,60.05
-11-01-2014,Altenmarkt / Zauchensee,Downhill,32,36.59
-21-12-2013,Val d'Isere,Downhill,32,29.63
-08-12-2013,Lake Louise,Super G,37,34.21
-07-12-2013,Lake Louise,Downhill,42,36.54
-06-12-2013,Lake Louise,Downhill,44,40.62
-30-11-2013,Beaver Creek,Super G,49,96.67
-29-11-2013,Beaver Creek,Downhill,29,40.72
-12-01-2013,St. Anton,Downhill,52,57.10
-01-12-2012,Lake Louise,Downhill,DNF1,
-30-11-2012,Lake Louise,Downhill,47,68.74
+datum,kraj,disciplina,mesto
+19-12-2015,Val d'IsÃ¨re,Downhill,DNF1
+08-03-2015,Garmisch Partenkirchen,Super G,DNF1
+07-03-2015,Garmisch Partenkirchen,Downhill,34
+02-03-2015,Bansko,Super G,26
+01-03-2015,Bansko,Alpine combined,DNF1
+25-01-2015,St.Moritz,Super G,DSQ1
+24-01-2015,St.Moritz,Downhill,27
+20-12-2014,Val d Isere,Downhill,DNF1
+07-12-2014,Lake Louise,Super G,39
+06-12-2014,Lake Louise,Downhill,42
+05-12-2014,Lake Louise,Downhill,47
+02-03-2014,Crans Montana,Downhill,33
+11-01-2014,Altenmarkt / Zauchensee,Downhill,32
+21-12-2013,Val d'Isere,Downhill,32
+08-12-2013,Lake Louise,Super G,37
+07-12-2013,Lake Louise,Downhill,42
+06-12-2013,Lake Louise,Downhill,44
+30-11-2013,Beaver Creek,Super G,49
+29-11-2013,Beaver Creek,Downhill,29
+12-01-2013,St. Anton,Downhill,52
+01-12-2012,Lake Louise,Downhill,DNF1
+30-11-2012,Lake Louise,Downhill,47

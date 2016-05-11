@@ -1,32 +1,32 @@
-datum,kraj,disciplina,mesto,zaostanek
-22-03-2015,Meribel,Slalom,13,18.40
-15-03-2015,Kranjska Gora,Slalom,19,19.41
-14-03-2015,Kranjska Gora,Giant Slalom,DNQ1,
-01-03-2015,Garmisch Partenkirchen,Giant Slalom,DNF1,
-27-01-2015,Schladming,Slalom,11,17.39
-25-01-2015,Kitzbuehel,Slalom,DNQ1,
-17-01-2015,Wengen,Slalom,DNQ1,
-11-01-2015,Adelboden,Slalom,DNQ1,
-10-01-2015,Adelboden,Giant Slalom,DNQ1,
-06-01-2015,Zagreb,Slalom,DNF2,
-22-12-2014,Madonna di Campiglio,Slalom,21,19.19
-21-12-2014,Alta Badia,Giant Slalom,DNF2,
-14-12-2014,Are,Slalom,6,8.11
-12-12-2014,Are,Giant Slalom,DNF2,
-07-12-2014,Beaver Creek,Giant Slalom,DNQ1,
-16-11-2014,Levi,Slalom,DNQ1,
-26-10-2014,Soelden,Giant Slalom,14,23.03
-13-01-2013,Adelboden,Slalom,DNF1,
-12-01-2013,Adelboden,Giant Slalom,DNQ1,
-06-01-2013,Zagreb,Slalom,DNF1,
-16-12-2012,Alta Badia,Giant Slalom,DNQ1,
-09-12-2012,Val d'Isere,Giant Slalom,DNQ1,
-08-12-2012,Val d'Isere,Slalom,DNQ1,
-11-11-2012,Levi,Slalom,DNQ1,
-11-03-2012,Kranjska Gora,Slalom,DNF1,
-08-01-2012,Adelboden,Slalom,DNF1,
-05-01-2012,Zagreb,Slalom,DNQ1,
-21-12-2011,Flachau,Slalom,DNQ1,
-06-03-2011,Kranjska Gora,Slalom,DNF1,
-27-02-2011,Bansko,Slalom,DNQ1,
-01-02-2009,Garmisch Partenkirchen,Slalom,DNF1,
+datum,kraj,disciplina,mesto
+22-03-2015,Meribel,Slalom,13
+15-03-2015,Kranjska Gora,Slalom,19
+14-03-2015,Kranjska Gora,Giant Slalom,DNQ1
+01-03-2015,Garmisch Partenkirchen,Giant Slalom,DNF1
+27-01-2015,Schladming,Slalom,11
+25-01-2015,Kitzbuehel,Slalom,DNQ1
+17-01-2015,Wengen,Slalom,DNQ1
+11-01-2015,Adelboden,Slalom,DNQ1
+10-01-2015,Adelboden,Giant Slalom,DNQ1
+06-01-2015,Zagreb,Slalom,DNF2
+22-12-2014,Madonna di Campiglio,Slalom,21
+21-12-2014,Alta Badia,Giant Slalom,DNF2
+14-12-2014,Are,Slalom,6
+12-12-2014,Are,Giant Slalom,DNF2
+07-12-2014,Beaver Creek,Giant Slalom,DNQ1
+16-11-2014,Levi,Slalom,DNQ1
+26-10-2014,Soelden,Giant Slalom,14
+13-01-2013,Adelboden,Slalom,DNF1
+12-01-2013,Adelboden,Giant Slalom,DNQ1
+06-01-2013,Zagreb,Slalom,DNF1
+16-12-2012,Alta Badia,Giant Slalom,DNQ1
+09-12-2012,Val d'Isere,Giant Slalom,DNQ1
+08-12-2012,Val d'Isere,Slalom,DNQ1
+11-11-2012,Levi,Slalom,DNQ1
+11-03-2012,Kranjska Gora,Slalom,DNF1
+08-01-2012,Adelboden,Slalom,DNF1
+05-01-2012,Zagreb,Slalom,DNQ1
+21-12-2011,Flachau,Slalom,DNQ1
+06-03-2011,Kranjska Gora,Slalom,DNF1
+27-02-2011,Bansko,Slalom,DNQ1
+01-02-2009,Garmisch Partenkirchen,Slalom,DNF1

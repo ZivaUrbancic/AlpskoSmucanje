@@ -1,51 +1,51 @@
-datum,kraj,disciplina,mesto,zaostanek
-13-03-2016,Kvitfjell,Super G,DNF1,
-12-03-2016,Kvitfjell,Downhill,36,33.97
-27-02-2016,Hinterstoder,Super G,28,29.68
-07-02-2016,Jeongseon,Super G,21,29.21
-06-02-2016,Jeongseon,Downhill,52,177.80
-30-01-2016,Garmisch Partenkirchen,Downhill,DNF1,
-22-01-2016,Kitzbuehel,Alpine combined,DNS2,
-22-01-2016,Kitzbuehel,Super G,31,32.19
-18-12-2015,Val Gardena / Groeden,Super G,50,38.85
-05-12-2015,Beaver Creek,Super G,11,12.75
-23-01-2015,Kitzbuehel,Alpine combined,DNF1,
-23-01-2015,Kitzbuehel,Super G,DNF1,
-28-12-2014,Santa Caterina,Downhill,DNS1,
-20-12-2014,Val Gardena / Groeden,Super G,42,27.38
-19-12-2014,Val Gardena / Groeden,Downhill,55,73.56
-06-12-2014,Beaver Creek,Super G,25,25.52
-05-12-2014,Beaver Creek,Downhill,53,48.67
-30-11-2014,Lake Louise,Super G,DNF1,
-27-10-2013,Soelden,Giant Slalom,DNQ1,
-03-03-2013,Kvitfjell,Super G,42,37.77
-02-03-2013,Kvitfjell,Downhill,44,41.82
-25-01-2013,Kitzbuehel,Super G,DNF1,
-29-12-2012,Bormio,Downhill,DNF1,
-16-12-2012,Alta Badia,Giant Slalom,DNF1,
-14-12-2012,Val Gardena-Groeden,Super G,27,29.13
-02-12-2012,Beaver Creek,Giant Slalom,DNF1,
-01-12-2012,Beaver Creek,Super G,18,22.07
-30-11-2012,Beaver Creek,Downhill,57,55.51
-25-11-2012,Lake Louise,Super G,29,25.43
-10-03-2012,Kranjska Gora,Giant Slalom,DNQ1,
-04-03-2012,Kvitfjell,Super G,43,34.50
-03-03-2012,Kvitfjell,Downhill,DNS1,
-02-03-2012,Kvitfjell,Super G,48,32.94
-26-02-2012,Crans Montana,Giant Slalom,DNQ1,
-25-02-2012,Crans Montana,Super G,DNF1,
-24-02-2012,Crans Montana,Super G,30,26.18
-28-01-2012,Garmisch-Partenkirchen,Downhill,53,185.35
-07-01-2012,Adelboden,Giant Slalom,DNF1,
-18-12-2011,Alta Badia,Giant Slalom,DNQ1,
-16-12-2011,Val Gardena-Groeden,Super G,DNF1,
-06-12-2011,Beaver Creek,Giant Slalom,DNQ1,
-04-12-2011,Beaver Creek,Giant Slalom,DNF1,
-03-12-2011,Beaver Creek,Super G,DNF1,
-02-12-2011,Beaver Creek,Downhill,39,38.30
-27-11-2011,Lake Louise,Super G,DNF1,
-23-10-2011,Soelden,Giant Slalom,DNQ1,
-06-02-2011,Hinterstoder,Giant Slalom,DNF1,
-05-02-2011,Hinterstoder,Super G,DNF1,
-28-11-2010,Lake Louise,Super G,47,31.00
-27-11-2010,Lake Louise,Downhill,43,41.34
+datum,kraj,disciplina,mesto
+13-03-2016,Kvitfjell,Super G,DNF1
+12-03-2016,Kvitfjell,Downhill,36
+27-02-2016,Hinterstoder,Super G,28
+07-02-2016,Jeongseon,Super G,21
+06-02-2016,Jeongseon,Downhill,52
+30-01-2016,Garmisch Partenkirchen,Downhill,DNF1
+22-01-2016,Kitzbuehel,Alpine combined,DNS2
+22-01-2016,Kitzbuehel,Super G,31
+18-12-2015,Val Gardena / Groeden,Super G,50
+05-12-2015,Beaver Creek,Super G,11
+23-01-2015,Kitzbuehel,Alpine combined,DNF1
+23-01-2015,Kitzbuehel,Super G,DNF1
+28-12-2014,Santa Caterina,Downhill,DNS1
+20-12-2014,Val Gardena / Groeden,Super G,42
+19-12-2014,Val Gardena / Groeden,Downhill,55
+06-12-2014,Beaver Creek,Super G,25
+05-12-2014,Beaver Creek,Downhill,53
+30-11-2014,Lake Louise,Super G,DNF1
+27-10-2013,Soelden,Giant Slalom,DNQ1
+03-03-2013,Kvitfjell,Super G,42
+02-03-2013,Kvitfjell,Downhill,44
+25-01-2013,Kitzbuehel,Super G,DNF1
+29-12-2012,Bormio,Downhill,DNF1
+16-12-2012,Alta Badia,Giant Slalom,DNF1
+14-12-2012,Val Gardena-Groeden,Super G,27
+02-12-2012,Beaver Creek,Giant Slalom,DNF1
+01-12-2012,Beaver Creek,Super G,18
+30-11-2012,Beaver Creek,Downhill,57
+25-11-2012,Lake Louise,Super G,29
+10-03-2012,Kranjska Gora,Giant Slalom,DNQ1
+04-03-2012,Kvitfjell,Super G,43
+03-03-2012,Kvitfjell,Downhill,DNS1
+02-03-2012,Kvitfjell,Super G,48
+26-02-2012,Crans Montana,Giant Slalom,DNQ1
+25-02-2012,Crans Montana,Super G,DNF1
+24-02-2012,Crans Montana,Super G,30
+28-01-2012,Garmisch-Partenkirchen,Downhill,53
+07-01-2012,Adelboden,Giant Slalom,DNF1
+18-12-2011,Alta Badia,Giant Slalom,DNQ1
+16-12-2011,Val Gardena-Groeden,Super G,DNF1
+06-12-2011,Beaver Creek,Giant Slalom,DNQ1
+04-12-2011,Beaver Creek,Giant Slalom,DNF1
+03-12-2011,Beaver Creek,Super G,DNF1
+02-12-2011,Beaver Creek,Downhill,39
+27-11-2011,Lake Louise,Super G,DNF1
+23-10-2011,Soelden,Giant Slalom,DNQ1
+06-02-2011,Hinterstoder,Giant Slalom,DNF1
+05-02-2011,Hinterstoder,Super G,DNF1
+28-11-2010,Lake Louise,Super G,47
+27-11-2010,Lake Louise,Downhill,43

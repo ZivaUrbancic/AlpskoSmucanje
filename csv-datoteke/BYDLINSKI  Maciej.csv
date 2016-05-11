@@ -1,57 +1,57 @@
-datum,kraj,disciplina,mesto,zaostanek
-19-02-2016,Chamonix,Alpine combined,34,44.09
-24-01-2016,Kitzbuehel,Slalom,DNF1,
-22-01-2016,Kitzbuehel,Alpine combined,25,56.71
-22-01-2016,Kitzbuehel,Super G,59,68.15
-17-01-2016,Wengen,Slalom,DNQ1,
-15-01-2016,Wengen,Alpine combined,29,29.04
-29-11-2015,Lake Louise,Super G,57,49.22
-28-11-2015,Lake Louise,Downhill,57,49.40
-23-01-2015,Kitzbuehel,Alpine combined,12,20.28
-23-01-2015,Kitzbuehel,Super G,43,41.35
-16-01-2015,Wengen,Alpine combined,27,46.67
-22-12-2014,Madonna di Campiglio,Slalom,DNQ1,
-07-12-2014,Beaver Creek,Giant Slalom,DNQ1,
-06-12-2014,Beaver Creek,Super G,44,58.76
-05-12-2014,Beaver Creek,Downhill,55,55.41
-30-11-2014,Lake Louise,Super G,57,47.30
-29-11-2014,Lake Louise,Downhill,61,45.37
-26-01-2014,Kitzbuehel,Super G,75,41.18
-26-01-2014,Kitzbuehel,Super Combined,34,54.29
-19-01-2014,Wengen,Slalom,DNF1,
-17-01-2014,Wengen,Super Combined,30,36.63
-07-12-2013,Beaver Creek,Super G,52,53.70
-06-12-2013,Beaver Creek,Downhill,63,64.63
-01-12-2013,Lake Louise,Super G,61,49.22
-30-11-2013,Lake Louise,Downhill,58,57.47
-27-01-2013,Kitzbuehel,Super Combined,9,48.29
-26-01-2013,Kitzbuehel,Downhill,43,64.56
-20-01-2013,Wengen,Slalom,DNF1,
-18-01-2013,Wengen,Super Combined,33,80.31
-25-11-2012,Lake Louise,Super G,DNF1,
-24-11-2012,Lake Louise,Downhill,60,63.24
-12-02-2012,Sochi,Super Combined,27,68.84
-05-02-2012,Chamonix,Super Combined,32,47.04
-03-02-2012,Chamonix,Downhill,60,57.28
-15-01-2012,Wengen,Slalom,DNF1,
-13-01-2012,Wengen,Super Combined,30,50.17
-30-01-2011,Chamonix,Super Combined,33,54.36
-14-01-2011,Wengen,Super Combined,27,74.59
-24-01-2010,Kitzbuehel,Combined,DNF1,
-24-01-2010,Kitzbuehel,Slalom,DNF1,
-24-01-2010,Kitzbuehel,Combined,DNF1,
-23-01-2010,Kitzbuehel,Downhill,DNF1,
-15-01-2010,Wengen,Super Combined,DSQ2,
-12-12-2009,Val d'Isere,Super G,DNF1,
-11-12-2009,Val d'Isere,Super Combined,DNF1,
-06-12-2009,Beaver Creek,Giant Slalom,DNQ1,
-04-12-2009,Beaver Creek,Super Combined,33,79.00
-29-11-2009,Lake Louise,Super G,DNF1,
-28-11-2009,Lake Louise,Downhill,DNF1,
-13-12-2008,Val d'Isere,Giant Slalom,DNF1,
-12-12-2008,Val d'Isere,Super Combined,DNF1,
-06-12-2008,Beaver Creek,Super G,45,62.98
-05-12-2008,Beaver Creek,Downhill,58,123.04
-30-11-2008,Lake Louise,Super G,DNF1,
-29-11-2008,Lake Louise,Downhill,69,71.53
-26-10-2008,Soelden,Giant Slalom,DNF1,
+datum,kraj,disciplina,mesto
+19-02-2016,Chamonix,Alpine combined,34
+24-01-2016,Kitzbuehel,Slalom,DNF1
+22-01-2016,Kitzbuehel,Alpine combined,25
+22-01-2016,Kitzbuehel,Super G,59
+17-01-2016,Wengen,Slalom,DNQ1
+15-01-2016,Wengen,Alpine combined,29
+29-11-2015,Lake Louise,Super G,57
+28-11-2015,Lake Louise,Downhill,57
+23-01-2015,Kitzbuehel,Alpine combined,12
+23-01-2015,Kitzbuehel,Super G,43
+16-01-2015,Wengen,Alpine combined,27
+22-12-2014,Madonna di Campiglio,Slalom,DNQ1
+07-12-2014,Beaver Creek,Giant Slalom,DNQ1
+06-12-2014,Beaver Creek,Super G,44
+05-12-2014,Beaver Creek,Downhill,55
+30-11-2014,Lake Louise,Super G,57
+29-11-2014,Lake Louise,Downhill,61
+26-01-2014,Kitzbuehel,Super G,75
+26-01-2014,Kitzbuehel,Super Combined,34
+19-01-2014,Wengen,Slalom,DNF1
+17-01-2014,Wengen,Super Combined,30
+07-12-2013,Beaver Creek,Super G,52
+06-12-2013,Beaver Creek,Downhill,63
+01-12-2013,Lake Louise,Super G,61
+30-11-2013,Lake Louise,Downhill,58
+27-01-2013,Kitzbuehel,Super Combined,9
+26-01-2013,Kitzbuehel,Downhill,43
+20-01-2013,Wengen,Slalom,DNF1
+18-01-2013,Wengen,Super Combined,33
+25-11-2012,Lake Louise,Super G,DNF1
+24-11-2012,Lake Louise,Downhill,60
+12-02-2012,Sochi,Super Combined,27
+05-02-2012,Chamonix,Super Combined,32
+03-02-2012,Chamonix,Downhill,60
+15-01-2012,Wengen,Slalom,DNF1
+13-01-2012,Wengen,Super Combined,30
+30-01-2011,Chamonix,Super Combined,33
+14-01-2011,Wengen,Super Combined,27
+24-01-2010,Kitzbuehel,Combined,DNF1
+24-01-2010,Kitzbuehel,Slalom,DNF1
+24-01-2010,Kitzbuehel,Combined,DNF1
+23-01-2010,Kitzbuehel,Downhill,DNF1
+15-01-2010,Wengen,Super Combined,DSQ2
+12-12-2009,Val d'Isere,Super G,DNF1
+11-12-2009,Val d'Isere,Super Combined,DNF1
+06-12-2009,Beaver Creek,Giant Slalom,DNQ1
+04-12-2009,Beaver Creek,Super Combined,33
+29-11-2009,Lake Louise,Super G,DNF1
+28-11-2009,Lake Louise,Downhill,DNF1
+13-12-2008,Val d'Isere,Giant Slalom,DNF1
+12-12-2008,Val d'Isere,Super Combined,DNF1
+06-12-2008,Beaver Creek,Super G,45
+05-12-2008,Beaver Creek,Downhill,58
+30-11-2008,Lake Louise,Super G,DNF1
+29-11-2008,Lake Louise,Downhill,69
+26-10-2008,Soelden,Giant Slalom,DNF1

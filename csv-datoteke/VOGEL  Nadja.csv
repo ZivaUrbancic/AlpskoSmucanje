@@ -1,17 +1,17 @@
-datum,kraj,disciplina,mesto,zaostanek
-22-02-2015,Maribor,Slalom,DNF1,
-13-01-2015,Flachau,Slalom,DNQ1,
-13-12-2014,Are,Slalom,DNQ1,
-30-11-2014,Aspen,Slalom,DNQ1,
-15-11-2014,Levi,Slalom,23,18.63
-08-03-2014,Are,Slalom,DNF1,
-25-11-2012,"Aspen, CO",Slalom,DNF1,
-10-11-2012,Levi,Slalom,DNQ1,
-02-03-2012,Ofterschwang,Giant Slalom,DNQ1,
-22-01-2012,Kranjska Gora,Slalom,DNF1,
-03-01-2012,Zagreb,Slalom,DNF1,
-29-12-2011,Lienz,Slalom,DNQ1,
-27-11-2011,Aspen,Slalom,DNF1,
-04-02-2011,Arber-Zwiesel,Slalom,DNS1,
-27-11-2010,Aspen,Giant Slalom,DNF1,
-14-11-2009,Levi,Slalom,DNQ1,
+datum,kraj,disciplina,mesto
+22-02-2015,Maribor,Slalom,DNF1
+13-01-2015,Flachau,Slalom,DNQ1
+13-12-2014,Are,Slalom,DNQ1
+30-11-2014,Aspen,Slalom,DNQ1
+15-11-2014,Levi,Slalom,23
+08-03-2014,Are,Slalom,DNF1
+25-11-2012,"Aspen, CO",Slalom,DNF1
+10-11-2012,Levi,Slalom,DNQ1
+02-03-2012,Ofterschwang,Giant Slalom,DNQ1
+22-01-2012,Kranjska Gora,Slalom,DNF1
+03-01-2012,Zagreb,Slalom,DNF1
+29-12-2011,Lienz,Slalom,DNQ1
+27-11-2011,Aspen,Slalom,DNF1
+04-02-2011,Arber-Zwiesel,Slalom,DNS1
+27-11-2010,Aspen,Giant Slalom,DNF1
+14-11-2009,Levi,Slalom,DNQ1

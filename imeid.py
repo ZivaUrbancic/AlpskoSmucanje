@@ -11,18 +11,17 @@ def grange(st, ime):
     while ImamZadetke:
         orodja.shrani('http://data.fis-ski.com/dynamic/athlete-biography.html?sector=AL&listid=&competitorid={}&type=result&category=WC&rec_start={}&limit=100'.format(st,rec), 'zajete-strani/{}{}.html'.format(ime,rec))
         if rec == 0:
-            result = re.search(r'Birthdate:[^>]*?>[^>]*?>(?P<rd>[0-9,-]*)<', orodja.vsebina_datoteke('zajete-strani/{}{}.html'.format(ime,rec)))
             rezultat = re.search(r'Skis:.*?>[^>]*>(?P<smuci>[^<]*)', orodja.vsebina_datoteke('zajete-strani/{}{}.html'.format(ime,rec)))
             rez=re.search(r'Nation:.*\n\W*.*?>.*?>.*?>.*?>(?P<drzava>.+?)<.span>', orodja.vsebina_datoteke('zajete-strani/{}{}.html'.format(ime,rec)))
             if rezultat is None:
                 ski='Ni_podatka'
             else:
                 ski = rezultat.group('smuci')
-            tekmovalci.append({'id':st, 'ime':ime, 'drzava': rez.group('drzava'), 'rojstvo': result.group('rd'), 'smuci': ski})
+            tekmovalci.append({'id':st, 'ime':ime, 'drzava': rez.group('drzava'), 'smuci': ski})
 
         tekma = re.compile(
             #r'<tr><td class=.i[01].>(?P<datum>.*?)&nbsp;<.td>'
-            r'<tr><td class=.i[01].>(?P<datum>.*?)&nbsp;<.td>\n<td class=.i[01].><a href=.+?>(?P<kraj>.+?)<.a><.td>\n.*\n.*\n.*?>(?P<disciplina>.+?)&.*\n<td class.*?>(?P<uvrstitev>.+?)&nbsp;<.td>\n<td .+?>(?P<zaostanek>[\w|\.]*?)&nbsp;<.td>'
+            r'<tr><td class=.i[01].>(?P<datum>.*?)&nbsp;<.td>\n<td class=.i[01].><a href=.+?>(?P<kraj>.+?)<.a><.td>\n.*\n.*\n.*?>(?P<disciplina>.+?)&.*\n<td class.*?>(?P<uvrstitev>.+?)&nbsp;<.td>\n<td .+?>'
         )
     
         for vnos in re.finditer(tekma, orodja.vsebina_datoteke('zajete-strani/{}{}.html'.format(ime,rec))):
@@ -30,15 +29,14 @@ def grange(st, ime):
             kraj='{}'.format(vnos.group('kraj'))
             disciplina='{}'.format(vnos.group('disciplina'))
             mesto='{}'.format(vnos.group('uvrstitev'))
-            zaostanek='{}'.format(vnos.group('zaostanek'))
-            tekme.append({'datum': datum, 'kraj': kraj, 'mesto': mesto, 'zaostanek': zaostanek, 'disciplina': disciplina})
-            vse.append({'datum': datum, 'kraj': kraj, 'mesto': mesto, 'zaostanek': zaostanek, 'disciplina': disciplina, 'id': st})
+            tekme.append({'datum': datum, 'kraj': kraj, 'mesto': mesto, 'disciplina': disciplina})
+            vse.append({'datum': datum, 'kraj': kraj, 'mesto': mesto, 'disciplina': disciplina, 'id': st})
 
         #print (rec)
         rec+=100
         ImamZadetke=(len (tekme) == rec)
         #print (ImamZadetke, len (tekme))
-    orodja.zapisi_tabelo(tekme,['datum', 'kraj', 'disciplina', 'mesto', 'zaostanek'], 'csv-datoteke/{}.csv'.format(ime))
+    orodja.zapisi_tabelo(tekme,['datum', 'kraj', 'disciplina', 'mesto'], 'csv-datoteke/{}.csv'.format(ime))
     #print ("Zajel sem stran in naredil csv za {}".format(ime))
 
 
@@ -65,10 +63,10 @@ def zajemi_url():
         grange(st, ime) #zajame podatke za posameznega smučarja
     #orodja.zapisi_tabelo(smucarji,['id', 'ime'], 'csv-datoteke/smucarji.csv')
 
-    orodja.zapisi_tabelo(tekmovalci, ['id', 'ime', 'drzava', 'rojstvo', 'smuci'], 'csv-datoteke/smucarji.csv')
+    orodja.zapisi_tabelo(tekmovalci, ['id', 'ime', 'drzava', 'smuci'], 'csv-datoteke/smucarji.csv')
 
 zajemi_url()
-orodja.zapisi_tabelo(vse, ['id','datum', 'kraj', 'disciplina', 'mesto', 'zaostanek'], 'csv-datoteke/vse.csv')
+orodja.zapisi_tabelo(vse, ['id','datum', 'kraj', 'disciplina', 'mesto'], 'csv-datoteke/vse.csv')
 
 
 

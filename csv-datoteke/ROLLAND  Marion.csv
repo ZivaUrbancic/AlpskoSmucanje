@@ -1,111 +1,111 @@
-datum,kraj,disciplina,mesto,zaostanek
-19-01-2015,Cortina d'Ampezzo,Super G,DNF1,
-18-01-2015,Cortina d'Ampezzo,Downhill,27,27.61
-16-01-2015,Cortina d'Ampezzo,Downhill,28,31.10
-21-12-2014,Val d Isere,Super G,25,35.40
-20-12-2014,Val d Isere,Downhill,25,21.66
-07-12-2014,Lake Louise,Super G,35,38.27
-06-12-2014,Lake Louise,Downhill,28,23.76
-05-12-2014,Lake Louise,Downhill,29,22.19
-03-03-2013,Garmisch-Partenkirchen,Super G,28,26.76
-02-03-2013,Garmisch-Partenkirchen,Downhill,11,18.27
-01-03-2013,Garmisch-Partenkirchen,Super G,7,8.68
-23-02-2013,Meribel,Downhill,10,10.69
-20-01-2013,Cortina d'Ampezzo,Super G,DNF1,
-19-01-2013,Cortina d'Ampezzo,Downhill,4,15.06
-13-01-2013,St. Anton,Super G,13,25.38
-12-01-2013,St. Anton,Downhill,8,9.00
-14-12-2012,Val d'Isere,Downhill,9,15.29
-08-12-2012,St. Moritz,Super G,28,43.53
-02-12-2012,Lake Louise,Super G,16,24.98
-01-12-2012,Lake Louise,Downhill,22,28.27
-30-11-2012,Lake Louise,Downhill,10,25.06
-15-03-2012,Schladming,Super G,3,2.63
-14-03-2012,Schladming,Downhill,2,11.48
-26-02-2012,Bansko,Super G,20,29.00
-18-02-2012,Sochi,Downhill,5,13.52
-05-02-2012,Garmisch-Partenkirchen,Super G,17,20.67
-04-02-2012,Garmisch-Partenkirchen,Downhill,11,20.93
-28-01-2012,St. Moritz,Downhill,9,25.02
-15-01-2012,Cortina d'Ampezzo,Super G,15,27.19
-14-01-2012,Cortina d'Ampezzo,Downhill,11,12.42
-08-01-2012,Bad Kleinkirchheim,Super G,33,35.36
-07-01-2012,Bad Kleinkirchheim,Downhill,15,20.37
-07-12-2011,Beaver Creek,Super G,27,41.69
-04-12-2011,Lake Louise,Super G,15,23.66
-03-12-2011,Lake Louise,Downhill,16,30.58
-02-12-2011,Lake Louise,Downhill,20,33.49
-16-03-2011,Lenzerheide,Downhill,DNS1,
-06-03-2011,Tarvisio,Super G,21,21.78
-05-03-2011,Tarvisio,Downhill,15,31.68
-04-03-2011,Tarvisio,Super Combined,DNS2,
-27-02-2011,Are,Super G,32,36.33
-26-02-2011,Are,Downhill,7,15.68
-25-02-2011,Are,Super Combined,DNS2,
-23-01-2011,Cortina d Ampezzo,Super G,14,27.83
-22-01-2011,Cortina d Ampezzo,Downhill,15,26.79
-21-01-2011,Cortina d Ampezzo,Super G,20,22.19
-09-01-2011,Zauchensee,Super G,13,25.33
-08-01-2011,Zauchensee,Downhill,13,24.00
-18-12-2010,Val d'Isere,Downhill,33,32.47
-05-12-2010,Lake Louise,Super G,24,41.23
-04-12-2010,Lake Louise,Downhill,20,26.87
-03-12-2010,Lake Louise,Downhill,7,23.32
-31-01-2010,St. Moritz,Super G,34,27.97
-30-01-2010,St. Moritz,Downhill,7,18.24
-29-01-2010,St. Moritz,Super Combined,DNS1,
-22-01-2010,Cortina d'Ampezzo,Super G,DNS1,
-10-01-2010,Haus im Ennstal,Super G,12,22.38
-09-01-2010,Haus im Ennstal,Downhill,4,6.68
-08-01-2010,Haus im Ennstal,Downhill,5,12.55
-20-12-2009,Val d'Isere,Super G,18,20.85
-18-12-2009,Val d'Isere,Super Combined,DNF1,
-06-12-2009,Lake Louise,Super G,33,32.22
-05-12-2009,Lake Louise,Downhill,9,18.59
-04-12-2009,Lake Louise,Downhill,15,28.05
-11-03-2009,Are,Downhill,22,42.50
-01-03-2009,Bansko,Super G,20,34.44
-28-02-2009,Bansko,Downhill,6,15.72
-27-02-2009,Bansko,Downhill,7,28.60
-22-02-2009,Tarvisio,Super G,DNF1,
-21-02-2009,Tarvisio,Downhill,22,22.78
-20-02-2009,Tarvisio,Super Combined,41,63.53
-01-02-2009,Garmisch Partenkirchen,Super G,28,25.29
-26-01-2009,Cortina d'Ampezzo,Super G,31,30.38
-24-01-2009,Cortina d'Ampezzo,Downhill,25,22.29
-18-01-2009,Altenmarkt-Zauchensee,Downhill,23,20.99
-17-01-2009,Altenmarkt-Zauchensee,Super Combined,DSQ2,
-20-12-2008,St. Moritz,Super G,14,26.05
-19-12-2008,St. Moritz,Super Combined,28,61.11
-07-12-2008,Lake Louise,Super G,35,25.40
-05-12-2008,Lake Louise,Downhill,36,39.40
-08-03-2008,Crans-Montana,Downhill,25,29.89
-24-02-2008,"Whistler, BC",Super Combined,26,49.51
-22-02-2008,"Whistler, BC",Downhill,27,30.51
-10-02-2008,Sestriere,Super G,41,46.38
-09-02-2008,Sestriere,Downhill,11,17.89
-20-12-2006,Val d'Isere,Downhill,27,44.61
-19-12-2006,Val d'Isere,Downhill,40,44.49
-02-12-2006,"Lake Louise, AB",Downhill,55,81.99
-01-12-2006,"Lake Louise, AB",Downhill,45,46.69
-03-03-2006,Hafjell/Kvitfjell,Super G,39,22.29
-21-01-2006,St. Moritz,Downhill,61,53.30
-20-01-2006,St. Moritz,Super G,39,46.52
-15-01-2006,Bad Kleinkirchheim,Super G,40,39.79
-14-01-2006,Bad Kleinkirchheim,Downhill,44,49.32
-13-01-2006,Bad Kleinkirchheim,Downhill,44,44.32
-18-12-2005,Val d'Isere,Super G,48,38.03
-17-12-2005,Val d'Isere,Downhill,36,52.86
-09-12-2005,"Aspen, CO",Super G,49,49.53
-04-12-2005,"Lake Louise, AB",Super G,50,46.12
-03-12-2005,"Lake Louise, AB",Downhill,40,34.35
-02-12-2005,"Lake Louise, AB",Downhill,51,47.21
-26-02-2005,San Sicario,Downhill,12,24.21
-25-02-2005,San Sicario,Super G,38,24.58
-11-12-2004,Altenmarkt-Zauchensee,Super G,44,51.32
-05-12-2004,"Lake Louise, AB",Super G,43,37.05
-04-12-2004,"Lake Louise, AB",Downhill,44,42.48
-03-12-2004,"Lake Louise, AB",Downhill,56,66.44
-01-02-2004,Haus im Ennstal,Super G,45,34.23
-31-01-2004,Haus im Ennstal,Downhill,42,39.97
-30-01-2004,Haus im Ennstal,Downhill,37,51.12
+datum,kraj,disciplina,mesto
+19-01-2015,Cortina d'Ampezzo,Super G,DNF1
+18-01-2015,Cortina d'Ampezzo,Downhill,27
+16-01-2015,Cortina d'Ampezzo,Downhill,28
+21-12-2014,Val d Isere,Super G,25
+20-12-2014,Val d Isere,Downhill,25
+07-12-2014,Lake Louise,Super G,35
+06-12-2014,Lake Louise,Downhill,28
+05-12-2014,Lake Louise,Downhill,29
+03-03-2013,Garmisch-Partenkirchen,Super G,28
+02-03-2013,Garmisch-Partenkirchen,Downhill,11
+01-03-2013,Garmisch-Partenkirchen,Super G,7
+23-02-2013,Meribel,Downhill,10
+20-01-2013,Cortina d'Ampezzo,Super G,DNF1
+19-01-2013,Cortina d'Ampezzo,Downhill,4
+13-01-2013,St. Anton,Super G,13
+12-01-2013,St. Anton,Downhill,8
+14-12-2012,Val d'Isere,Downhill,9
+08-12-2012,St. Moritz,Super G,28
+02-12-2012,Lake Louise,Super G,16
+01-12-2012,Lake Louise,Downhill,22
+30-11-2012,Lake Louise,Downhill,10
+15-03-2012,Schladming,Super G,3
+14-03-2012,Schladming,Downhill,2
+26-02-2012,Bansko,Super G,20
+18-02-2012,Sochi,Downhill,5
+05-02-2012,Garmisch-Partenkirchen,Super G,17
+04-02-2012,Garmisch-Partenkirchen,Downhill,11
+28-01-2012,St. Moritz,Downhill,9
+15-01-2012,Cortina d'Ampezzo,Super G,15
+14-01-2012,Cortina d'Ampezzo,Downhill,11
+08-01-2012,Bad Kleinkirchheim,Super G,33
+07-01-2012,Bad Kleinkirchheim,Downhill,15
+07-12-2011,Beaver Creek,Super G,27
+04-12-2011,Lake Louise,Super G,15
+03-12-2011,Lake Louise,Downhill,16
+02-12-2011,Lake Louise,Downhill,20
+16-03-2011,Lenzerheide,Downhill,DNS1
+06-03-2011,Tarvisio,Super G,21
+05-03-2011,Tarvisio,Downhill,15
+04-03-2011,Tarvisio,Super Combined,DNS2
+27-02-2011,Are,Super G,32
+26-02-2011,Are,Downhill,7
+25-02-2011,Are,Super Combined,DNS2
+23-01-2011,Cortina d Ampezzo,Super G,14
+22-01-2011,Cortina d Ampezzo,Downhill,15
+21-01-2011,Cortina d Ampezzo,Super G,20
+09-01-2011,Zauchensee,Super G,13
+08-01-2011,Zauchensee,Downhill,13
+18-12-2010,Val d'Isere,Downhill,33
+05-12-2010,Lake Louise,Super G,24
+04-12-2010,Lake Louise,Downhill,20
+03-12-2010,Lake Louise,Downhill,7
+31-01-2010,St. Moritz,Super G,34
+30-01-2010,St. Moritz,Downhill,7
+29-01-2010,St. Moritz,Super Combined,DNS1
+22-01-2010,Cortina d'Ampezzo,Super G,DNS1
+10-01-2010,Haus im Ennstal,Super G,12
+09-01-2010,Haus im Ennstal,Downhill,4
+08-01-2010,Haus im Ennstal,Downhill,5
+20-12-2009,Val d'Isere,Super G,18
+18-12-2009,Val d'Isere,Super Combined,DNF1
+06-12-2009,Lake Louise,Super G,33
+05-12-2009,Lake Louise,Downhill,9
+04-12-2009,Lake Louise,Downhill,15
+11-03-2009,Are,Downhill,22
+01-03-2009,Bansko,Super G,20
+28-02-2009,Bansko,Downhill,6
+27-02-2009,Bansko,Downhill,7
+22-02-2009,Tarvisio,Super G,DNF1
+21-02-2009,Tarvisio,Downhill,22
+20-02-2009,Tarvisio,Super Combined,41
+01-02-2009,Garmisch Partenkirchen,Super G,28
+26-01-2009,Cortina d'Ampezzo,Super G,31
+24-01-2009,Cortina d'Ampezzo,Downhill,25
+18-01-2009,Altenmarkt-Zauchensee,Downhill,23
+17-01-2009,Altenmarkt-Zauchensee,Super Combined,DSQ2
+20-12-2008,St. Moritz,Super G,14
+19-12-2008,St. Moritz,Super Combined,28
+07-12-2008,Lake Louise,Super G,35
+05-12-2008,Lake Louise,Downhill,36
+08-03-2008,Crans-Montana,Downhill,25
+24-02-2008,"Whistler, BC",Super Combined,26
+22-02-2008,"Whistler, BC",Downhill,27
+10-02-2008,Sestriere,Super G,41
+09-02-2008,Sestriere,Downhill,11
+20-12-2006,Val d'Isere,Downhill,27
+19-12-2006,Val d'Isere,Downhill,40
+02-12-2006,"Lake Louise, AB",Downhill,55
+01-12-2006,"Lake Louise, AB",Downhill,45
+03-03-2006,Hafjell/Kvitfjell,Super G,39
+21-01-2006,St. Moritz,Downhill,61
+20-01-2006,St. Moritz,Super G,39
+15-01-2006,Bad Kleinkirchheim,Super G,40
+14-01-2006,Bad Kleinkirchheim,Downhill,44
+13-01-2006,Bad Kleinkirchheim,Downhill,44
+18-12-2005,Val d'Isere,Super G,48
+17-12-2005,Val d'Isere,Downhill,36
+09-12-2005,"Aspen, CO",Super G,49
+04-12-2005,"Lake Louise, AB",Super G,50
+03-12-2005,"Lake Louise, AB",Downhill,40
+02-12-2005,"Lake Louise, AB",Downhill,51
+26-02-2005,San Sicario,Downhill,12
+25-02-2005,San Sicario,Super G,38
+11-12-2004,Altenmarkt-Zauchensee,Super G,44
+05-12-2004,"Lake Louise, AB",Super G,43
+04-12-2004,"Lake Louise, AB",Downhill,44
+03-12-2004,"Lake Louise, AB",Downhill,56
+01-02-2004,Haus im Ennstal,Super G,45
+31-01-2004,Haus im Ennstal,Downhill,42
+30-01-2004,Haus im Ennstal,Downhill,37

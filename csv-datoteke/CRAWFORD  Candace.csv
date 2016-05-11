@@ -1,19 +1,19 @@
-datum,kraj,disciplina,mesto,zaostanek
-07-03-2016,Jasna,Giant Slalom,23,16.72
-06-03-2016,Jasna,Slalom,DNF1,
-28-02-2016,Soldeu- El Tarter,Alpine combined,9,19.64
-27-02-2016,Soldeu- El Tarter,Super G,22,34.29
-30-01-2016,Maribor,Giant Slalom,DNQ1,
-17-01-2016,Flachau,Giant Slalom,DNQ1,
-12-01-2016,Flachau,Slalom,DNQ1,
-28-11-2015,"Aspen, CO",Slalom,DNQ1,
-27-11-2015,"Aspen, CO",Giant Slalom,DNQ1,
-24-10-2015,Soelden,Giant Slalom,DNQ1,
-14-03-2015,Are,Slalom,DNQ1,
-13-03-2015,Are,Giant Slalom,DNQ1,
-13-01-2015,Flachau,Slalom,DNF1,
-04-01-2015,Zagreb,Slalom,DNQ1,
-29-12-2014,Kuehtai in Tirol,Slalom,25,34.54
-28-12-2014,Kuehtai in Tirol,Giant Slalom,DNQ1,
-29-11-2014,Aspen,Giant Slalom,DNQ1,
-25-10-2014,Soelden,Giant Slalom,DNF2,
+datum,kraj,disciplina,mesto
+07-03-2016,Jasna,Giant Slalom,23
+06-03-2016,Jasna,Slalom,DNF1
+28-02-2016,Soldeu- El Tarter,Alpine combined,9
+27-02-2016,Soldeu- El Tarter,Super G,22
+30-01-2016,Maribor,Giant Slalom,DNQ1
+17-01-2016,Flachau,Giant Slalom,DNQ1
+12-01-2016,Flachau,Slalom,DNQ1
+28-11-2015,"Aspen, CO",Slalom,DNQ1
+27-11-2015,"Aspen, CO",Giant Slalom,DNQ1
+24-10-2015,Soelden,Giant Slalom,DNQ1
+14-03-2015,Are,Slalom,DNQ1
+13-03-2015,Are,Giant Slalom,DNQ1
+13-01-2015,Flachau,Slalom,DNF1
+04-01-2015,Zagreb,Slalom,DNQ1
+29-12-2014,Kuehtai in Tirol,Slalom,25
+28-12-2014,Kuehtai in Tirol,Giant Slalom,DNQ1
+29-11-2014,Aspen,Giant Slalom,DNQ1
+25-10-2014,Soelden,Giant Slalom,DNF2

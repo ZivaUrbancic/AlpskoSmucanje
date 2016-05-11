@@ -1,79 +1,79 @@
-datum,kraj,disciplina,mesto,zaostanek
-20-03-2016,St. Moritz,Giant Slalom,17,16.03
-17-03-2016,St. Moritz,Super G,13,27.09
-13-03-2016,Lenzerheide,Alpine combined,12,26.80
-12-03-2016,Lenzerheide,Super G,20,23.48
-07-03-2016,Jasna,Giant Slalom,7,9.18
-28-02-2016,Soldeu- El Tarter,Alpine combined,24,36.28
-27-02-2016,Soldeu- El Tarter,Super G,17,29.39
-21-02-2016,La Thuile,Super G,14,30.71
-20-02-2016,La Thuile,Downhill,39,78.86
-19-02-2016,La Thuile,Downhill,26,56.11
-07-02-2016,Garmisch Partenkirchen,Super G,28,34.74
-06-02-2016,Garmisch Partenkirchen,Downhill,DNF1,
-30-01-2016,Maribor,Giant Slalom,13,11.77
-24-01-2016,Cortina d'Ampezzo,Super G,18,30.20
-23-01-2016,Cortina d'Ampezzo,Downhill,22,34.27
-17-01-2016,Flachau,Giant Slalom,DNQ1,
-10-01-2016,Altenmarkt-Zauchensee,Super G,DNF1,
-09-01-2016,Altenmarkt-Zauchensee,Downhill,21,35.35
-28-12-2015,Lienz,Giant Slalom,12,15.56
-20-12-2015,Courchevel,Giant Slalom,25,29.07
-19-12-2015,Val d'IsÃ¨re,Downhill,21,21.53
-18-12-2015,Val d'IsÃ¨re,Alpine combined,6,15.18
-12-12-2015,Are,Giant Slalom,DNF1,
-06-12-2015,Lake Louise,Super G,28,42.10
-27-11-2015,"Aspen, CO",Giant Slalom,DNQ1,
-24-10-2015,Soelden,Giant Slalom,DNF2,
-02-03-2015,Bansko,Super G,DNS1,
-01-03-2015,Bansko,Alpine combined,DNF2,
-21-02-2015,Maribor,Giant Slalom,7,5.43
-25-01-2015,St.Moritz,Super G,7,23.91
-24-01-2015,St.Moritz,Downhill,14,19.38
-19-01-2015,Cortina d'Ampezzo,Super G,15,27.80
-18-01-2015,Cortina d'Ampezzo,Downhill,DNF1,
-16-01-2015,Cortina d'Ampezzo,Downhill,24,26.25
-28-12-2014,Kuehtai in Tirol,Giant Slalom,5,3.85
-21-12-2014,Val d Isere,Super G,DNF1,
-20-12-2014,Val d Isere,Downhill,24,21.54
-12-12-2014,Are,Giant Slalom,13,11.79
-07-12-2014,Lake Louise,Super G,21,25.33
-06-12-2014,Lake Louise,Downhill,32,31.68
-05-12-2014,Lake Louise,Downhill,48,41.56
-29-11-2014,Aspen,Giant Slalom,28,31.59
-25-10-2014,Soelden,Giant Slalom,15,23.42
-13-03-2014,Lenzerheide,Super G,DNS1,
-07-03-2014,Are,Giant Slalom,DNF1,
-06-03-2014,Are,Giant Slalom,DNF1,
-02-03-2014,Crans Montana,Downhill,DNF1,
-26-01-2014,Cortina d Ampezzo,Super G,20,30.37
-25-01-2014,Cortina d Ampezzo,Downhill,DNS1,
-24-01-2014,Cortina d Ampezzo,Downhill,28,34.67
-23-01-2014,Cortina d Ampezzo,Super G,13,16.83
-12-01-2014,Altenmarkt / Zauchensee,Super Combined,13,12.87
-11-01-2014,Altenmarkt / Zauchensee,Downhill,45,47.94
-28-12-2013,Lienz,Giant Slalom,18,23.19
-22-12-2013,Val d'Isere,Giant Slalom,DNQ1,
-15-12-2013,St. Moritz,Giant Slalom,DNF1,
-14-12-2013,St. Moritz,Super G,10,18.18
-08-12-2013,Lake Louise,Super G,DNF1,
-07-12-2013,Lake Louise,Downhill,44,37.14
-06-12-2013,Lake Louise,Downhill,30,34.24
-01-12-2013,Beaver Creek,Giant Slalom,8,8.78
-30-11-2013,Beaver Creek,Super G,26,38.43
-29-11-2013,Beaver Creek,Downhill,28,40.32
-26-10-2013,Soelden,Giant Slalom,DNQ1,
-20-01-2013,Cortina d'Ampezzo,Super G,26,34.47
-19-01-2013,Cortina d'Ampezzo,Downhill,33,49.50
-13-01-2013,St. Anton,Super G,33,46.77
-12-01-2013,St. Anton,Downhill,51,52.69
-09-12-2012,St. Moritz,Giant Slalom,DNQ1,
-08-12-2012,St. Moritz,Super G,19,36.17
-07-12-2012,St. Moritz,Super Combined,16,30.05
-18-03-2012,Schladming,Giant Slalom,25,43.37
-18-02-2012,Sochi,Downhill,DNS1,
-15-01-2012,Cortina d'Ampezzo,Super G,37,64.84
-14-01-2012,Cortina d'Ampezzo,Downhill,DNF1,
-08-01-2012,Bad Kleinkirchheim,Super G,45,57.46
-07-01-2012,Bad Kleinkirchheim,Downhill,41,75.09
-03-01-2012,Zagreb,Slalom,DNF1,
+datum,kraj,disciplina,mesto
+20-03-2016,St. Moritz,Giant Slalom,17
+17-03-2016,St. Moritz,Super G,13
+13-03-2016,Lenzerheide,Alpine combined,12
+12-03-2016,Lenzerheide,Super G,20
+07-03-2016,Jasna,Giant Slalom,7
+28-02-2016,Soldeu- El Tarter,Alpine combined,24
+27-02-2016,Soldeu- El Tarter,Super G,17
+21-02-2016,La Thuile,Super G,14
+20-02-2016,La Thuile,Downhill,39
+19-02-2016,La Thuile,Downhill,26
+07-02-2016,Garmisch Partenkirchen,Super G,28
+06-02-2016,Garmisch Partenkirchen,Downhill,DNF1
+30-01-2016,Maribor,Giant Slalom,13
+24-01-2016,Cortina d'Ampezzo,Super G,18
+23-01-2016,Cortina d'Ampezzo,Downhill,22
+17-01-2016,Flachau,Giant Slalom,DNQ1
+10-01-2016,Altenmarkt-Zauchensee,Super G,DNF1
+09-01-2016,Altenmarkt-Zauchensee,Downhill,21
+28-12-2015,Lienz,Giant Slalom,12
+20-12-2015,Courchevel,Giant Slalom,25
+19-12-2015,Val d'IsÃ¨re,Downhill,21
+18-12-2015,Val d'IsÃ¨re,Alpine combined,6
+12-12-2015,Are,Giant Slalom,DNF1
+06-12-2015,Lake Louise,Super G,28
+27-11-2015,"Aspen, CO",Giant Slalom,DNQ1
+24-10-2015,Soelden,Giant Slalom,DNF2
+02-03-2015,Bansko,Super G,DNS1
+01-03-2015,Bansko,Alpine combined,DNF2
+21-02-2015,Maribor,Giant Slalom,7
+25-01-2015,St.Moritz,Super G,7
+24-01-2015,St.Moritz,Downhill,14
+19-01-2015,Cortina d'Ampezzo,Super G,15
+18-01-2015,Cortina d'Ampezzo,Downhill,DNF1
+16-01-2015,Cortina d'Ampezzo,Downhill,24
+28-12-2014,Kuehtai in Tirol,Giant Slalom,5
+21-12-2014,Val d Isere,Super G,DNF1
+20-12-2014,Val d Isere,Downhill,24
+12-12-2014,Are,Giant Slalom,13
+07-12-2014,Lake Louise,Super G,21
+06-12-2014,Lake Louise,Downhill,32
+05-12-2014,Lake Louise,Downhill,48
+29-11-2014,Aspen,Giant Slalom,28
+25-10-2014,Soelden,Giant Slalom,15
+13-03-2014,Lenzerheide,Super G,DNS1
+07-03-2014,Are,Giant Slalom,DNF1
+06-03-2014,Are,Giant Slalom,DNF1
+02-03-2014,Crans Montana,Downhill,DNF1
+26-01-2014,Cortina d Ampezzo,Super G,20
+25-01-2014,Cortina d Ampezzo,Downhill,DNS1
+24-01-2014,Cortina d Ampezzo,Downhill,28
+23-01-2014,Cortina d Ampezzo,Super G,13
+12-01-2014,Altenmarkt / Zauchensee,Super Combined,13
+11-01-2014,Altenmarkt / Zauchensee,Downhill,45
+28-12-2013,Lienz,Giant Slalom,18
+22-12-2013,Val d'Isere,Giant Slalom,DNQ1
+15-12-2013,St. Moritz,Giant Slalom,DNF1
+14-12-2013,St. Moritz,Super G,10
+08-12-2013,Lake Louise,Super G,DNF1
+07-12-2013,Lake Louise,Downhill,44
+06-12-2013,Lake Louise,Downhill,30
+01-12-2013,Beaver Creek,Giant Slalom,8
+30-11-2013,Beaver Creek,Super G,26
+29-11-2013,Beaver Creek,Downhill,28
+26-10-2013,Soelden,Giant Slalom,DNQ1
+20-01-2013,Cortina d'Ampezzo,Super G,26
+19-01-2013,Cortina d'Ampezzo,Downhill,33
+13-01-2013,St. Anton,Super G,33
+12-01-2013,St. Anton,Downhill,51
+09-12-2012,St. Moritz,Giant Slalom,DNQ1
+08-12-2012,St. Moritz,Super G,19
+07-12-2012,St. Moritz,Super Combined,16
+18-03-2012,Schladming,Giant Slalom,25
+18-02-2012,Sochi,Downhill,DNS1
+15-01-2012,Cortina d'Ampezzo,Super G,37
+14-01-2012,Cortina d'Ampezzo,Downhill,DNF1
+08-01-2012,Bad Kleinkirchheim,Super G,45
+07-01-2012,Bad Kleinkirchheim,Downhill,41
+03-01-2012,Zagreb,Slalom,DNF1

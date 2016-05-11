@@ -1,25 +1,25 @@
-datum,kraj,disciplina,mesto,zaostanek
-12-03-2016,Lenzerheide,Super G,25,28.26
-07-03-2016,Jasna,Giant Slalom,16,12.69
-27-02-2016,Soldeu- El Tarter,Super G,27,40.31
-21-02-2016,La Thuile,Super G,DNF1,
-07-02-2016,Garmisch Partenkirchen,Super G,18,27.10
-30-01-2016,Maribor,Giant Slalom,DNQ1,
-17-01-2016,Flachau,Giant Slalom,DNQ1,
-10-01-2016,Altenmarkt-Zauchensee,Super G,DNF1,
-28-12-2015,Lienz,Giant Slalom,21,20.77
-20-12-2015,Courchevel,Giant Slalom,DNQ1,
-12-12-2015,Are,Giant Slalom,25,24.28
-27-11-2015,"Aspen, CO",Giant Slalom,DNF1,
-24-10-2015,Soelden,Giant Slalom,DNQ1,
-13-03-2015,Are,Giant Slalom,25,19.44
-21-02-2015,Maribor,Giant Slalom,DNQ1,
-28-12-2014,Kuehtai in Tirol,Giant Slalom,DNF1,
-12-12-2014,Are,Giant Slalom,DNQ1,
-29-11-2014,Aspen,Giant Slalom,DNQ1,
-25-10-2014,Soelden,Giant Slalom,DNF1,
-09-03-2013,Ofterschwang,Giant Slalom,DNQ1,
-28-12-2012,Semmering,Giant Slalom,DNQ1,
-16-12-2012,Courchevel,Giant Slalom,DNQ1,
-09-12-2012,St. Moritz,Giant Slalom,DNQ1,
-27-10-2012,Soelden,Giant Slalom,DNF1,
+datum,kraj,disciplina,mesto
+12-03-2016,Lenzerheide,Super G,25
+07-03-2016,Jasna,Giant Slalom,16
+27-02-2016,Soldeu- El Tarter,Super G,27
+21-02-2016,La Thuile,Super G,DNF1
+07-02-2016,Garmisch Partenkirchen,Super G,18
+30-01-2016,Maribor,Giant Slalom,DNQ1
+17-01-2016,Flachau,Giant Slalom,DNQ1
+10-01-2016,Altenmarkt-Zauchensee,Super G,DNF1
+28-12-2015,Lienz,Giant Slalom,21
+20-12-2015,Courchevel,Giant Slalom,DNQ1
+12-12-2015,Are,Giant Slalom,25
+27-11-2015,"Aspen, CO",Giant Slalom,DNF1
+24-10-2015,Soelden,Giant Slalom,DNQ1
+13-03-2015,Are,Giant Slalom,25
+21-02-2015,Maribor,Giant Slalom,DNQ1
+28-12-2014,Kuehtai in Tirol,Giant Slalom,DNF1
+12-12-2014,Are,Giant Slalom,DNQ1
+29-11-2014,Aspen,Giant Slalom,DNQ1
+25-10-2014,Soelden,Giant Slalom,DNF1
+09-03-2013,Ofterschwang,Giant Slalom,DNQ1
+28-12-2012,Semmering,Giant Slalom,DNQ1
+16-12-2012,Courchevel,Giant Slalom,DNQ1
+09-12-2012,St. Moritz,Giant Slalom,DNQ1
+27-10-2012,Soelden,Giant Slalom,DNF1

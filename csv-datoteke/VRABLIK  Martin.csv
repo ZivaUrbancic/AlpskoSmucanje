@@ -1,62 +1,62 @@
-datum,kraj,disciplina,mesto,zaostanek
-23-01-2015,Kitzbuehel,Alpine combined,24,45.67
-23-01-2015,Kitzbuehel,Super G,51,82.09
-16-01-2015,Wengen,Alpine combined,31,57.61
-26-10-2014,Soelden,Giant Slalom,DNF1,
-26-01-2014,Kitzbuehel,Super G,81,58.33
-26-01-2014,Kitzbuehel,Super Combined,DNF2,
-17-01-2014,Wengen,Super Combined,23,30.46
-20-01-2013,Wengen,Slalom,DNF1,
-18-01-2013,Wengen,Super Combined,DNF2,
-09-12-2012,Val d'Isere,Giant Slalom,DNF1,
-08-12-2012,Val d'Isere,Slalom,DNF1,
-28-10-2012,Soelden,Giant Slalom,DNF1,
-12-02-2012,Sochi,Super Combined,23,56.43
-05-02-2012,Chamonix,Super Combined,DNF1,
-24-01-2012,Schladming,Slalom,DNF1,
-22-01-2012,Kitzbuehel,Slalom,DNF1,
-15-01-2012,Wengen,Slalom,DNQ1,
-13-01-2012,Wengen,Super Combined,31,52.33
-08-01-2012,Adelboden,Slalom,DNF1,
-05-01-2012,Zagreb,Slalom,DNF1,
-21-12-2011,Flachau,Slalom,DNQ1,
-19-12-2011,Alta Badia,Slalom,DNQ1,
-30-01-2011,Chamonix,Super Combined,34,59.59
-25-01-2011,Schladming,Slalom,DNQ1,
-23-01-2011,Kitzbuehel,Slalom,DNQ1,
-16-01-2011,Wengen,Slalom,DNF1,
-14-01-2011,Wengen,Super Combined,29,81.77
-09-01-2011,Adelboden,Slalom,DNF1,
-08-01-2011,Adelboden,Giant Slalom,DNF1,
-06-01-2011,Zagreb,Slalom,DNF1,
-12-12-2010,Val d'Isere,Slalom,DNQ1,
-14-11-2010,Levi,Slalom,DNF1,
-31-01-2010,Kranjska Gora,Slalom,DNF1,
-30-01-2010,Kranjska Gora,Giant Slalom,DNF1,
-26-01-2010,Schladming,Slalom,DNQ1,
-24-01-2010,Kitzbuehel,Slalom,DNF1,
-25-01-2009,Kitzbuehel,Slalom,DNF1,
-23-01-2009,Kitzbuehel,Super G,45,82.00
-18-01-2009,Wengen,Slalom,DNF1,
-16-01-2009,Wengen,Super Combined,40,60.25
-11-01-2009,Adelboden,Slalom,DNQ1,
-10-01-2009,Adelboden,Giant Slalom,DNF1,
-22-12-2008,Alta Badia,Slalom,DNQ1,
-21-12-2008,Alta Badia,Giant Slalom,DNQ1,
-12-12-2008,Val d'Isere,Super Combined,23,80.39
-16-11-2008,Levi,Slalom,DNQ1,
-09-03-2008,Kranjska Gora,Slalom,DNQ2,
-17-02-2008,Zagreb-Sljeme,Slalom,DNF1,
-09-02-2008,Garmisch,Slalom,DNF1,
-22-01-2008,Schladming,Slalom,DSQ1,
-20-01-2008,Kitzbuehel,Slalom,DNQ2,
-17-12-2007,La Villa - Alta Badia,Slalom,DNF1,
-09-03-2007,Kvitfjell,Super Combined,30,54.45
-04-03-2007,Kranjska Gora,Slalom,DNQ2,
-25-02-2007,Garmisch-Partenkirchen,Slalom,DNQ1,
-18-12-2006,Alta Badia,Slalom,DNF1,
-15-01-2006,Wengen,Slalom,DNQ1,
-08-01-2006,Adelboden,Slalom,DSQ1,
-25-01-2004,Kitzbuehel,Slalom,DNF1,
-23-01-2004,Kitzbuehel,Super G,50,45.41
-18-01-2004,Wengen,Slalom,DNF1,
+datum,kraj,disciplina,mesto
+23-01-2015,Kitzbuehel,Alpine combined,24
+23-01-2015,Kitzbuehel,Super G,51
+16-01-2015,Wengen,Alpine combined,31
+26-10-2014,Soelden,Giant Slalom,DNF1
+26-01-2014,Kitzbuehel,Super G,81
+26-01-2014,Kitzbuehel,Super Combined,DNF2
+17-01-2014,Wengen,Super Combined,23
+20-01-2013,Wengen,Slalom,DNF1
+18-01-2013,Wengen,Super Combined,DNF2
+09-12-2012,Val d'Isere,Giant Slalom,DNF1
+08-12-2012,Val d'Isere,Slalom,DNF1
+28-10-2012,Soelden,Giant Slalom,DNF1
+12-02-2012,Sochi,Super Combined,23
+05-02-2012,Chamonix,Super Combined,DNF1
+24-01-2012,Schladming,Slalom,DNF1
+22-01-2012,Kitzbuehel,Slalom,DNF1
+15-01-2012,Wengen,Slalom,DNQ1
+13-01-2012,Wengen,Super Combined,31
+08-01-2012,Adelboden,Slalom,DNF1
+05-01-2012,Zagreb,Slalom,DNF1
+21-12-2011,Flachau,Slalom,DNQ1
+19-12-2011,Alta Badia,Slalom,DNQ1
+30-01-2011,Chamonix,Super Combined,34
+25-01-2011,Schladming,Slalom,DNQ1
+23-01-2011,Kitzbuehel,Slalom,DNQ1
+16-01-2011,Wengen,Slalom,DNF1
+14-01-2011,Wengen,Super Combined,29
+09-01-2011,Adelboden,Slalom,DNF1
+08-01-2011,Adelboden,Giant Slalom,DNF1
+06-01-2011,Zagreb,Slalom,DNF1
+12-12-2010,Val d'Isere,Slalom,DNQ1
+14-11-2010,Levi,Slalom,DNF1
+31-01-2010,Kranjska Gora,Slalom,DNF1
+30-01-2010,Kranjska Gora,Giant Slalom,DNF1
+26-01-2010,Schladming,Slalom,DNQ1
+24-01-2010,Kitzbuehel,Slalom,DNF1
+25-01-2009,Kitzbuehel,Slalom,DNF1
+23-01-2009,Kitzbuehel,Super G,45
+18-01-2009,Wengen,Slalom,DNF1
+16-01-2009,Wengen,Super Combined,40
+11-01-2009,Adelboden,Slalom,DNQ1
+10-01-2009,Adelboden,Giant Slalom,DNF1
+22-12-2008,Alta Badia,Slalom,DNQ1
+21-12-2008,Alta Badia,Giant Slalom,DNQ1
+12-12-2008,Val d'Isere,Super Combined,23
+16-11-2008,Levi,Slalom,DNQ1
+09-03-2008,Kranjska Gora,Slalom,DNQ2
+17-02-2008,Zagreb-Sljeme,Slalom,DNF1
+09-02-2008,Garmisch,Slalom,DNF1
+22-01-2008,Schladming,Slalom,DSQ1
+20-01-2008,Kitzbuehel,Slalom,DNQ2
+17-12-2007,La Villa - Alta Badia,Slalom,DNF1
+09-03-2007,Kvitfjell,Super Combined,30
+04-03-2007,Kranjska Gora,Slalom,DNQ2
+25-02-2007,Garmisch-Partenkirchen,Slalom,DNQ1
+18-12-2006,Alta Badia,Slalom,DNF1
+15-01-2006,Wengen,Slalom,DNQ1
+08-01-2006,Adelboden,Slalom,DSQ1
+25-01-2004,Kitzbuehel,Slalom,DNF1
+23-01-2004,Kitzbuehel,Super G,50
+18-01-2004,Wengen,Slalom,DNF1
